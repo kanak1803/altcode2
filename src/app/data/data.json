@@ -1,0 +1,1973 @@
+{
+  "Emoji and Fun Characters": [
+    {
+      "symbol": "☺",
+      "unicode": "U+263A",
+      "alt_code": "1",
+      "html_code": "&#9786;",
+      "css_code": "\\263A"
+    },
+    {
+      "symbol": "☻",
+      "unicode": "U+263B",
+      "alt_code": "2",
+      "html_code": "&#9787;",
+      "css_code": "\\263B"
+    },
+    {
+      "symbol": "♥",
+      "unicode": "U+2665",
+      "alt_code": "3",
+      "html_code": "&#9829;",
+      "css_code": "\\2665"
+    },
+    {
+      "symbol": "♦",
+      "unicode": "U+2666",
+      "alt_code": "4",
+      "html_code": "&#9830;",
+      "css_code": "\\2666"
+    },
+    {
+      "symbol": "♣",
+      "unicode": "U+2663",
+      "alt_code": "5",
+      "html_code": "&#9827;",
+      "css_code": "\\2663"
+    },
+    {
+      "symbol": "♠",
+      "unicode": "U+2660",
+      "alt_code": "6",
+      "html_code": "&#9824;",
+      "css_code": "\\2660"
+    },
+    {
+      "symbol": "•",
+      "unicode": "U+2022",
+      "alt_code": "7",
+      "html_code": "&#8226;",
+      "css_code": "\\2022"
+    },
+    {
+      "symbol": "◘",
+      "unicode": "U+25D8",
+      "alt_code": "8",
+      "html_code": "&#9688;",
+      "css_code": "\\25D8"
+    },
+    {
+      "symbol": "○",
+      "unicode": "U+25CB",
+      "alt_code": "9",
+      "html_code": "&#9675;",
+      "css_code": "\\25CB"
+    },
+    {
+      "symbol": "◙",
+      "unicode": "U+25D9",
+      "alt_code": "10",
+      "html_code": "&#9689;",
+      "css_code": "\\25D9"
+    },
+    {
+      "symbol": "♂",
+      "unicode": "U+2642",
+      "alt_code": "11",
+      "html_code": "&#9800;",
+      "css_code": "\\2642"
+    },
+    {
+      "symbol": "♀",
+      "unicode": "U+2640",
+      "alt_code": "12",
+      "html_code": "&#9792;",
+      "css_code": "\\2640"
+    },
+    {
+      "symbol": "♪",
+      "unicode": "U+266A",
+      "alt_code": "13",
+      "html_code": "&#9834;",
+      "css_code": "\\266A"
+    },
+    {
+      "symbol": "♫",
+      "unicode": "U+266B",
+      "alt_code": "14",
+      "html_code": "&#9835;",
+      "css_code": "\\266B"
+    },
+    {
+      "symbol": "☼",
+      "unicode": "U+263C",
+      "alt_code": "15",
+      "html_code": "&#9788;",
+      "css_code": "\\263C"
+    },
+    {
+      "symbol": "►",
+      "unicode": "U+25B6",
+      "alt_code": "16",
+      "html_code": "&#9654;",
+      "css_code": "\\25B6"
+    },
+    {
+      "symbol": "◄",
+      "unicode": "U+25C0",
+      "alt_code": "17",
+      "html_code": "&#9664;",
+      "css_code": "\\25C0"
+    },
+    {
+      "symbol": "↕",
+      "unicode": "U+2195",
+      "alt_code": "18",
+      "html_code": "&#8597;",
+      "css_code": "\\2195"
+    },
+    {
+      "symbol": "‼",
+      "unicode": "U+203C",
+      "alt_code": "19",
+      "html_code": "&#8252;",
+      "css_code": "\\203C"
+    },
+    {
+      "symbol": "¶",
+      "unicode": "U+00B6",
+      "alt_code": "20",
+      "html_code": "&#182;",
+      "css_code": "\\00B6"
+    },
+    {
+      "symbol": "§",
+      "unicode": "U+00A7",
+      "alt_code": "21",
+      "html_code": "&#167;",
+      "css_code": "\\00A7"
+    },
+    {
+      "symbol": "▬",
+      "unicode": "U+25AC",
+      "alt_code": "22",
+      "html_code": "&#9642;",
+      "css_code": "\\25AC"
+    },
+    {
+      "symbol": "↨",
+      "unicode": "U+21A8",
+      "alt_code": "23",
+      "html_code": "&#8592;",
+      "css_code": "\\21A8"
+    },
+    {
+      "symbol": "↑",
+      "unicode": "U+2191",
+      "alt_code": "24",
+      "html_code": "&#8593;",
+      "css_code": "\\2191"
+    },
+    {
+      "symbol": "↓",
+      "unicode": "U+2193",
+      "alt_code": "25",
+      "html_code": "&#8595;",
+      "css_code": "\\2193"
+    },
+    {
+      "symbol": "→",
+      "unicode": "U+2192",
+      "alt_code": "26",
+      "html_code": "&#8594;",
+      "css_code": "\\2192"
+    },
+    {
+      "symbol": "←",
+      "unicode": "U+2190",
+      "alt_code": "27",
+      "html_code": "&#8592;",
+      "css_code": "\\2190"
+    },
+    {
+      "symbol": "∟",
+      "unicode": "U+221F",
+      "alt_code": "28",
+      "html_code": "&#8735;",
+      "css_code": "\\221F"
+    },
+    {
+      "symbol": "↔",
+      "unicode": "U+2194",
+      "alt_code": "29",
+      "html_code": "&#8596;",
+      "css_code": "\\2194"
+    },
+    {
+      "symbol": "▲",
+      "unicode": "U+25B2",
+      "alt_code": "30",
+      "html_code": "&#9650;",
+      "css_code": "\\25B2"
+    },
+    {
+      "symbol": "▼",
+      "unicode": "U+25BC",
+      "alt_code": "31",
+      "html_code": "&#9660;",
+      "css_code": "\\25BC"
+    }
+  ],
+  "Uppercase Letters, Lowercase Letters, Numbers, and Keyboard Symbols": [
+    {
+      "symbol": " ",
+      "unicode": "U+0020",
+      "alt_code": "32",
+      "html_code": "&#32;",
+      "css_code": "\\0020"
+    },
+    {
+      "symbol": "!",
+      "unicode": "U+0021",
+      "alt_code": "33",
+      "html_code": "&#33;",
+      "css_code": "\\0021"
+    },
+    {
+      "symbol": "\"",
+      "unicode": "U+0022",
+      "alt_code": "34",
+      "html_code": "&#34;",
+      "css_code": "\\0022"
+    },
+    {
+      "symbol": "#",
+      "unicode": "U+0023",
+      "alt_code": "35",
+      "html_code": "&#35;",
+      "css_code": "\\0023"
+    },
+    {
+      "symbol": "$",
+      "unicode": "U+0024",
+      "alt_code": "36",
+      "html_code": "&#36;",
+      "css_code": "\\0024"
+    },
+    {
+      "symbol": "%",
+      "unicode": "U+0025",
+      "alt_code": "37",
+      "html_code": "&#37;",
+      "css_code": "\\0025"
+    },
+    {
+      "symbol": "&",
+      "unicode": "U+0026",
+      "alt_code": "38",
+      "html_code": "&#38;",
+      "css_code": "\\0026"
+    },
+    {
+      "symbol": "'",
+      "unicode": "U+0027",
+      "alt_code": "39",
+      "html_code": "&#39;",
+      "css_code": "\\0027"
+    },
+    {
+      "symbol": "(",
+      "unicode": "U+0028",
+      "alt_code": "40",
+      "html_code": "&#40;",
+      "css_code": "\\0028"
+    },
+    {
+      "symbol": ")",
+      "unicode": "U+0029",
+      "alt_code": "41",
+      "html_code": "&#41;",
+      "css_code": "\\0029"
+    },
+    {
+      "symbol": "*",
+      "unicode": "U+002A",
+      "alt_code": "42",
+      "html_code": "&#42;",
+      "css_code": "\\002A"
+    },
+    {
+      "symbol": "+",
+      "unicode": "U+002B",
+      "alt_code": "43",
+      "html_code": "&#43;",
+      "css_code": "\\002B"
+    },
+    {
+      "symbol": ",",
+      "unicode": "U+002C",
+      "alt_code": "44",
+      "html_code": "&#44;",
+      "css_code": "\\002C"
+    },
+    {
+      "symbol": "-",
+      "unicode": "U+002D",
+      "alt_code": "45",
+      "html_code": "&#45;",
+      "css_code": "\\002D"
+    },
+    {
+      "symbol": ".",
+      "unicode": "U+002E",
+      "alt_code": "46",
+      "html_code": "&#46;",
+      "css_code": "\\002E"
+    },
+    {
+      "symbol": "/",
+      "unicode": "U+002F",
+      "alt_code": "47",
+      "html_code": "&#47;",
+      "css_code": "\\002F"
+    },
+    {
+      "symbol": "0",
+      "unicode": "U+0030",
+      "alt_code": "48",
+      "html_code": "&#48;",
+      "css_code": "\\0030"
+    },
+    {
+      "symbol": "1",
+      "unicode": "U+0031",
+      "alt_code": "49",
+      "html_code": "&#49;",
+      "css_code": "\\0031"
+    },
+    {
+      "symbol": "2",
+      "unicode": "U+0032",
+      "alt_code": "50",
+      "html_code": "&#50;",
+      "css_code": "\\0032"
+    },
+    {
+      "symbol": "3",
+      "unicode": "U+0033",
+      "alt_code": "51",
+      "html_code": "&#51;",
+      "css_code": "\\0033"
+    },
+    {
+      "symbol": "4",
+      "unicode": "U+0034",
+      "alt_code": "52",
+      "html_code": "&#52;",
+      "css_code": "\\0034"
+    },
+    {
+      "symbol": "5",
+      "unicode": "U+0035",
+      "alt_code": "53",
+      "html_code": "&#53;",
+      "css_code": "\\0035"
+    },
+    {
+      "symbol": "6",
+      "unicode": "U+0036",
+      "alt_code": "54",
+      "html_code": "&#54;",
+      "css_code": "\\0036"
+    },
+    {
+      "symbol": "7",
+      "unicode": "U+0037",
+      "alt_code": "55",
+      "html_code": "&#55;",
+      "css_code": "\\0037"
+    },
+    {
+      "symbol": "8",
+      "unicode": "U+0038",
+      "alt_code": "56",
+      "html_code": "&#56;",
+      "css_code": "\\0038"
+    },
+    {
+      "symbol": "9",
+      "unicode": "U+0039",
+      "alt_code": "57",
+      "html_code": "&#57;",
+      "css_code": "\\0039"
+    },
+    {
+      "symbol": "A",
+      "unicode": "U+0041",
+      "alt_code": "65",
+      "html_code": "&#65;",
+      "css_code": "\\0041"
+    },
+    {
+      "symbol": "B",
+      "unicode": "U+0042",
+      "alt_code": "66",
+      "html_code": "&#66;",
+      "css_code": "\\0042"
+    },
+    {
+      "symbol": "C",
+      "unicode": "U+0043",
+      "alt_code": "67",
+      "html_code": "&#67;",
+      "css_code": "\\0043"
+    },
+    {
+      "symbol": "D",
+      "unicode": "U+0044",
+      "alt_code": "68",
+      "html_code": "&#68;",
+      "css_code": "\\0044"
+    },
+    {
+      "symbol": "E",
+      "unicode": "U+0045",
+      "alt_code": "69",
+      "html_code": "&#69;",
+      "css_code": "\\0045"
+    },
+    {
+      "symbol": "F",
+      "unicode": "U+0046",
+      "alt_code": "70",
+      "html_code": "&#70;",
+      "css_code": "\\0046"
+    },
+    {
+      "symbol": "G",
+      "unicode": "U+0047",
+      "alt_code": "71",
+      "html_code": "&#71;",
+      "css_code": "\\0047"
+    },
+    {
+      "symbol": "H",
+      "unicode": "U+0048",
+      "alt_code": "72",
+      "html_code": "&#72;",
+      "css_code": "\\0048"
+    },
+    {
+      "symbol": "I",
+      "unicode": "U+0049",
+      "alt_code": "73",
+      "html_code": "&#73;",
+      "css_code": "\\0049"
+    },
+    {
+      "symbol": "J",
+      "unicode": "U+004A",
+      "alt_code": "74",
+      "html_code": "&#74;",
+      "css_code": "\\004A"
+    },
+    {
+      "symbol": "K",
+      "unicode": "U+004B",
+      "alt_code": "75",
+      "html_code": "&#75;",
+      "css_code": "\\004B"
+    },
+    {
+      "symbol": "L",
+      "unicode": "U+004C",
+      "alt_code": "76",
+      "html_code": "&#76;",
+      "css_code": "\\004C"
+    },
+    {
+      "symbol": "M",
+      "unicode": "U+004D",
+      "alt_code": "77",
+      "html_code": "&#77;",
+      "css_code": "\\004D"
+    },
+    {
+      "symbol": "N",
+      "unicode": "U+004E",
+      "alt_code": "78",
+      "html_code": "&#78;",
+      "css_code": "\\004E"
+    },
+    {
+      "symbol": "O",
+      "unicode": "U+004F",
+      "alt_code": "79",
+      "html_code": "&#79;",
+      "css_code": "\\004F"
+    },
+    {
+      "symbol": "P",
+      "unicode": "U+0050",
+      "alt_code": "80",
+      "html_code": "&#80;",
+      "css_code": "\\0050"
+    },
+    {
+      "symbol": "Q",
+      "unicode": "U+0051",
+      "alt_code": "81",
+      "html_code": "&#81;",
+      "css_code": "\\0051"
+    },
+    {
+      "symbol": "R",
+      "unicode": "U+0052",
+      "alt_code": "82",
+      "html_code": "&#82;",
+      "css_code": "\\0052"
+    },
+    {
+      "symbol": "S",
+      "unicode": "U+0053",
+      "alt_code": "83",
+      "html_code": "&#83;",
+      "css_code": "\\0053"
+    },
+    {
+      "symbol": "T",
+      "unicode": "U+0054",
+      "alt_code": "84",
+      "html_code": "&#84;",
+      "css_code": "\\0054"
+    },
+    {
+      "symbol": "U",
+      "unicode": "U+0055",
+      "alt_code": "85",
+      "html_code": "&#85;",
+      "css_code": "\\0055"
+    },
+    {
+      "symbol": "V",
+      "unicode": "U+0056",
+      "alt_code": "86",
+      "html_code": "&#86;",
+      "css_code": "\\0056"
+    },
+    {
+      "symbol": "W",
+      "unicode": "U+0057",
+      "alt_code": "87",
+      "html_code": "&#87;",
+      "css_code": "\\0057"
+    },
+    {
+      "symbol": "X",
+      "unicode": "U+0058",
+      "alt_code": "88",
+      "html_code": "&#88;",
+      "css_code": "\\0058"
+    },
+    {
+      "symbol": "Y",
+      "unicode": "U+0059",
+      "alt_code": "89",
+      "html_code": "&#89;",
+      "css_code": "\\0059"
+    },
+    {
+      "symbol": "Z",
+      "unicode": "U+005A",
+      "alt_code": "90",
+      "html_code": "&#90;",
+      "css_code": "\\005A"
+    },
+    {
+      "symbol": "[",
+      "unicode": "U+005B",
+      "alt_code": "91",
+      "html_code": "&#91;",
+      "css_code": "\\005B"
+    },
+    {
+      "symbol": "\\",
+      "unicode": "U+005C",
+      "alt_code": "92",
+      "html_code": "&#92;",
+      "css_code": "\\005C"
+    },
+    {
+      "symbol": "]",
+      "unicode": "U+005D",
+      "alt_code": "93",
+      "html_code": "&#93;",
+      "css_code": "\\005D"
+    },
+    {
+      "symbol": "^",
+      "unicode": "U+005E",
+      "alt_code": "94",
+      "html_code": "&#94;",
+      "css_code": "\\005E"
+    },
+    {
+      "symbol": "_",
+      "unicode": "U+005F",
+      "alt_code": "95",
+      "html_code": "&#95;",
+      "css_code": "\\005F"
+    },
+    {
+      "symbol": "`",
+      "unicode": "U+0060",
+      "alt_code": "96",
+      "html_code": "&#96;",
+      "css_code": "\\0060"
+    },
+    {
+      "symbol": "a",
+      "unicode": "U+0061",
+      "alt_code": "97",
+      "html_code": "&#97;",
+      "css_code": "\\0061"
+    },
+    {
+      "symbol": "b",
+      "unicode": "U+0062",
+      "alt_code": "98",
+      "html_code": "&#98;",
+      "css_code": "\\0062"
+    },
+    {
+      "symbol": "c",
+      "unicode": "U+0063",
+      "alt_code": "99",
+      "html_code": "&#99;",
+      "css_code": "\\0063"
+    },
+    {
+      "symbol": "d",
+      "unicode": "U+0064",
+      "alt_code": "100",
+      "html_code": "&#100;",
+      "css_code": "\\0064"
+    },
+    {
+      "symbol": "e",
+      "unicode": "U+0065",
+      "alt_code": "101",
+      "html_code": "&#101;",
+      "css_code": "\\0065"
+    },
+    {
+      "symbol": "f",
+      "unicode": "U+0066",
+      "alt_code": "102",
+      "html_code": "&#102;",
+      "css_code": "\\0066"
+    },
+    {
+      "symbol": "g",
+      "unicode": "U+0067",
+      "alt_code": "103",
+      "html_code": "&#103;",
+      "css_code": "\\0067"
+    },
+    {
+      "symbol": "h",
+      "unicode": "U+0068",
+      "alt_code": "104",
+      "html_code": "&#104;",
+      "css_code": "\\0068"
+    },
+    {
+      "symbol": "i",
+      "unicode": "U+0069",
+      "alt_code": "105",
+      "html_code": "&#105;",
+      "css_code": "\\0069"
+    },
+    {
+      "symbol": "j",
+      "unicode": "U+006A",
+      "alt_code": "106",
+      "html_code": "&#106;",
+      "css_code": "\\006A"
+    },
+    {
+      "symbol": "k",
+      "unicode": "U+006B",
+      "alt_code": "107",
+      "html_code": "&#107;",
+      "css_code": "\\006B"
+    },
+    {
+      "symbol": "l",
+      "unicode": "U+006C",
+      "alt_code": "108",
+      "html_code": "&#108;",
+      "css_code": "\\006C"
+    },
+    {
+      "symbol": "m",
+      "unicode": "U+006D",
+      "alt_code": "109",
+      "html_code": "&#109;",
+      "css_code": "\\006D"
+    },
+    {
+      "symbol": "n",
+      "unicode": "U+006E",
+      "alt_code": "110",
+      "html_code": "&#110;",
+      "css_code": "\\006E"
+    },
+    {
+      "symbol": "o",
+      "unicode": "U+006F",
+      "alt_code": "111",
+      "html_code": "&#111;",
+      "css_code": "\\006F"
+    },
+    {
+      "symbol": "p",
+      "unicode": "U+0070",
+      "alt_code": "112",
+      "html_code": "&#112;",
+      "css_code": "\\0070"
+    },
+    {
+      "symbol": "q",
+      "unicode": "U+0071",
+      "alt_code": "113",
+      "html_code": "&#113;",
+      "css_code": "\\0071"
+    },
+    {
+      "symbol": "r",
+      "unicode": "U+0072",
+      "alt_code": "114",
+      "html_code": "&#114;",
+      "css_code": "\\0072"
+    },
+    {
+      "symbol": "s",
+      "unicode": "U+0073",
+      "alt_code": "115",
+      "html_code": "&#115;",
+      "css_code": "\\0073"
+    },
+    {
+      "symbol": "t",
+      "unicode": "U+0074",
+      "alt_code": "116",
+      "html_code": "&#116;",
+      "css_code": "\\0074"
+    },
+    {
+      "symbol": "u",
+      "unicode": "U+0075",
+      "alt_code": "117",
+      "html_code": "&#117;",
+      "css_code": "\\0075"
+    },
+    {
+      "symbol": "v",
+      "unicode": "U+0076",
+      "alt_code": "118",
+      "html_code": "&#118;",
+      "css_code": "\\0076"
+    },
+    {
+      "symbol": "w",
+      "unicode": "U+0077",
+      "alt_code": "119",
+      "html_code": "&#119;",
+      "css_code": "\\0077"
+    },
+    {
+      "symbol": "x",
+      "unicode": "U+0078",
+      "alt_code": "120",
+      "html_code": "&#120;",
+      "css_code": "\\0078"
+    },
+    {
+      "symbol": "y",
+      "unicode": "U+0079",
+      "alt_code": "121",
+      "html_code": "&#121;",
+      "css_code": "\\0079"
+    },
+    {
+      "symbol": "z",
+      "unicode": "U+007A",
+      "alt_code": "122",
+      "html_code": "&#122;",
+      "css_code": "\\007A"
+    },
+    
+    {
+      "symbol": "{",
+      "unicode": "U+007B",
+      "alt_code": "123",
+      "html_code": "&#123;",
+      "css_code": "\\007B"
+    },
+    {
+      "symbol": "|",
+      "unicode": "U+007C",
+      "alt_code": "124",
+      "html_code": "&#124;",
+      "css_code": "\\007C"
+    },
+    {
+      "symbol": "}",
+      "unicode": "U+007D",
+      "alt_code": "125",
+      "html_code": "&#125;",
+      "css_code": "\\007D"
+    },
+    {
+      "symbol": "~",
+      "unicode": "U+007E",
+      "alt_code": "126",
+      "html_code": "&#126;",
+      "css_code": "\\007E"
+    }
+  ],
+  "Currencies": [
+    {
+      "symbol": "⌂",
+      "unicode": "U+2318",
+      "alt_code": "127",
+      "html_code": "&#127;",
+      "css_code": "\\2318"
+    },
+    {
+      "symbol": "Ç",
+      "unicode": "U+00C7",
+      "alt_code": "128",
+      "html_code": "&#128;",
+      "css_code": "\\00C7"
+    },
+    {
+      "symbol": "ü",
+      "unicode": "U+00FC",
+      "alt_code": "129",
+      "html_code": "&#129;",
+      "css_code": "\\00FC"
+    },
+    {
+      "symbol": "é",
+      "unicode": "U+00E9",
+      "alt_code": "130",
+      "html_code": "&#130;",
+      "css_code": "\\00E9"
+    },
+    {
+      "symbol": "â",
+      "unicode": "U+00E2",
+      "alt_code": "131",
+      "html_code": "&#131;",
+      "css_code": "\\00E2"
+    },
+    {
+      "symbol": "ä",
+      "unicode": "U+00E4",
+      "alt_code": "132",
+      "html_code": "&#132;",
+      "css_code": "\\00E4"
+    },
+    {
+      "symbol": "à",
+      "unicode": "U+00E0",
+      "alt_code": "133",
+      "html_code": "&#133;",
+      "css_code": "\\00E0"
+    },
+    {
+      "symbol": "å",
+      "unicode": "U+00E5",
+      "alt_code": "134",
+      "html_code": "&#134;",
+      "css_code": "\\00E5"
+    },
+    {
+      "symbol": "ç",
+      "unicode": "U+00E7",
+      "alt_code": "135",
+      "html_code": "&#135;",
+      "css_code": "\\00E7"
+    },
+    {
+      "symbol": "ê",
+      "unicode": "U+00EA",
+      "alt_code": "136",
+      "html_code": "&#136;",
+      "css_code": "\\00EA"
+    },
+    {
+      "symbol": "ë",
+      "unicode": "U+00EB",
+      "alt_code": "137",
+      "html_code": "&#137;",
+      "css_code": "\\00EB"
+    },
+    {
+      "symbol": "è",
+      "unicode": "U+00E8",
+      "alt_code": "138",
+      "html_code": "&#138;",
+      "css_code": "\\00E8"
+    },
+    {
+      "symbol": "ï",
+      "unicode": "U+00EF",
+      "alt_code": "139",
+      "html_code": "&#139;",
+      "css_code": "\\00EF"
+    },
+    {
+      "symbol": "î",
+      "unicode": "U+00EE",
+      "alt_code": "140",
+      "html_code": "&#140;",
+      "css_code": "\\00EE"
+    },
+    {
+      "symbol": "ì",
+      "unicode": "U+00EC",
+      "alt_code": "141",
+      "html_code": "&#141;",
+      "css_code": "\\00EC"
+    },
+    {
+      "symbol": "Ä",
+      "unicode": "U+00C4",
+      "alt_code": "142",
+      "html_code": "&#142;",
+      "css_code": "\\00C4"
+    },
+    {
+      "symbol": "Å",
+      "unicode": "U+00C5",
+      "alt_code": "143",
+      "html_code": "&#143;",
+      "css_code": "\\00C5"
+    },
+    {
+      "symbol": "É",
+      "unicode": "U+00C9",
+      "alt_code": "144",
+      "html_code": "&#144;",
+      "css_code": "\\00C9"
+    },
+    {
+      "symbol": "æ",
+      "unicode": "U+00E6",
+      "alt_code": "145",
+      "html_code": "&#145;",
+      "css_code": "\\00E6"
+    },
+    {
+      "symbol": "Æ",
+      "unicode": "U+00C6",
+      "alt_code": "146",
+      "html_code": "&#146;",
+      "css_code": "\\00C6"
+    },
+    {
+      "symbol": "ô",
+      "unicode": "U+00F4",
+      "alt_code": "147",
+      "html_code": "&#147;",
+      "css_code": "\\00F4"
+    },
+    {
+      "symbol": "ö",
+      "unicode": "U+00F6",
+      "alt_code": "148",
+      "html_code": "&#148;",
+      "css_code": "\\00F6"
+    },
+    {
+      "symbol": "ò",
+      "unicode": "U+00F2",
+      "alt_code": "149",
+      "html_code": "&#149;",
+      "css_code": "\\00F2"
+    },
+    {
+      "symbol": "û",
+      "unicode": "U+00FB",
+      "alt_code": "150",
+      "html_code": "&#150;",
+      "css_code": "\\00FB"
+    },
+    {
+      "symbol": "ù",
+      "unicode": "U+00F9",
+      "alt_code": "151",
+      "html_code": "&#151;",
+      "css_code": "\\00F9"
+    },
+    {
+      "symbol": "ÿ",
+      "unicode": "U+00FF",
+      "alt_code": "152",
+      "html_code": "&#152;",
+      "css_code": "\\00FF"
+    },
+    {
+      "symbol": "Ö",
+      "unicode": "U+00D6",
+      "alt_code": "153",
+      "html_code": "&#153;",
+      "css_code": "\\00D6"
+    },
+    {
+      "symbol": "Ü",
+      "unicode": "U+00DC",
+      "alt_code": "154",
+      "html_code": "&#154;",
+      "css_code": "\\00DC"
+    },
+    {
+      "symbol": "¢",
+      "unicode": "U+00A2",
+      "alt_code": "155",
+      "html_code": "&#155;",
+      "css_code": "\\00A2"
+    },
+    {
+      "symbol": "£",
+      "unicode": "U+00A3",
+      "alt_code": "156",
+      "html_code": "&#156;",
+      "css_code": "\\00A3"
+    },
+    {
+      "symbol": "¥",
+      "unicode": "U+00A5",
+      "alt_code": "157",
+      "html_code": "&#157;",
+      "css_code": "\\00A5"
+    },
+    {
+      "symbol": "₧",
+      "unicode": "U+20A7",
+      "alt_code": "158",
+      "html_code": "&#158;",
+      "css_code": "\\20A7"
+    },
+    {
+      "symbol": "ƒ",
+      "unicode": "U+0192",
+      "alt_code": "159",
+      "html_code": "&#159;",
+      "css_code": "\\0192"
+    },
+    {
+      "symbol": "ñ",
+      "unicode": "U+00F1",
+      "alt_code": "164",
+      "html_code": "&#164;",
+      "css_code": "\\00F1"
+    },
+    {
+      "symbol": "Ñ",
+      "unicode": "U+00D1",
+      "alt_code": "165",
+      "html_code": "&#165;",
+      "css_code": "\\00D1"
+    },
+    {
+      "symbol": "ª",
+      "unicode": "U+00AA",
+      "alt_code": "166",
+      "html_code": "&#166;",
+      "css_code": "\\00AA"
+    },
+    {
+      "symbol": "º",
+      "unicode": "U+00BA",
+      "alt_code": "167",
+      "html_code": "&#167;",
+      "css_code": "\\00BA"
+    },
+    {
+      "symbol": "¿",
+      "unicode": "U+00BF",
+      "alt_code": "168",
+      "html_code": "&#168;",
+      "css_code": "\\00BF"
+    },
+    {
+      "symbol": "®",
+      "unicode": "U+00AE",
+      "alt_code": "169",
+      "html_code": "&#169;",
+      "css_code": "\\00AE"
+    },
+    {
+      "symbol": "¬",
+      "unicode": "U+00AC",
+      "alt_code": "170",
+      "html_code": "&#170;",
+      "css_code": "\\00AC"
+    },
+    {
+      "symbol": "½",
+      "unicode": "U+00BD",
+      "alt_code": "171",
+      "html_code": "&#171;",
+      "css_code": "\\00BD"
+    },
+    {
+      "symbol": "¼",
+      "unicode": "U+00BC",
+      "alt_code": "172",
+      "html_code": "&#172;",
+      "css_code": "\\00BC"
+    },
+    {
+      "symbol": "¡",
+      "unicode": "U+00A1",
+      "alt_code": "173",
+      "html_code": "&#173;",
+      "css_code": "\\00A1"
+    },
+    {
+      "symbol": "«",
+      "unicode": "U+00AB",
+      "alt_code": "174",
+      "html_code": "&#174;",
+      "css_code": "\\00AB"
+    },
+    {
+      "symbol": "»",
+      "unicode": "U+00BB",
+      "alt_code": "175",
+      "html_code": "&#175;",
+      "css_code": "\\00BB"
+    }
+  ],
+  "ASCII Symbols": [
+    {
+      "symbol": "░",
+      "unicode": "U+2591",
+      "alt_code": "176",
+      "html_code": "&#176;",
+      "css_code": "\\2591"
+    },
+    {
+      "symbol": "▒",
+      "unicode": "U+2592",
+      "alt_code": "177",
+      "html_code": "&#177;",
+      "css_code": "\\2592"
+    },
+    {
+      "symbol": "▓",
+      "unicode": "U+2593",
+      "alt_code": "178",
+      "html_code": "&#178;",
+      "css_code": "\\2593"
+    },
+    {
+      "symbol": "│",
+      "unicode": "U+2502",
+      "alt_code": "179",
+      "html_code": "&#179;",
+      "css_code": "\\2502"
+    },
+    {
+      "symbol": "┤",
+      "unicode": "U+2524",
+      "alt_code": "180",
+      "html_code": "&#180;",
+      "css_code": "\\2524"
+    },
+    {
+      "symbol": "╡",
+      "unicode": "U+2561",
+      "alt_code": "181",
+      "html_code": "&#181;",
+      "css_code": "\\2561"
+    },
+    {
+      "symbol": "╢",
+      "unicode": "U+2562",
+      "alt_code": "182",
+      "html_code": "&#182;",
+      "css_code": "\\2562"
+    },
+    {
+      "symbol": "╖",
+      "unicode": "U+2566",
+      "alt_code": "183",
+      "html_code": "&#183;",
+      "css_code": "\\2566"
+    },
+    {
+      "symbol": "╕",
+      "unicode": "U+2565",
+      "alt_code": "184",
+      "html_code": "&#184;",
+      "css_code": "\\2565"
+    },
+    {
+      "symbol": "╣",
+      "unicode": "U+2563",
+      "alt_code": "185",
+      "html_code": "&#185;",
+      "css_code": "\\2563"
+    },
+    {
+      "symbol": "║",
+      "unicode": "U+2551",
+      "alt_code": "186",
+      "html_code": "&#186;",
+      "css_code": "\\2551"
+    },
+    {
+      "symbol": "╗",
+      "unicode": "U+2557",
+      "alt_code": "187",
+      "html_code": "&#187;",
+      "css_code": "\\2557"
+    },
+    {
+      "symbol": "╝",
+      "unicode": "U+255D",
+      "alt_code": "188",
+      "html_code": "&#188;",
+      "css_code": "\\255D"
+    },
+    {
+      "symbol": "╜",
+      "unicode": "U+255C",
+      "alt_code": "189",
+      "html_code": "&#189;",
+      "css_code": "\\255C"
+    },
+    {
+      "symbol": "╛",
+      "unicode": "U+255B",
+      "alt_code": "190",
+      "html_code": "&#190;",
+      "css_code": "\\255B"
+    },
+    {
+      "symbol": "┐",
+      "unicode": "U+2510",
+      "alt_code": "191",
+      "html_code": "&#191;",
+      "css_code": "\\2510"
+    },
+    {
+      "symbol": "└",
+      "unicode": "U+2514",
+      "alt_code": "192",
+      "html_code": "&#192;",
+      "css_code": "\\2514"
+    },
+    {
+      "symbol": "┴",
+      "unicode": "U+2534",
+      "alt_code": "193",
+      "html_code": "&#193;",
+      "css_code": "\\2534"
+    },
+    {
+      "symbol": "┬",
+      "unicode": "U+252C",
+      "alt_code": "194",
+      "html_code": "&#194;",
+      "css_code": "\\252C"
+    },
+    {
+      "symbol": "├",
+      "unicode": "U+251C",
+      "alt_code": "195",
+      "html_code": "&#195;",
+      "css_code": "\\251C"
+    },
+    {
+      "symbol": "─",
+      "unicode": "U+2500",
+      "alt_code": "196",
+      "html_code": "&#196;",
+      "css_code": "\\2500"
+    },
+    {
+      "symbol": "┼",
+      "unicode": "U+253C",
+      "alt_code": "197",
+      "html_code": "&#197;",
+      "css_code": "\\253C"
+    },
+    {
+      "symbol": "╞",
+      "unicode": "U+256E",
+      "alt_code": "198",
+      "html_code": "&#198;",
+      "css_code": "\\256E"
+    },
+    {
+      "symbol": "╟",
+      "unicode": "U+256F",
+      "alt_code": "199",
+      "html_code": "&#199;",
+      "css_code": "\\256F"
+    },
+    {
+      "symbol": "╚",
+      "unicode": "U+255A",
+      "alt_code": "200",
+      "html_code": "&#200;",
+      "css_code": "\\255A"
+    },
+    {
+      "symbol": "╔",
+      "unicode": "U+2554",
+      "alt_code": "201",
+      "html_code": "&#201;",
+      "css_code": "\\2554"
+    },
+    {
+      "symbol": "╩",
+      "unicode": "U+2569",
+      "alt_code": "202",
+      "html_code": "&#202;",
+      "css_code": "\\2569"
+    },
+    {
+      "symbol": "╦",
+      "unicode": "U+2566",
+      "alt_code": "203",
+      "html_code": "&#203;",
+      "css_code": "\\2566"
+    },
+    {
+      "symbol": "╠",
+      "unicode": "U+2560",
+      "alt_code": "204",
+      "html_code": "&#204;",
+      "css_code": "\\2560"
+    },
+    {
+      "symbol": "═",
+      "unicode": "U+2550",
+      "alt_code": "205",
+      "html_code": "&#205;",
+      "css_code": "\\2550"
+    },
+    {
+      "symbol": "╬",
+      "unicode": "U+256C",
+      "alt_code": "206",
+      "html_code": "&#206;",
+      "css_code": "\\256C"
+    },
+    {
+      "symbol": "╧",
+      "unicode": "U+2567",
+      "alt_code": "207",
+      "html_code": "&#207;",
+      "css_code": "\\2567"
+    },
+    {
+      "symbol": "╨",
+      "unicode": "U+2568",
+      "alt_code": "208",
+      "html_code": "&#208;",
+      "css_code": "\\2568"
+    },
+    {
+      "symbol": "╤",
+      "unicode": "U+2564",
+      "alt_code": "209",
+      "html_code": "&#209;",
+      "css_code": "\\2564"
+    },
+    {
+      "symbol": "╥",
+      "unicode": "U+2565",
+      "alt_code": "210",
+      "html_code": "&#210;",
+      "css_code": "\\2565"
+    },
+    {
+      "symbol": "╙",
+      "unicode": "U+2559",
+      "alt_code": "211",
+      "html_code": "&#211;",
+      "css_code": "\\2559"
+    },
+    {
+      "symbol": "╘",
+      "unicode": "U+2558",
+      "alt_code": "212",
+      "html_code": "&#212;",
+      "css_code": "\\2558"
+    },
+    {
+      "symbol": "╒",
+      "unicode": "U+2552",
+      "alt_code": "213",
+      "html_code": "&#213;",
+      "css_code": "\\2552"
+    },
+    {
+      "symbol": "╓",
+      "unicode": "U+2553",
+      "alt_code": "214",
+      "html_code": "&#214;",
+      "css_code": "\\2553"
+    },
+    {
+      "symbol": "╫",
+      "unicode": "U+256B",
+      "alt_code": "215",
+      "html_code": "&#215;",
+      "css_code": "\\256B"
+    },
+    {
+      "symbol": "╪",
+      "unicode": "U+256A",
+      "alt_code": "216",
+      "html_code": "&#216;",
+      "css_code": "\\256A"
+    },
+    {
+      "symbol": "┘",
+      "unicode": "U+2518",
+      "alt_code": "217",
+      "html_code": "&#217;",
+      "css_code": "\\2518"
+    },
+    {
+      "symbol": "┌",
+      "unicode": "U+250C",
+      "alt_code": "218",
+      "html_code": "&#218;",
+      "css_code": "\\250C"
+    },
+    {
+      "symbol": "█",
+      "unicode": "U+2588",
+      "alt_code": "219",
+      "html_code": "&#219;",
+      "css_code": "\\2588"
+    },
+    {
+      "symbol": "▄",
+      "unicode": "U+2584",
+      "alt_code": "220",
+      "html_code": "&#220;",
+      "css_code": "\\2584"
+    },
+    {
+      "symbol": "▌",
+      "unicode": "U+258C",
+      "alt_code": "221",
+      "html_code": "&#221;",
+      "css_code": "\\258C"
+    },
+    {
+      "symbol": "▐",
+      "unicode": "U+2590",
+      "alt_code": "222",
+      "html_code": "&#222;",
+      "css_code": "\\2590"
+    },
+    {
+      "symbol": "▀",
+      "unicode": "U+2580",
+      "alt_code": "223",
+      "html_code": "&#223;",
+      "css_code": "\\2580"
+    }
+  ],
+  "Mathematical Symbols and Other Non-English Characters": [
+    {
+      "symbol": "α",
+      "unicode": "U+03B1",
+      "alt_code": "224",
+      "html_code": "&#224;",
+      "css_code": "\\03B1"
+    },
+    {
+      "symbol": "ß",
+      "unicode": "U+00DF",
+      "alt_code": "225",
+      "html_code": "&#225;",
+      "css_code": "\\00DF"
+    },
+    {
+      "symbol": "Γ",
+      "unicode": "U+0393",
+      "alt_code": "226",
+      "html_code": "&#226;",
+      "css_code": "\\0393"
+    },
+    {
+      "symbol": "π",
+      "unicode": "U+03C0",
+      "alt_code": "227",
+      "html_code": "&#227;",
+      "css_code": "\\03C0"
+    },
+    {
+      "symbol": "Σ",
+      "unicode": "U+03A3",
+      "alt_code": "228",
+      "html_code": "&#228;",
+      "css_code": "\\03A3"
+    },
+    {
+      "symbol": "σ",
+      "unicode": "U+03C3",
+      "alt_code": "229",
+      "html_code": "&#229;",
+      "css_code": "\\03C3"
+    },
+    {
+      "symbol": "µ",
+      "unicode": "U+00B5",
+      "alt_code": "230",
+      "html_code": "&#230;",
+      "css_code": "\\00B5"
+    },
+    {
+      "symbol": "τ",
+      "unicode": "U+03C4",
+      "alt_code": "231",
+      "html_code": "&#231;",
+      "css_code": "\\03C4"
+    },
+    {
+      "symbol": "Φ",
+      "unicode": "U+03A6",
+      "alt_code": "232",
+      "html_code": "&#232;",
+      "css_code": "\\03A6"
+    },
+    {
+      "symbol": "Θ",
+      "unicode": "U+0398",
+      "alt_code": "233",
+      "html_code": "&#233;",
+      "css_code": "\\0398"
+    },
+    {
+      "symbol": "Ω",
+      "unicode": "U+03A9",
+      "alt_code": "234",
+      "html_code": "&#234;",
+      "css_code": "\\03A9"
+    },
+    {
+      "symbol": "δ",
+      "unicode": "U+03B4",
+      "alt_code": "235",
+      "html_code": "&#235;",
+      "css_code": "\\03B4"
+    },
+    {
+      "symbol": "∞",
+      "unicode": "U+221E",
+      "alt_code": "236",
+      "html_code": "&#236;",
+      "css_code": "\\221E"
+    },
+    {
+      "symbol": "φ",
+      "unicode": "U+03C6",
+      "alt_code": "237",
+      "html_code": "&#237;",
+      "css_code": "\\03C6"
+    },
+    {
+      "symbol": "ε",
+      "unicode": "U+03B5",
+      "alt_code": "238",
+      "html_code": "&#238;",
+      "css_code": "\\03B5"
+    },
+    {
+      "symbol": "∩",
+      "unicode": "U+2229",
+      "alt_code": "239",
+      "html_code": "&#239;",
+      "css_code": "\\2229"
+    },
+    {
+      "symbol": "≡",
+      "unicode": "U+2261",
+      "alt_code": "240",
+      "html_code": "&#240;",
+      "css_code": "\\2261"
+    },
+    {
+      "symbol": "±",
+      "unicode": "U+00B1",
+      "alt_code": "241",
+      "html_code": "&#241;",
+      "css_code": "\\00B1"
+    },
+    {
+      "symbol": "≥",
+      "unicode": "U+2265",
+      "alt_code": "242",
+      "html_code": "&#242;",
+      "css_code": "\\2265"
+    },
+    {
+      "symbol": "≤",
+      "unicode": "U+2264",
+      "alt_code": "243",
+      "html_code": "&#243;",
+      "css_code": "\\2264"
+    },
+    {
+      "symbol": "⌠",
+      "unicode": "U+2310",
+      "alt_code": "244",
+      "html_code": "&#244;",
+      "css_code": "\\2310"
+    },
+    {
+      "symbol": "⌡",
+      "unicode": "U+2311",
+      "alt_code": "245",
+      "html_code": "&#245;",
+      "css_code": "\\2311"
+    },
+    {
+      "symbol": "≈",
+      "unicode": "U+2248",
+      "alt_code": "247",
+      "html_code": "&#247;",
+      "css_code": "\\2248"
+    },
+    {
+      "symbol": "°",
+      "unicode": "U+00B0",
+      "alt_code": "248",
+      "html_code": "&#248;",
+      "css_code": "\\00B0"
+    },
+    {
+      "symbol": "·",
+      "unicode": "U+00B7",
+      "alt_code": "249",
+      "html_code": "&#249;",
+      "css_code": "\\00B7"
+    },
+    {
+      "symbol": "·",
+      "unicode": "U+00B7",
+      "alt_code": "250",
+      "html_code": "&#250;",
+      "css_code": "\\00B7"
+    },
+    {
+      "symbol": "√",
+      "unicode": "U+221A",
+      "alt_code": "251",
+      "html_code": "&#251;",
+      "css_code": "\\221A"
+    },
+    {
+      "symbol": "ⁿ",
+      "unicode": "U+207F",
+      "alt_code": "252",
+      "html_code": "&#252;",
+      "css_code": "\\207F"
+    },
+    {
+      "symbol": "²",
+      "unicode": "U+288F",
+      "alt_code": "253",
+      "html_code": "&#253;",
+      "css_code": "\\288F"
+    },
+    {
+      "symbol": "■",
+      "unicode": "U+25A0",
+      "alt_code": "254",
+      "html_code": "&#254;",
+      "css_code": "\\25A0"
+    },
+    {
+      "symbol": "Space",
+      "unicode": "-",
+      "alt_code": "255",
+      "html_code": "&#255;",
+      "css_code": "-"
+    },
+    {
+      "symbol": "€",
+      "unicode": "U+20AC",
+      "alt_code": "0128",
+      "html_code": "&#128;",
+      "css_code": "\\20AC"
+    },
+    {
+      "symbol": "‘",
+      "unicode": "U+2018",
+      "alt_code": "0130",
+      "html_code": "&#130;",
+      "css_code": "\\2018"
+    },
+    {
+      "symbol": "„",
+      "unicode": "U+201E",
+      "alt_code": "0132",
+      "html_code": "&#132;",
+      "css_code": "\\201E"
+    },
+    {
+      "symbol": "…",
+      "unicode": "U+2026",
+      "alt_code": "0133",
+      "html_code": "&#133;",
+      "css_code": "\\2026"
+    },
+    {
+      "symbol": "†",
+      "unicode": "U+2020",
+      "alt_code": "0134",
+      "html_code": "&#134;",
+      "css_code": "\\2020"
+    },
+    {
+      "symbol": "‡",
+      "unicode": "U+2021",
+      "alt_code": "0135",
+      "html_code": "&#135;",
+      "css_code": "\\2021"
+    },
+    {
+      "symbol": "‰",
+      "unicode": "U+2030",
+      "alt_code": "0137",
+      "html_code": "&#137;",
+      "css_code": "\\2030"
+    },
+    {
+      "symbol": "Š",
+      "unicode": "U+0160",
+      "alt_code": "0138",
+      "html_code": "&#138;",
+      "css_code": "\\0160"
+    },
+    {
+      "symbol": "‹",
+      "unicode": "U+2039",
+      "alt_code": "0139",
+      "html_code": "&#139;",
+      "css_code": "\\2039"
+    },
+    {
+      "symbol": "Œ",
+      "unicode": "U+0152",
+      "alt_code": "0140",
+      "html_code": "&#140;",
+      "css_code": "\\0152"
+    },
+    {
+      "symbol": "Ž",
+      "unicode": "U+017D",
+      "alt_code": "0142",
+      "html_code": "&#142;",
+      "css_code": "\\017D"
+    },
+    {
+      "symbol": "‘",
+      "unicode": "U+2018",
+      "alt_code": "0145",
+      "html_code": "&#145;",
+      "css_code": "\\2018"
+    },
+    {
+      "symbol": "’",
+      "unicode": "U+2019",
+      "alt_code": "0146",
+      "html_code": "&#146;",
+      "css_code": "\\2019"
+    },
+    {
+      "symbol": "“",
+      "unicode": "U+201C",
+      "alt_code": "0147",
+      "html_code": "&#147;",
+      "css_code": "\\201C"
+    },
+    {
+      "symbol": "”",
+      "unicode": "U+201D",
+      "alt_code": "0148",
+      "html_code": "&#148;",
+      "css_code": "\\201D"
+    },
+    {
+      "symbol": "—",
+      "unicode": "U+2014",
+      "alt_code": "0151",
+      "html_code": "&#151;",
+      "css_code": "\\2014"
+    },
+    {
+      "symbol": "™",
+      "unicode": "U+2122",
+      "alt_code": "0153",
+      "html_code": "&#153;",
+      "css_code": "\\2122"
+    },
+    {
+      "symbol": "š",
+      "unicode": "U+0161",
+      "alt_code": "0154",
+      "html_code": "&#154;",
+      "css_code": "\\0161"
+    },
+    {
+      "symbol": "›",
+      "unicode": "U+203A",
+      "alt_code": "0155",
+      "html_code": "&#155;",
+      "css_code": "\\203A"
+    },
+    {
+      "symbol": "œ",
+      "unicode": "U+0153",
+      "alt_code": "0156",
+      "html_code": "&#156;",
+      "css_code": "\\0153"
+    },
+    {
+      "symbol": "ž",
+      "unicode": "U+017E",
+      "alt_code": "0158",
+      "html_code": "&#158;",
+      "css_code": "\\017E"
+    },
+    {
+      "symbol": "Ÿ",
+      "unicode": "U+0178",
+      "alt_code": "0159",
+      "html_code": "&#159;",
+      "css_code": "\\0178"
+    },
+    {
+      "symbol": "¤",
+      "unicode": "U+00A4",
+      "alt_code": "0164",
+      "html_code": "&#164;",
+      "css_code": "\\00A4"
+    },
+    {
+      "symbol": "¦",
+      "unicode": "U+00A6",
+      "alt_code": "0166",
+      "html_code": "&#166;",
+      "css_code": "\\00A6"
+    },
+    {
+      "symbol": "¨",
+      "unicode": "U+00A8",
+      "alt_code": "0168",
+      "html_code": "&#168;",
+      "css_code": "\\00A8"
+    },
+    {
+      "symbol": "©",
+      "unicode": "U+00A9",
+      "alt_code": "0169",
+      "html_code": "&#169;",
+      "css_code": "\\00A9"
+    },
+    {
+      "symbol": "¯",
+      "unicode": "U+00AF",
+      "alt_code": "0175",
+      "html_code": "&#175;",
+      "css_code": "\\00AF"
+    },
+    {
+      "symbol": "²",
+      "unicode": "U+00B2",
+      "alt_code": "0178",
+      "html_code": "&#178;",
+      "css_code": "\\00B2"
+    },
+    {
+      "symbol": "³",
+      "unicode": "U+00B3",
+      "alt_code": "0179",
+      "html_code": "&#179;",
+      "css_code": "\\00B3"
+    },
+    {
+      "symbol": "´",
+      "unicode": "U+00B4",
+      "alt_code": "0180",
+      "html_code": "&#180;",
+      "css_code": "\\00B4"
+    },
+    {
+      "symbol": "·",
+      "unicode": "U+00B7",
+      "alt_code": "0183",
+      "html_code": "&#183;",
+      "css_code": "\\00B7"
+    },
+    {
+      "symbol": "¸",
+      "unicode": "U+00B8",
+      "alt_code": "0184",
+      "html_code": "&#184;",
+      "css_code": "\\00B8"
+    },
+    {
+      "symbol": "¹",
+      "unicode": "U+00B9",
+      "alt_code": "0185",
+      "html_code": "&#185;",
+      "css_code": "\\00B9"
+    },
+    {
+      "symbol": "¼",
+      "unicode": "U+00BC",
+      "alt_code": "0188",
+      "html_code": "&#188;",
+      "css_code": "\\00BC"
+    },
+    {
+      "symbol": "½",
+      "unicode": "U+00BD",
+      "alt_code": "0189",
+      "html_code": "&#189;",
+      "css_code": "\\00BD"
+    },
+    {
+      "symbol": "¾",
+      "unicode": "U+00BE",
+      "alt_code": "0190",
+      "html_code": "&#190;",
+      "css_code": "\\00BE"
+    },
+    {
+      "symbol": "À",
+      "unicode": "U+00C0",
+      "alt_code": "0192",
+      "html_code": "&#192;",
+      "css_code": "\\00C0"
+    }
+  ]
+}

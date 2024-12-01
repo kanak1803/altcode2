@@ -1,0 +1,4496 @@
+{
+  "MathsSymbols": {
+    "info": "Symbols used in mathematics and geometry.",
+    "subcategories": {
+      "TriangleSymbols": {
+        "info": "Triangle symbols are frequently used in various domains, including media, design, navigation, and mathematics. You may quickly add these symbols to documents using the ALT codes, whether making user interface elements, mathematical formulas, or just trying to improve your ideas.",
+        "items": [
+          {
+            "symbol": "▲",
+            "name": "Upwards Triangle",
+            "unicode": "U+25B2",
+            "alt_code": "Alt+9650",
+            "html_code": "&#9650;",
+            "css_code": "\\25B2"
+          },
+          {
+            "symbol": "△",
+            "name": "Upwards White Triangle",
+            "unicode": "U+25B3",
+            "alt_code": "Alt+9651",
+            "html_code": "&#9651;",
+            "css_code": "\\25B3"
+          },
+          {
+            "symbol": "▶",
+            "name": "Rightwards Triangle",
+            "unicode": "U+25B6",
+            "alt_code": "Alt+9654",
+            "html_code": "&#9654;",
+            "css_code": "\\25B6"
+          },
+          {
+            "symbol": "▷",
+            "name": "Rightwards White Triangle",
+            "unicode": "U+25B7",
+            "alt_code": "Alt+9655",
+            "html_code": "&#9655;",
+            "css_code": "\\25B7"
+          },
+          {
+            "symbol": "◀",
+            "name": "Leftwards Triangle",
+            "unicode": "U+25C0",
+            "alt_code": "Alt+9664",
+            "html_code": "&#9664;",
+            "css_code": "\\25C0"
+          },
+          {
+            "symbol": "◁",
+            "name": "Leftwards White Triangle",
+            "unicode": "U+25C1",
+            "alt_code": "Alt+9665",
+            "html_code": "&#9665;",
+            "css_code": "\\25C1"
+          },
+          {
+            "symbol": "▼",
+            "name": "Downwards Triangle",
+            "unicode": "U+25BC",
+            "alt_code": "Alt+9660",
+            "html_code": "&#9660;",
+            "css_code": "\\25BC"
+          },
+          {
+            "symbol": "▽",
+            "name": "Downwards White Triangle",
+            "unicode": "U+25BD",
+            "alt_code": "Alt+9661",
+            "html_code": "&#9661;",
+            "css_code": "\\25BD"
+          },
+          {
+            "symbol": "◢",
+            "name": "Black Lower Right Triangle",
+            "unicode": "U+25E2",
+            "alt_code": "Alt+9698",
+            "html_code": "&#9698;",
+            "css_code": "\\25E2"
+          },
+          {
+            "symbol": "⊿",
+            "name": "Right Triangle",
+            "unicode": "U+022BF",
+            "alt_code": "Alt+8895",
+            "html_code": "&#8895;;",
+            "css_code": "\\22BF"
+          },
+
+          {
+            "symbol": "◣",
+            "name": "Black Lower Left Triangle",
+            "unicode": "U+25E3",
+            "alt_code": "Alt+9699",
+            "html_code": "&#9699;",
+            "css_code": "\\25E3"
+          },
+          {
+            "symbol": "◤",
+            "name": " Black Upper Left Triangle",
+            "unicode": "U+25E4",
+            "alt_code": "Alt+9700",
+            "html_code": "&#9700;",
+            "css_code": "\\25E4"
+          },
+          {
+            "symbol": "◥",
+            "name": "Black Upper Right Triangle",
+            "unicode": "U+25E5",
+            "alt_code": "Alt+9701",
+            "html_code": "&#9701;",
+            "css_code": "\\25E5"
+          },
+
+          {
+            "symbol": "◬",
+            "name": "White Up-pointing Triangle With Dot",
+            "unicode": "U+25EC",
+            "alt_code": "Alt+9701",
+            "html_code": "&#9701;",
+            "css_code": "\\25EC"
+          },
+          {
+            "symbol": "◭",
+            "name": "Up-pointing Triangle With Left Half Black",
+            "unicode": "U+25ED",
+            "alt_code": "Alt+9709",
+            "html_code": "&#9709;",
+            "css_code": "\\25ED"
+          },
+          {
+            "symbol": "◮",
+            "name": "Up-pointing Triangle With Right Half Black",
+            "unicode": "U+25EE",
+            "alt_code": "Alt+9710",
+            "html_code": "&#9710;",
+            "css_code": "\\25EE"
+          },
+
+          {
+            "symbol": "◸",
+            "name": "Upper Left Triangle",
+            "unicode": "U+25F8",
+            "alt_code": "Alt+9720",
+            "html_code": "&#9720;",
+            "css_code": "\\25F8"
+          },
+          {
+            "symbol": "◹",
+            "name": "Upper Right Triangle",
+            "unicode": "U+25F9",
+            "alt_code": "Alt+9721",
+            "html_code": "&#9721;",
+            "css_code": "\\25F9"
+          },
+          {
+            "symbol": "◺",
+            "name": "Lower Left Triangle",
+            "unicode": "U+25FA",
+            "alt_code": "Alt+9722",
+            "html_code": "&#9722;",
+            "css_code": "\\25FA"
+          },
+          {
+            "symbol": "◿",
+            "name": "Lower Right Triangle",
+            "unicode": "U+25FF",
+            "alt_code": "Alt+9727",
+            "html_code": "&#9727;",
+            "css_code": "\\25FF"
+          },
+          {
+            "symbol": "⛛",
+            "name": "Heavy White Down-pointing Triangle",
+            "unicode": "U+26DB",
+            "alt_code": "Alt+9947",
+            "html_code": "&#9947;",
+            "css_code": "\\26DB"
+          },
+          {
+            "symbol": "⟁",
+            "name": "White Triangle Containing Small White Triangle",
+            "unicode": "U+27C1",
+            "alt_code": "Alt+10177",
+            "html_code": "&#10177;",
+            "css_code": "\\27C1"
+          },
+          {
+            "symbol": "⧊",
+            "name": "Triangle With Dot Above",
+            "unicode": "U+29CA",
+            "alt_code": "Alt+10698",
+            "html_code": "&#10698;",
+            "css_code": "\\29CA"
+          },
+          {
+            "symbol": "⧋",
+            "name": "Triangle With Underbar",
+            "unicode": "U+29CB",
+            "alt_code": "Alt+10699",
+            "html_code": "&#10699;",
+            "css_code": "\\29CB"
+          },
+          {
+            "symbol": "⧌",
+            "name": "S In Triangle",
+            "unicode": "U+29CC",
+            "alt_code": "Alt+10700",
+            "html_code": "&#10700;",
+            "css_code": "\\29CC"
+          },
+          {
+            "symbol": "⧍",
+            "name": "Triangle With Serifs At Bottom",
+            "unicode": "U+29CD",
+            "alt_code": "Alt+10701",
+            "html_code": "&#10701;",
+            "css_code": "\\29CD"
+          },
+          {
+            "symbol": "⧎",
+            "name": "Right Triangle Above Left Triangle",
+            "unicode": "U+29CE",
+            "alt_code": "Alt+10702",
+            "html_code": "&#10702;",
+            "css_code": "\\29CE"
+          },
+          {
+            "symbol": "⧏",
+            "name": "Left Triangle Beside Vertical Bar",
+            "unicode": "U+29CF",
+            "alt_code": "Alt+10703",
+            "html_code": "&#10703;",
+            "css_code": "\\29CF"
+          },
+          {
+            "symbol": "⧐",
+            "name": "Vertical Bar Beside Right Triangle",
+            "unicode": "U+29D0",
+            "alt_code": "Alt+10704",
+            "html_code": "&#10704;",
+            "css_code": "\\29D0"
+          },
+          {
+            "symbol": "⧨",
+            "name": "Down-pointing Triangle With Left Half Black",
+            "unicode": "U+29E8",
+            "alt_code": "Alt+10728",
+            "html_code": "&#10728;",
+            "css_code": "\\29E8"
+          },
+          {
+            "symbol": "⧩",
+            "name": "Down-pointing Triangle With Right Half Black",
+            "unicode": "U+29E9",
+            "alt_code": "Alt+10729",
+            "html_code": "&#10729;",
+            "css_code": "\\29E9"
+          },
+          {
+            "symbol": "⨞",
+            "name": "Large Left Triangle Operator",
+            "unicode": "U+2A1E",
+            "alt_code": "Alt+10782",
+            "html_code": "&#10782;",
+            "css_code": "\\2A1E"
+          },
+          {
+            "symbol": "⨨",
+            "name": "Plus Sign With Black Triangle",
+            "unicode": "U+2A28",
+            "alt_code": "Alt+10792",
+            "html_code": "&#10792;",
+            "css_code": "\\2A28"
+          },
+          {
+            "symbol": "⨹",
+            "name": "Plus Sign In Triangle",
+            "unicode": "U+2A39",
+            "alt_code": "Alt+10809",
+            "html_code": "&#10809;",
+            "css_code": "\\2A39"
+          },
+          {
+            "symbol": "⨺",
+            "name": "Minus Sign In Triangle",
+            "unicode": "U+2A3A",
+            "alt_code": "Alt+10810",
+            "html_code": "&#10810;",
+            "css_code": "\\2A3A"
+          },
+          {
+            "symbol": "⨻",
+            "name": "Multiplication Sign In Triangle",
+            "unicode": "U+2A3B",
+            "alt_code": "Alt+10811",
+            "html_code": "&#10811;",
+            "css_code": "\\2A3B"
+          }
+        ]
+      },
+      "SquareSymbols": {
+        "info": "Square symbols are frequently used in various contexts, such as in design, mathematics, user interface elements, and graphic representations. These symbols include filled and empty squares, as well as square-related shapes and   variations. The ALT codes for a few common square symbols are listed here for simple insertion on Windows-based systems.",
+        "items": [
+          {
+            "symbol": "▢",
+            "name": "White Square With Rounded Corners",
+            "unicode": "U+25A2",
+            "alt_code": "Alt+9634",
+            "html_code": "&#9634;",
+            "css_code": "\\25A2"
+          },
+          {
+            "symbol": "▧",
+            "name": "Square with Upper Left Diagonal Half",
+            "unicode": "U+25A2",
+            "alt_code": "Alt+9634",
+            "html_code": "&#9634;",
+            "css_code": "\\25A2"
+          },
+          {
+            "symbol": "▧",
+            "name": "Square with Upper Right Diagonal Half",
+            "unicode": "U+25A8",
+            "alt_code": "Alt+9640",
+            "html_code": "&#9640;",
+            "css_code": "\\25A8"
+          },
+          {
+            "symbol": "▩",
+            "name": "Square With Diagonal Crosshatch Fill",
+            "unicode": "U+25A9",
+            "alt_code": "Alt+9641",
+            "html_code": "&#9641;",
+            "css_code": "\\25A9"
+          },
+          {
+            "symbol": "▪",
+            "name": "Black Small Square",
+            "unicode": "U+25AA",
+            "alt_code": "Alt+9642",
+            "html_code": "&#9642;",
+            "css_code": "\\25AA"
+          },
+          {
+            "symbol": "▫",
+            "name": "White Small Square",
+            "unicode": "U+25AB",
+            "alt_code": "Alt+9643",
+            "html_code": "&#9643;",
+            "css_code": "\\25AB"
+          },
+          {
+            "symbol": "◧",
+            "name": "Square With Left Half Black",
+            "unicode": "U+25E7",
+            "alt_code": "Alt+9703",
+            "html_code": "&#9703;",
+            "css_code": "\\25E7"
+          },
+          {
+            "symbol": "◨",
+            "name": "Square With Right Half Black",
+            "unicode": "U+25E8",
+            "alt_code": "Alt+9704",
+            "html_code": "&#9704;",
+            "css_code": "\\25E8"
+          },
+          {
+            "symbol": "◩",
+            "name": "Square With Upper Left Diagonal Half Black",
+            "unicode": "U+25E9",
+            "alt_code": "Alt+9705",
+            "html_code": "&#9705;",
+            "css_code": "\\25E9"
+          },
+          {
+            "symbol": "◪",
+            "name": "Square With Lower Right Diagonal Half Black",
+            "unicode": "U+25EA",
+            "alt_code": "Alt+9706",
+            "html_code": "&#9706;",
+            "css_code": "\\25EA"
+          },
+          {
+            "symbol": "◫",
+            "name": "White Square With Vertical Bisecting Line",
+            "unicode": "U+25EB",
+            "alt_code": "Alt+9707",
+            "html_code": "&#9707;",
+            "css_code": "\\25EB"
+          },
+          {
+            "symbol": "◰",
+            "name": "White Square With Upper Left Quadrant",
+            "unicode": "U+25F0",
+            "alt_code": "Alt+9712",
+            "html_code": "&#9712;",
+            "css_code": "\\25F0"
+          },
+          {
+            "symbol": "◱",
+            "name": "White Square With Lower Left Quadrant",
+            "unicode": "U+25F1",
+            "alt_code": "Alt+9713",
+            "html_code": "&#9713;",
+            "css_code": "\\25F1"
+          },
+          {
+            "symbol": "◲",
+            "name": "White Square With Lower Right Quadrant",
+            "unicode": "U+25F2",
+            "alt_code": "Alt+9714",
+            "html_code": "&#9714;",
+            "css_code": "\\25F2"
+          },
+          {
+            "symbol": "◳",
+            "name": "White Square With Upper Right Quadrant",
+            "unicode": "U+25F3",
+            "alt_code": "Alt+9715",
+            "html_code": "&#9715;",
+            "css_code": "\\25F3"
+          },
+          {
+            "symbol": "◻",
+            "name": "White Medium Square",
+            "unicode": "U+25FB",
+            "alt_code": "Alt+9723",
+            "html_code": "&#9723;",
+            "css_code": "\\25FB"
+          },
+          {
+            "symbol": "◼",
+            "name": "Black Medium Square",
+            "unicode": "U+25FC",
+            "alt_code": "Alt+9724",
+            "html_code": "&#9724;",
+            "css_code": "\\25FC"
+          },
+          {
+            "symbol": "◽",
+            "name": "White Medium Small Square",
+            "unicode": "U+25FD",
+            "alt_code": "Alt+9725",
+            "html_code": "&#9725;",
+            "css_code": "\\25FD"
+          },
+          {
+            "symbol": "◾",
+            "name": "Black Medium Small Square",
+            "unicode": "U+25FE",
+            "alt_code": "Alt+9726",
+            "html_code": "&#9726;",
+            "css_code": "\\25FE"
+          },
+          {
+            "symbol": "⚿",
+            "name": "Squared Key",
+            "unicode": "U+26BF",
+            "alt_code": "Alt+9919",
+            "html_code": "&#9919;",
+            "css_code": "\\26BF"
+          },
+          {
+            "symbol": "⛋",
+            "name": "White Diamond In Square",
+            "unicode": "U+26CB",
+            "alt_code": "Alt+9931",
+            "html_code": "&#9931;",
+            "css_code": "\\26CB"
+          },
+          {
+            "symbol": "⛝",
+            "name": "Squared Saltire",
+            "unicode": "U+26DD",
+            "alt_code": "Alt+9949",
+            "html_code": "&#9949;",
+            "css_code": "\\26DD"
+          },
+          {
+            "symbol": "⛞",
+            "name": "Falling Diagonal In White Circle In Black Square",
+            "unicode": "U+26DE",
+            "alt_code": "Alt+9950",
+            "html_code": "&#9950;",
+            "css_code": "\\26DE"
+          },
+          {
+            "symbol": "⛶",
+            "name": "Square Four Corners",
+            "unicode": "U+26F6",
+            "alt_code": "Alt+9974",
+            "html_code": "&#9974;",
+            "css_code": "\\26F6"
+          },
+          {
+            "symbol": "⛾",
+            "name": "Cup On Black Square",
+            "unicode": "U+26FE",
+            "alt_code": "Alt+9982",
+            "html_code": "&#9982;",
+            "css_code": "\\26FE"
+          },
+          {
+            "symbol": "❏",
+            "name": "Lower Right Drop-shadowed White Square",
+            "unicode": "U+274F",
+            "alt_code": "Alt+10063",
+            "html_code": "&#10063;",
+            "css_code": "\\274F"
+          },
+          {
+            "symbol": "❐",
+            "name": "Upper Right Drop-shadowed White Square",
+            "unicode": "U+2750",
+            "alt_code": "Alt+10064",
+            "html_code": "&#10064;",
+            "css_code": "\\2750"
+          },
+          {
+            "symbol": "⟎",
+            "name": "Squared Logical And",
+            "unicode": "U+27CE",
+            "alt_code": "Alt+10190",
+            "html_code": "&#10190;",
+            "css_code": "\\27CE"
+          },
+          {
+            "symbol": "⟏",
+            "name": "Squared Logical Or",
+            "unicode": "U+27CF",
+            "alt_code": "Alt+10191",
+            "html_code": "&#10191;",
+            "css_code": "\\27CF"
+          },
+          {
+            "symbol": "⟤",
+            "name": "White Square With Leftwards Tick",
+            "unicode": "U+27E4",
+            "alt_code": "Alt+10212",
+            "html_code": "&#10212;",
+            "css_code": "\\27E4"
+          },
+          {
+            "symbol": "⟥",
+            "name": "White Square With Rightwards Tick",
+            "unicode": "U+27E5",
+            "alt_code": "Alt+10213",
+            "html_code": "&#10213;",
+            "css_code": "\\27E5"
+          },
+          {
+            "symbol": "⧄",
+            "name": "Squared Rising Diagonal Slash",
+            "unicode": "U+29C4",
+            "alt_code": "Alt+10692",
+            "html_code": "&#10692;",
+            "css_code": "\\29C4"
+          },
+          {
+            "symbol": "⧅",
+            "name": "Squared Falling Diagonal Slash",
+            "unicode": "U+29C5",
+            "alt_code": "Alt+10693",
+            "html_code": "&#10693;",
+            "css_code": "\\29C5"
+          },
+          {
+            "symbol": "⧆",
+            "name": "Squared Asterisk",
+            "unicode": "U+29C6",
+            "alt_code": "Alt+10694",
+            "html_code": "&#10694;",
+            "css_code": "\\29C6"
+          },
+          {
+            "symbol": "⧇",
+            "name": "Squared Small Circle",
+            "unicode": "U+29C7",
+            "alt_code": "Alt+10695",
+            "html_code": "&#10695;",
+            "css_code": "\\29C7"
+          },
+          {
+            "symbol": "⧈",
+            "name": "Squared Square",
+            "unicode": "U+29C8",
+            "alt_code": "Alt+10696",
+            "html_code": "&#10696;",
+            "css_code": "\\29C8"
+          },
+          {
+            "symbol": "⧉",
+            "name": "Two Joined Squares",
+            "unicode": "U+29C9",
+            "alt_code": "Alt+10697",
+            "html_code": "&#10697;",
+            "css_code": "\\29C9"
+          },
+          {
+            "symbol": "⧠",
+            "name": "Square With Contoured Outline",
+            "unicode": "U+29E0",
+            "alt_code": "Alt+10720",
+            "html_code": "&#10720;",
+            "css_code": "\\29E0"
+          },
+          {
+            "symbol": "⧮",
+            "name": "Error-barred White Square",
+            "unicode": "U+29EE",
+            "alt_code": "Alt+10734",
+            "html_code": "&#10734;",
+            "css_code": "\\29EE"
+          },
+          {
+            "symbol": "⧯",
+            "name": "Error-barred Black Square",
+            "unicode": "U+29EF",
+            "alt_code": "Alt+10735",
+            "html_code": "&#10735;",
+            "css_code": "\\29EF"
+          },
+          {
+            "symbol": "⬒",
+            "name": "Square With Top Half Black",
+            "unicode": "U+2B12",
+            "alt_code": "Alt+11026",
+            "html_code": "&#11026;",
+            "css_code": "\\2B12"
+          },
+          {
+            "symbol": "⬓",
+            "name": "Square With Bottom Half Black",
+            "unicode": "U+2B13",
+            "alt_code": "Alt+11027",
+            "html_code": "&#11027;",
+            "css_code": "\\2B13"
+          },
+          {
+            "symbol": "⬔",
+            "name": "Square With Upper Right Diagonal Half Black",
+            "unicode": "U+2B14",
+            "alt_code": "Alt+11028",
+            "html_code": "&#11028;",
+            "css_code": "\\2B14"
+          },
+          {
+            "symbol": "⬕",
+            "name": "Square With Lower Left Diagonal Half Black",
+            "unicode": "U+2B15",
+            "alt_code": "Alt+11029",
+            "html_code": "&#11029;",
+            "css_code": "\\2B15"
+          },
+          {
+            "symbol": "⬚",
+            "name": "Dotted Square",
+            "unicode": "U+2B1A",
+            "alt_code": "Alt+11034",
+            "html_code": "&#11034;",
+            "css_code": "\\2B1A"
+          },
+          {
+            "symbol": "⬛",
+            "name": "Black Large Square",
+            "unicode": "U+2B1B",
+            "alt_code": "Alt+11035",
+            "html_code": "&#11035;",
+            "css_code": "\\2B1B"
+          },
+          {
+            "symbol": "⬜",
+            "name": "White Large Square",
+            "unicode": "U+2B1C",
+            "alt_code": "Alt+11036",
+            "html_code": "&#11036;",
+            "css_code": "\\2B1C"
+          },
+          {
+            "symbol": "⬝",
+            "name": "Black Very Small Square",
+            "unicode": "U+2B1D",
+            "alt_code": "Alt+11037",
+            "html_code": "&#11037;",
+            "css_code": "\\2B1D"
+          },
+          {
+            "symbol": "⬞",
+            "name": "White Very Small Square",
+            "unicode": "U+2B1E",
+            "alt_code": "Alt+11038",
+            "html_code": "&#11038;",
+            "css_code": "\\2B1E"
+          },
+          {
+            "symbol": "⯀",
+            "name": "Black Square Centred",
+            "unicode": "U+2BC0",
+            "alt_code": "Alt+11200",
+            "html_code": "&#11200;",
+            "css_code": "\\2BC0"
+          },
+          {
+            "symbol": "⯐",
+            "name": "Square Position Indicator",
+            "unicode": "U+2BD0",
+            "alt_code": "Alt+11216",
+            "html_code": "&#11216;",
+            "css_code": "\\2BD0"
+          }
+        ]
+      },
+      "RectangleSymbols": {
+        "info": "Various areas, including graphical design, web development, mathematics, and user interface (UI) design, frequently use rectangle symbols. Below are some common rectangle symbols, along with the Unicode values, ALT codes, and other helpful information for use in various contexts.",
+        "items": [
+          {
+            "symbol": "▬",
+            "name": "Black Rectangle",
+            "unicode": "U+25AC",
+            "alt_code": "Alt+9644",
+            "html_code": "&#9644;",
+            "css_code": "\\25AC"
+          },
+          {
+            "symbol": "▭",
+            "name": "White Rectangle",
+            "unicode": "U+25AD",
+            "alt_code": "Alt+9645",
+            "html_code": "&#9645;",
+            "css_code": "\\25AD"
+          },
+          {
+            "symbol": "▮",
+            "name": "Black Vertical Rectangle",
+            "unicode": "U+25AE",
+            "alt_code": "Alt+9646",
+            "html_code": "&#9646;",
+            "css_code": "\\25AE"
+          },
+          {
+            "symbol": "▯",
+            "name": "White Vertical Rectangle",
+            "unicode": "U+25AF",
+            "alt_code": "Alt+9647",
+            "html_code": "&#9647;",
+            "css_code": "\\25AF"
+          }
+        ]
+      },
+      "PentagonSymbols": {
+        "info": "Symbols representing pentagons or five-sided shapes.",
+        "items": [
+          {
+            "symbol": "⬟",
+            "name": "Black Pentagon",
+            "unicode": "U+2B1F",
+            "alt_code": "Alt+11039",
+            "html_code": "&#11039;",
+            "css_code": "\\2B1F"
+          },
+          {
+            "symbol": "⬠",
+            "name": "White Pentagon",
+            "unicode": "U+2B20",
+            "alt_code": "Alt+11040",
+            "html_code": "&#11040;",
+            "css_code": "\\2B20"
+          },
+          {
+            "symbol": "⭓",
+            "name": "Black Right-pointing Pentagon",
+            "unicode": "U+2B53",
+            "alt_code": "Alt+11091",
+            "html_code": "&#11091;",
+            "css_code": "\\2B53"
+          },
+          {
+            "symbol": "⭔",
+            "name": "White Right-pointing Pentagon",
+            "unicode": "U+2B54",
+            "alt_code": "Alt+11092",
+            "html_code": "&#11092;",
+            "css_code": "\\2B54"
+          },
+          {
+            "symbol": "⯂",
+            "name": "Turned Black Pentagon",
+            "unicode": "U+2BC2",
+            "alt_code": "Alt+11202",
+            "html_code": "&#11202;",
+            "css_code": "\\2BC2"
+          }
+        ]
+      },
+      "HexagonSymbols": {
+        "info": "Symbols representing hexagons or six-sided shapes.",
+        "items": [
+          {
+            "symbol": "⬡",
+            "name": "White Hexagon",
+            "unicode": "U+2B21",
+            "alt_code": "Alt+11041",
+            "html_code": "&#11041;",
+            "css_code": "\\2B21"
+          },
+          {
+            "symbol": "⬢",
+            "name": "Black Hexagon",
+            "unicode": "U+2B22",
+            "alt_code": "Alt+11042",
+            "html_code": "&#11042;",
+            "css_code": "\\2B22"
+          },
+          {
+            "symbol": "⬣",
+            "name": "Horizontal Black Hexagon",
+            "unicode": "U+2B23",
+            "alt_code": "Alt+11043",
+            "html_code": "&#11043;",
+            "css_code": "\\2B23"
+          }
+        ]
+      },
+      "CircleSymbols": {
+        "info": "Symbols representing circles or circular shapes.",
+        "items": [
+          {
+            "symbol": "○",
+            "name": "White Circle",
+            "unicode": "U+25CB",
+            "alt_code": "Alt+9675",
+            "html_code": "&#9675;",
+            "css_code": "\\25CB"
+          },
+          {
+            "symbol": "◌",
+            "name": "Dotted Circle",
+            "unicode": "U+25CC",
+            "alt_code": "Alt+9676",
+            "html_code": "&#9676;",
+            "css_code": "\\25CC"
+          },
+          {
+            "symbol": "◍",
+            "name": "Circle With Vertical Fill",
+            "unicode": "U+25CD",
+            "alt_code": "Alt+9677",
+            "html_code": "&#9677;",
+            "css_code": "\\25CD"
+          },
+          {
+            "symbol": "●",
+            "name": "Black Circle",
+            "unicode": "U+25CF",
+            "alt_code": "Alt+9679",
+            "html_code": "&#9679;",
+            "css_code": "\\25CF"
+          },
+          {
+            "symbol": "◐",
+            "name": "Circle With Left Half Black",
+            "unicode": "U+25D0",
+            "alt_code": "Alt+9680",
+            "html_code": "&#9680;",
+            "css_code": "\\25D0"
+          },
+
+          {
+            "symbol": "◑",
+            "name": "Circle With Right Half Black",
+            "unicode": "U+25D1",
+            "alt_code": "Alt+9681",
+            "html_code": "&#9681;",
+            "css_code": "\\25D1"
+          },
+          {
+            "symbol": "◓",
+            "name": "Circle With Upper Half Black",
+            "unicode": "U+25D3",
+            "alt_code": "Alt+9683",
+            "html_code": "&#9683;",
+            "css_code": "\\25D3"
+          },
+          {
+            "symbol": "◔",
+            "name": "Circle With Upper Right Quadrant Black",
+            "unicode": "U+25D4",
+            "alt_code": "Alt+9684",
+            "html_code": "&#9684;",
+            "css_code": "\\25D4"
+          },
+          {
+            "symbol": "◕",
+            "name": "Circle With All But Upper Left Quadrant Black",
+            "unicode": "U+25D5",
+            "alt_code": "Alt+9685",
+            "html_code": "&#9685;",
+            "css_code": "\\25D5"
+          },
+          {
+            "symbol": "◖",
+            "name": "Left Half Black Circle",
+            "unicode": "U+25D6",
+            "alt_code": "Alt+9686",
+            "html_code": "&#9686;",
+            "css_code": "\\25D6"
+          },
+          {
+            "symbol": "◗",
+            "name": "Right Half Black Circle",
+            "unicode": "U+25D7",
+            "alt_code": "Alt+9687",
+            "html_code": "&#9687;",
+            "css_code": "\\25D7"
+          },
+          {
+            "symbol": "◙",
+            "name": "Inverse White Circle",
+            "unicode": "U+25D9",
+            "alt_code": "Alt+9689",
+            "html_code": "&#9689;",
+            "css_code": "\\25D9"
+          },
+          {
+            "symbol": "◚",
+            "name": "Upper Half Inverse White Circle",
+            "unicode": "U+25DA",
+            "alt_code": "Alt+9690",
+            "html_code": "&#9690;",
+            "css_code": "\\25DA"
+          },
+          {
+            "symbol": "◛",
+            "name": "Lower Half Inverse White Circle",
+            "unicode": "U+25DB",
+            "alt_code": "Alt+9691",
+            "html_code": "&#9691;",
+            "css_code": "\\25DB"
+          },
+          {
+            "symbol": "◠",
+            "name": "Upper Half Circle",
+            "unicode": "U+25E0",
+            "alt_code": "Alt+9696",
+            "html_code": "&#9696;",
+            "css_code": "\\25E0"
+          },
+          {
+            "symbol": "◡",
+            "name": "Lower Half Circle",
+            "unicode": "U+25E1",
+            "alt_code": "Alt+9697",
+            "html_code": "&#9697;",
+            "css_code": "\\25E1"
+          },
+          {
+            "symbol": "◯",
+            "name": "Large Circle",
+            "unicode": "U+25EF",
+            "alt_code": "Alt+9711",
+            "html_code": "&#9711;",
+            "css_code": "\\25EF"
+          },
+          {
+            "symbol": "◴",
+            "name": "White Circle With Upper Left Quadrant",
+            "unicode": "U+25F4",
+            "alt_code": "Alt+9716",
+            "html_code": "&#9716;",
+            "css_code": "\\25F4"
+          },
+          {
+            "symbol": "◵",
+            "name": "White Circle With Lower Left Quadrant",
+            "unicode": "U+25F5",
+            "alt_code": "Alt+9717",
+            "html_code": "&#9717;",
+            "css_code": "\\25F5"
+          },
+          {
+            "symbol": "◶",
+            "name": "White Circle With Lower Right Quadrant",
+            "unicode": "U+25F6",
+            "alt_code": "Alt+9718",
+            "html_code": "&#9718;",
+            "css_code": "\\25F6"
+          },
+          {
+            "symbol": "◷",
+            "name": "White Circle With Upper Right Quadrant",
+            "unicode": "U+25F7",
+            "alt_code": "Alt+9719",
+            "html_code": "&#9719;",
+            "css_code": "\\25F7"
+          },
+          {
+            "symbol": "⚆",
+            "name": "White Circle With Dot Right",
+            "unicode": "U+2686",
+            "alt_code": "Alt+9862",
+            "html_code": "&#9862;",
+            "css_code": "\\2686"
+          },
+          {
+            "symbol": "⚇",
+            "name": "White Circle With Two Dots",
+            "unicode": "U+2687",
+            "alt_code": "Alt+9863",
+            "html_code": "&#9863;",
+            "css_code": "\\2687"
+          },
+          {
+            "symbol": "⚈",
+            "name": "Black Circle With White Dot Right",
+            "unicode": "U+2688",
+            "alt_code": "Alt+9864",
+            "html_code": "&#9864;",
+            "css_code": "\\2688"
+          },
+          {
+            "symbol": "⚉",
+            "name": "Black Circle With Two White Dots",
+            "unicode": "U+2689",
+            "alt_code": "Alt+9865",
+            "html_code": "&#9865;",
+            "css_code": "\\2689"
+          },
+          {
+            "symbol": "⚪",
+            "name": "Medium White Circle",
+            "unicode": "U+26AA",
+            "alt_code": "Alt+9898",
+            "html_code": "&#9898;",
+            "css_code": "\\26AA"
+          },
+          {
+            "symbol": "⚫",
+            "name": "Medium Black Circle",
+            "unicode": "U+26AB",
+            "alt_code": "Alt+9899",
+            "html_code": "&#9899;",
+            "css_code": "\\26AB"
+          },
+          {
+            "symbol": "⚬",
+            "name": "Medium Small White Circle",
+            "unicode": "U+26AC",
+            "alt_code": "Alt+9900",
+            "html_code": "&#9900;",
+            "css_code": "\\26AC"
+          },
+          {
+            "symbol": "✪",
+            "name": "Circled White Star",
+            "unicode": "U+272A",
+            "alt_code": "Alt+10026",
+            "html_code": "&#10026;",
+            "css_code": "\\272A"
+          },
+          {
+            "symbol": "❂",
+            "name": "Circled Open Centre Eight Pointed Star",
+            "unicode": "U+2742",
+            "alt_code": "Alt+10050",
+            "html_code": "&#10050;",
+            "css_code": "\\2742"
+          },
+          {
+            "symbol": "❍",
+            "name": "Shadowed White Circle",
+            "unicode": "U+274D",
+            "alt_code": "Alt+10061",
+            "html_code": "&#10061;",
+            "css_code": "\\274D"
+          },
+          {
+            "symbol": "⟟",
+            "name": "Up Tack With Circle Above",
+            "unicode": "U+27DF",
+            "alt_code": "Alt+10207",
+            "html_code": "&#10207;",
+            "css_code": "\\27DF"
+          },
+          {
+            "symbol": "⦲",
+            "name": "Empty Set With Small Circle Above",
+            "unicode": "U+29B2",
+            "alt_code": "Alt+10674",
+            "html_code": "&#10674;",
+            "css_code": "\\29B2"
+          },
+          {
+            "symbol": "⦵",
+            "name": "Circle With Horizontal Bar",
+            "unicode": "U+29B5",
+            "alt_code": "Alt+10677",
+            "html_code": "&#10677;",
+            "css_code": "\\29B5"
+          },
+          {
+            "symbol": "⦶",
+            "name": "Circled Vertical Bar",
+            "unicode": "U+29B6",
+            "alt_code": "Alt+10678",
+            "html_code": "&#10678;",
+            "css_code": "\\29B6"
+          },
+          {
+            "symbol": "⦷",
+            "name": "Circled Vertical Bar",
+            "unicode": "U+29B7",
+            "alt_code": "Alt+10679",
+            "html_code": "&#10679;",
+            "css_code": "\\29B7"
+          },
+          {
+            "symbol": "⦸",
+            "name": "Circled Reverse Solidus",
+            "unicode": "U+29B8",
+            "alt_code": "Alt+10680",
+            "html_code": "&#10680;",
+            "css_code": "\\29B8"
+          },
+          {
+            "symbol": "⦹",
+            "name": "Circled Perpendicular",
+            "unicode": "U+29B9",
+            "alt_code": "Alt+10681",
+            "html_code": "&#10681;",
+            "css_code": "\\29B9"
+          },
+          {
+            "symbol": "⦺",
+            "name": "Circle Divided By Horizontal Bar And Top Half Divided By Vertical Bar",
+            "unicode": "U+29BA",
+            "alt_code": "Alt+10682",
+            "html_code": "&#10682;",
+            "css_code": "\\29BA"
+          },
+          {
+            "symbol": "⦻",
+            "name": "Circle With Superimposed X",
+            "unicode": "U+29BB",
+            "alt_code": "Alt+10683",
+            "html_code": "&#10683;",
+            "css_code": "\\29BB"
+          },
+          {
+            "symbol": "⦾",
+            "name": "Circled White Bullet",
+            "unicode": "U+29BE",
+            "alt_code": "Alt+10686",
+            "html_code": "&#10686;",
+            "css_code": "\\29BE"
+          },
+          {
+            "symbol": "⦿",
+            "name": "Circled Bullet",
+            "unicode": "U+29BF",
+            "alt_code": "Alt+10687",
+            "html_code": "&#10687;",
+            "css_code": "\\29BF"
+          },
+          {
+            "symbol": "⧂",
+            "name": "Circle With Small Circle To The Right",
+            "unicode": "U+29C2",
+            "alt_code": "Alt+10690",
+            "html_code": "&#10690;",
+            "css_code": "\\29C2"
+          },
+          {
+            "symbol": "⧃",
+            "name": "Circle With Two Horizontal Strokes To The Right",
+            "unicode": "U+29C3",
+            "alt_code": "Alt+10691",
+            "html_code": "&#10691;",
+            "css_code": "\\29C3"
+          },
+          {
+            "symbol": "⧇",
+            "name": "Squared Small Circle",
+            "unicode": "U+29C7",
+            "alt_code": "Alt+10695",
+            "html_code": "&#10695;",
+            "css_code": "\\29C7"
+          },
+          {
+            "symbol": "⧲",
+            "name": "Error-barred White Circle",
+            "unicode": "U+29F2",
+            "alt_code": "Alt+10738",
+            "html_code": "&#10738;",
+            "css_code": "\\29F2"
+          },
+          {
+            "symbol": "⧳",
+            "name": "Error-barred Black Circle",
+            "unicode": "U+29F3",
+            "alt_code": "Alt+10739",
+            "html_code": "&#10739;",
+            "css_code": "\\29F3"
+          },
+          {
+            "symbol": "⨀",
+            "name": "N-ary Circled Dot Operator",
+            "unicode": "U+2A00",
+            "alt_code": "Alt+10752",
+            "html_code": "&#10752;",
+            "css_code": "\\2A00"
+          },
+          {
+            "symbol": "⨁",
+            "name": "N-ary Circled Plus Operator",
+            "unicode": "U+2A01",
+            "alt_code": "Alt+10753",
+            "html_code": "&#10753;",
+            "css_code": "\\2A01"
+          },
+          {
+            "symbol": "⨂",
+            "name": "N-ary Circled Times Operator",
+            "unicode": "U+2A02",
+            "alt_code": "Alt+10754",
+            "html_code": "&#10754;",
+            "css_code": "\\2A02"
+          },
+          {
+            "symbol": "⫱",
+            "name": "Down Tack With Circle Below",
+            "unicode": "U+2AF1",
+            "alt_code": "Alt+10993",
+            "html_code": "&#10993;",
+            "css_code": "\\2AF1"
+          },
+          {
+            "symbol": "⬤",
+            "name": "Down Tack With Circle Below",
+            "unicode": "U+2B24",
+            "alt_code": "Alt+11044",
+            "html_code": "&#11044;",
+            "css_code": "\\2B24"
+          },
+          {
+            "symbol": "⭕",
+            "name": "Down Tack With Circle Below",
+            "unicode": "U+2B55",
+            "alt_code": "Alt+11093",
+            "html_code": "&#11093;",
+            "css_code": "\\2B55"
+          }
+        ]
+      },
+      "HarpoonSymbols": {
+        "info": "Symbols representing harpoons or arrows with harpoon-like shapes.",
+        "items": [
+          {
+            "symbol": "⥊",
+            "name": "Left Barb Up Right Barb Down Harpoon",
+            "unicode": "U+294A",
+            "alt_code": "Alt+10570",
+            "html_code": "&#10570;",
+            "css_code": "\\294A"
+          },
+          {
+            "symbol": "⥋",
+            "name": "Left Barb Down Right Barb Up Harpoon",
+            "unicode": "U+294B",
+            "alt_code": "Alt+10571",
+            "html_code": "&#10571;",
+            "css_code": "\\294B"
+          },
+          {
+            "symbol": "⥌",
+            "name": "Up Barb Right Down Barb Left Harpoon",
+            "unicode": "U+294C",
+            "alt_code": "Alt+10572",
+            "html_code": "&#10572;",
+            "css_code": "\\294C"
+          },
+          {
+            "symbol": "⥍",
+            "name": "Up Barb Left Down Barb Right Harpoon",
+            "unicode": "U+294D",
+            "alt_code": "Alt+10573",
+            "html_code": "&#10573;",
+            "css_code": "\\294D"
+          },
+          {
+            "symbol": "⥎",
+            "name": "Left Barb Up Right Barb Up Harpoon",
+            "unicode": "U+294E",
+            "alt_code": "Alt+10574",
+            "html_code": "&#10574;",
+            "css_code": "\\294E"
+          },
+          {
+            "symbol": "⥏",
+            "name": "Up Barb Right Down Barb Right Harpoon",
+            "unicode": "U+294F",
+            "alt_code": "Alt+10575",
+            "html_code": "&#10575;",
+            "css_code": "\\294F"
+          },
+          {
+            "symbol": "⥐",
+            "name": "Left Barb Down Right Barb Down Harpoon",
+            "unicode": "U+2950",
+            "alt_code": "Alt+10576",
+            "html_code": "&#10576;",
+            "css_code": "\\2950"
+          },
+          {
+            "symbol": "⥑",
+            "name": "Up Barb Left Down Barb Left Harpoon",
+            "unicode": "U+2951",
+            "alt_code": "Alt+10577",
+            "html_code": "&#10577;",
+            "css_code": "\\2951"
+          },
+          {
+            "symbol": "⥒",
+            "name": "Leftwards Harpoon With Barb Up To Bar",
+            "unicode": "U+2952",
+            "alt_code": "Alt+10578",
+            "html_code": "&#10578;",
+            "css_code": "\\2952"
+          },
+          {
+            "symbol": "⥓",
+            "name": "Rightwards Harpoon With Barb Up To Bar",
+            "unicode": "U+2953",
+            "alt_code": "Alt+10579",
+            "html_code": "&#10579;",
+            "css_code": "\\2953"
+          },
+          {
+            "symbol": "⥔",
+            "name": "Upwards Harpoon With Barb Right To Bar",
+            "unicode": "U+2954",
+            "alt_code": "Alt+10580",
+            "html_code": "&#10580;",
+            "css_code": "\\2954"
+          },
+          {
+            "symbol": "⥕",
+            "name": "Downwards Harpoon With Barb Right To Bar",
+            "unicode": "U+2955",
+            "alt_code": "Alt+10581",
+            "html_code": "&#10581;",
+            "css_code": "\\2955"
+          },
+          {
+            "symbol": "⥖",
+            "name": "Leftwards Harpoon With Barb Down To Bar",
+            "unicode": "U+2956",
+            "alt_code": "Alt+10582",
+            "html_code": "&#10582;",
+            "css_code": "\\2956"
+          },
+          {
+            "symbol": "⥗",
+            "name": "Rightwards Harpoon With Barb Down To Bar",
+            "unicode": "U+2957",
+            "alt_code": "Alt+10583",
+            "html_code": "&#10583;",
+            "css_code": "\\2957"
+          },
+          {
+            "symbol": "⥘",
+            "name": "Upwards Harpoon With Barb Left To Bar",
+            "unicode": "U+2958",
+            "alt_code": "Alt+10584",
+            "html_code": "&#10584;",
+            "css_code": "\\2958"
+          },
+          {
+            "symbol": "⥙",
+            "name": "Downwards Harpoon With Barb Left To Bar",
+            "unicode": "U+2959",
+            "alt_code": "Alt+10585",
+            "html_code": "&#10585;",
+            "css_code": "\\2959"
+          },
+          {
+            "symbol": "⥚",
+            "name": "Leftwards Harpoon With Barb Up From Bar",
+            "unicode": "U+295A",
+            "alt_code": "Alt+10586",
+            "html_code": "&#10586;",
+            "css_code": "\\295A"
+          },
+
+          {
+            "symbol": "⥛",
+            "name": "Rightwards Harpoon With Barb Up From Bar",
+            "unicode": "U+295B",
+            "alt_code": "Alt+10587",
+            "html_code": "&#10587;",
+            "css_code": "\\295B"
+          },
+          {
+            "symbol": "⥜",
+            "name": "Upwards Harpoon With Barb Right From Bar",
+            "unicode": "U+295C",
+            "alt_code": "Alt+10588",
+            "html_code": "&#10588;",
+            "css_code": "\\295C"
+          },
+          {
+            "symbol": "⥝",
+            "name": "Downwards Harpoon With Barb Right From Bar",
+            "unicode": "U+295D",
+            "alt_code": "Alt+10589",
+            "html_code": "&#10589;",
+            "css_code": "\\295D"
+          },
+          {
+            "symbol": "⥞",
+            "name": "Leftwards Harpoon With Barb Down From Bar",
+            "unicode": "U+295E",
+            "alt_code": "Alt+10590",
+            "html_code": "&#10590;",
+            "css_code": "\\295E"
+          },
+          {
+            "symbol": "⥟",
+            "name": "Rightwards Harpoon With Barb Down From Bar",
+            "unicode": "U+295F",
+            "alt_code": "Alt+10591",
+            "html_code": "&#10591;",
+            "css_code": "\\295F"
+          },
+          {
+            "symbol": "⥠",
+            "name": "Upwards Harpoon With Barb Left From Bar",
+            "unicode": "U+2960",
+            "alt_code": "Alt+10592",
+            "html_code": "&#10592;",
+            "css_code": "\\2960"
+          },
+          {
+            "symbol": "⥡",
+            "name": "Downwards Harpoon With Barb Left From Bar",
+            "unicode": "U+2961",
+            "alt_code": "Alt+10593",
+            "html_code": "&#10593;",
+            "css_code": "\\2961"
+          },
+          {
+            "symbol": "⥢",
+            "name": "Leftwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Down",
+            "unicode": "U+2962",
+            "alt_code": "Alt+10594",
+            "html_code": "&#10594;",
+            "css_code": "\\2962"
+          },
+          {
+            "symbol": "⥣",
+            "name": "Upwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right",
+            "unicode": "U+2963",
+            "alt_code": "Alt+10595",
+            "html_code": "&#10595;",
+            "css_code": "\\2963"
+          },
+          {
+            "symbol": "⥤",
+            "name": "Rightwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Down",
+            "unicode": "U+2964",
+            "alt_code": "Alt+10596",
+            "html_code": "&#10596;",
+            "css_code": "\\2964"
+          },
+          {
+            "symbol": "⥥",
+            "name": "Downwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right",
+            "unicode": "U+2965",
+            "alt_code": "Alt+10597",
+            "html_code": "&#10597;",
+            "css_code": "\\2965"
+          },
+
+          {
+            "symbol": "⥦",
+            "name": "Leftwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Up",
+            "unicode": "U+2966",
+            "alt_code": "Alt+10598",
+            "html_code": "&#10598;",
+            "css_code": "\\2966"
+          },
+          {
+            "symbol": "⥧",
+            "name": "Leftwards Harpoon With Barb Down Above Rightwards Harpoon With Barb Down",
+            "unicode": "U+2967",
+            "alt_code": "Alt+10599",
+            "html_code": "&#10599;",
+            "css_code": "\\2967"
+          },
+          {
+            "symbol": "⥨",
+            "name": "Rightwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Up",
+            "unicode": "U+2968",
+            "alt_code": "Alt+10600",
+            "html_code": "&#10600;",
+            "css_code": "\\2968"
+          },
+          {
+            "symbol": "⥩",
+            "name": "Rightwards Harpoon With Barb Down Above Leftwards Harpoon With Barb Down",
+            "unicode": "U+2969",
+            "alt_code": "Alt+10601",
+            "html_code": "&#10601;",
+            "css_code": "\\2969"
+          },
+          {
+            "symbol": "⥪",
+            "name": "Leftwards Harpoon With Barb Up Above Long Dash",
+            "unicode": "U+296A",
+            "alt_code": "Alt+10602",
+            "html_code": "&#10602;",
+            "css_code": "\\296A"
+          },
+
+          {
+            "symbol": "⥫",
+            "name": "Leftwards Harpoon With Barb Down Below Long Dash",
+            "unicode": "U+296B",
+            "alt_code": "Alt+10603",
+            "html_code": "&#10603;",
+            "css_code": "\\296B"
+          },
+          {
+            "symbol": "⥬",
+            "name": "Rightwards Harpoon With Barb Up Above Long Dash",
+            "unicode": "U+296C",
+            "alt_code": "Alt+10604",
+            "html_code": "&#10604;",
+            "css_code": "\\296C"
+          },
+          {
+            "symbol": "⥭",
+            "name": "Rightwards Harpoon With Barb Down Below Long Dash",
+            "unicode": "U+296D",
+            "alt_code": "Alt+10605",
+            "html_code": "&#10605;",
+            "css_code": "\\296D"
+          },
+          {
+            "symbol": "⥮",
+            "name": "Upwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right",
+            "unicode": "U+296E",
+            "alt_code": "Alt+10606",
+            "html_code": "&#10606;",
+            "css_code": "\\296E"
+          },
+          {
+            "symbol": "⥯",
+            "name": "Downwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right",
+            "unicode": "U+296F",
+            "alt_code": "Alt+10607",
+            "html_code": "&#10607;",
+            "css_code": "\\296F"
+          }
+        ]
+      },
+      "DiamondSymbols": {
+        "info": "Symbols representing diamonds or diamond-like shapes.",
+        "items": [
+          {
+            "symbol": "◆",
+            "name": "Black Diamond",
+            "unicode": "U+25C6",
+            "alt_code": "Alt+9670",
+            "html_code": "&#9670;",
+            "css_code": "\\25C6"
+          },
+          {
+            "symbol": "◇",
+            "name": "White Diamond",
+            "unicode": "U+25C7",
+            "alt_code": "Alt+9671",
+            "html_code": "&#9671;",
+            "css_code": "\\25C7"
+          },
+          {
+            "symbol": "◈",
+            "name": "White Diamond Containing Black Small Diamond",
+            "unicode": "U+25C8",
+            "alt_code": "Alt+9672",
+            "html_code": "&#9672;",
+            "css_code": "\\25C8"
+          },
+          {
+            "symbol": "♢",
+            "name": "White Diamond Suit",
+            "unicode": "U+2662",
+            "alt_code": "Alt+9826",
+            "html_code": "&#9826;",
+            "css_code": "\\2662"
+          },
+          {
+            "symbol": "♦",
+            "name": "Black Diamond Suit",
+            "unicode": "U+2666",
+            "alt_code": "Alt+9830",
+            "html_code": "&#9830;",
+            "css_code": "\\2666"
+          },
+
+          {
+            "symbol": "❖",
+            "name": "Black Diamond Minus White X",
+            "unicode": "U+2756",
+            "alt_code": "Alt+10070",
+            "html_code": "&#10070;",
+            "css_code": "\\2756"
+          },
+          {
+            "symbol": "⟐",
+            "name": "White Diamond With Centred Dot",
+            "unicode": "U+27D0",
+            "alt_code": "Alt+10192",
+            "html_code": "&#10192;",
+            "css_code": "\\27D0"
+          },
+          {
+            "symbol": "⟡",
+            "name": "White Concave-sided Diamond",
+            "unicode": "U+27E1",
+            "alt_code": "Alt+10209",
+            "html_code": "&#10209;",
+            "css_code": "\\27E1"
+          },
+          {
+            "symbol": "⟢",
+            "name": "White Concave-sided Diamond With Leftwards Tick",
+            "unicode": "U+27E2",
+            "alt_code": "Alt+10210",
+            "html_code": "&#10210;",
+            "css_code": "\\27E2"
+          },
+          {
+            "symbol": "⟣",
+            "name": "White Concave-sided Diamond With Rightwards Tick",
+            "unicode": "U+27E3",
+            "alt_code": "Alt+10211",
+            "html_code": "&#10211;",
+            "css_code": "\\27E3"
+          },
+          {
+            "symbol": "⧰",
+            "name": "Error-barred White Diamond",
+            "unicode": "U+29F0",
+            "alt_code": "Alt+10736",
+            "html_code": "&#10736;",
+            "css_code": "\\29F0"
+          },
+          {
+            "symbol": "⧱",
+            "name": "Error-barred Black Diamond",
+            "unicode": "U+29F1",
+            "alt_code": "Alt+10737",
+            "html_code": "&#10737;",
+            "css_code": "\\29F1"
+          },
+          {
+            "symbol": "⬖",
+            "name": "Diamond With Left Half Black",
+            "unicode": "U+2B16",
+            "alt_code": "Alt+11030",
+            "html_code": "&#11030;",
+            "css_code": "\\2B16"
+          },
+          {
+            "symbol": "⬗",
+            "name": "Diamond With Right Half Black",
+            "unicode": "U+2B17",
+            "alt_code": "Alt+11031",
+            "html_code": "&#11031;",
+            "css_code": "\\2B17"
+          },
+          {
+            "symbol": "⬘",
+            "name": "Diamond With Top Half Black",
+            "unicode": "U+2B18",
+            "alt_code": "Alt+11032",
+            "html_code": "&#11032;",
+            "css_code": "\\2B18"
+          },
+          {
+            "symbol": "⬙",
+            "name": "Diamond With Bottom Half Black",
+            "unicode": "U+2B19",
+            "alt_code": "Alt+11033",
+            "html_code": "&#11033;",
+            "css_code": "\\2B19"
+          },
+          {
+            "symbol": "⬥",
+            "name": "Black Medium Diamond",
+            "unicode": "U+2B25",
+            "alt_code": "Alt+11045",
+            "html_code": "&#11045;",
+            "css_code": "\\2B25"
+          },
+          {
+            "symbol": "⬦",
+            "name": "White Medium Diamond",
+            "unicode": "U+2B26",
+            "alt_code": "Alt+11046",
+            "html_code": "&#11046;",
+            "css_code": "\\2B26"
+          },
+          {
+            "symbol": "⬩",
+            "name": "Black Small Diamond",
+            "unicode": "U+2B29",
+            "alt_code": "Alt+11049",
+            "html_code": "&#11049;",
+            "css_code": "\\2B29"
+          },
+          {
+            "symbol": "⯁",
+            "name": "Black Diamond Centred",
+            "unicode": "U+2BC1",
+            "alt_code": "Alt+11201",
+            "html_code": "&#11201;",
+            "css_code": "\\2BC1"
+          }
+        ]
+      },
+      "DiagonalSymbols": {
+        "info": "Symbols representing diagonal lines or shapes with diagonal elements.",
+        "items": [
+          {
+            "symbol": "▩",
+            "name": "Square With Diagonal Crosshatch Fill",
+            "unicode": "U+25A9",
+            "alt_code": "Alt+9641",
+            "html_code": "&#9641;",
+            "css_code": "\\25A9"
+          },
+          {
+            "symbol": "◩",
+            "name": "Square With Upper Left Diagonal Half Black",
+            "unicode": "U+25E9",
+            "alt_code": "Alt+9705",
+            "html_code": "&#9705;",
+            "css_code": "\\25E9"
+          },
+          {
+            "symbol": "◪",
+            "name": "Square With Lower Right Diagonal Half Black",
+            "unicode": "U+25EA",
+            "alt_code": "Alt+9706",
+            "html_code": "&#9706;",
+            "css_code": "\\25EA"
+          },
+          {
+            "symbol": "⛞",
+            "name": "Falling Diagonal In White Circle In Black Square",
+            "unicode": "U+26DE",
+            "alt_code": "Alt+9950",
+            "html_code": "&#9950;",
+            "css_code": "\\26DE"
+          },
+          {
+            "symbol": "⟋",
+            "name": "Mathematical Rising Diagonal",
+            "unicode": "U+27CB",
+            "alt_code": "Alt+10187",
+            "html_code": "&#10187;",
+            "css_code": "\\27CB"
+          },
+
+          {
+            "symbol": "⟍",
+            "name": "Mathematical Falling Diagonal",
+            "unicode": "U+27CD",
+            "alt_code": "Alt+10189",
+            "html_code": "&#10189;",
+            "css_code": "\\27CD"
+          },
+          {
+            "symbol": "⤫",
+            "name": "Rising Diagonal Crossing Falling Diagonal",
+            "unicode": "U+292B",
+            "alt_code": "Alt+10539",
+            "html_code": "&#10539;",
+            "css_code": "\\292B"
+          },
+          {
+            "symbol": "⤬",
+            "name": "Falling Diagonal Crossing Rising Diagonal",
+            "unicode": "U+292C",
+            "alt_code": "Alt+10540",
+            "html_code": "&#10540;",
+            "css_code": "\\292C"
+          },
+          {
+            "symbol": "⤯",
+            "name": "Falling Diagonal Crossing North East Arrow",
+            "unicode": "U+292F",
+            "alt_code": "Alt+10543",
+            "html_code": "&#10543;",
+            "css_code": "\\292F"
+          },
+          {
+            "symbol": "⤰",
+            "name": "Rising Diagonal Crossing South East Arrow",
+            "unicode": "U+2930",
+            "alt_code": "Alt+10544",
+            "html_code": "&#10544;",
+            "css_code": "\\2930"
+          },
+          {
+            "symbol": "⧄",
+            "name": "Squared Rising Diagonal Slash",
+            "unicode": "U+29C4",
+            "alt_code": "Alt+10692",
+            "html_code": "&#10692;",
+            "css_code": "\\29C4"
+          },
+          {
+            "symbol": "⧅",
+            "name": "Squared Falling Diagonal Slash",
+            "unicode": "U+29C5",
+            "alt_code": "Alt+10693",
+            "html_code": "&#10693;",
+            "css_code": "\\29C5"
+          },
+          {
+            "symbol": "⬔",
+            "name": "Square With Upper Right Diagonal Half Black",
+            "unicode": "U+2B14",
+            "alt_code": "Alt+11028",
+            "html_code": "&#11028;",
+            "css_code": "\\2B14"
+          },
+          {
+            "symbol": "⬕ ",
+            "name": "Square With Lower Left Diagonal Half Black",
+            "unicode": "U+2B15",
+            "alt_code": "Alt+11029",
+            "html_code": "&#11029;",
+            "css_code": "\\2B15"
+          }
+        ]
+      },
+      "IntersectionSymbols": {
+        "info": "Symbols representing intersections in geometry, set theory, or directional paths.",
+        "items": [
+          {
+            "symbol": "⨅ ",
+            "name": "N-ary Square Intersection Operator",
+            "unicode": "U+2A05",
+            "alt_code": "Alt+10757",
+            "html_code": "&#10757;",
+            "css_code": "\\2A05"
+          },
+          {
+            "symbol": "⨙ ",
+            "name": "Integral With Intersection",
+            "unicode": "U+2A19",
+            "alt_code": "Alt+10777",
+            "html_code": "&#10777;",
+            "css_code": "\\2A19"
+          },
+          {
+            "symbol": "⩀ ",
+            "name": "Intersection With Dot",
+            "unicode": "U+2A40",
+            "alt_code": "Alt+10816",
+            "html_code": "&#10816;",
+            "css_code": "\\2A40"
+          },
+          {
+            "symbol": "⩃",
+            "name": "Intersection With Overbar",
+            "unicode": "U+2A43",
+            "alt_code": "Alt+10819",
+            "html_code": "&#10819;",
+            "css_code": "\\2A43"
+          },
+          {
+            "symbol": "⩄",
+            "name": "Intersection With Logical And",
+            "unicode": "U+2A44",
+            "alt_code": "Alt+10820",
+            "html_code": "&#10820;",
+            "css_code": "\\2A44"
+          },
+
+          {
+            "symbol": "⩆",
+            "name": "Union Above Intersection",
+            "unicode": "U+2A46",
+            "alt_code": "Alt+10822",
+            "html_code": "&#10822;",
+            "css_code": "\\2A46"
+          },
+          {
+            "symbol": "⩇",
+            "name": "Intersection Above Union",
+            "unicode": "U+2A47",
+            "alt_code": "Alt+10823",
+            "html_code": "&#10823;",
+            "css_code": "\\2A47"
+          },
+          {
+            "symbol": "⩈",
+            "name": "Union Above Bar Above Intersection",
+            "unicode": "U+2A48",
+            "alt_code": "Alt+10824",
+            "html_code": "&#10824;",
+            "css_code": "\\2A48"
+          },
+          {
+            "symbol": "⩉",
+            "name": "Intersection Above Bar Above Union",
+            "unicode": "U+2A49",
+            "alt_code": "Alt+10825",
+            "html_code": "&#10825;",
+            "css_code": "\\2A49"
+          },
+          {
+            "symbol": "⩋",
+            "name": "Intersection Beside And Joined With Intersection",
+            "unicode": "U+2A4B",
+            "alt_code": "Alt+10827",
+            "html_code": "&#10827;",
+            "css_code": "\\2A4B"
+          },
+          {
+            "symbol": "⩍",
+            "name": "Closed Intersection With Serifs",
+            "unicode": "U+2A4D",
+            "alt_code": "Alt+10829",
+            "html_code": "&#10829;",
+            "css_code": "\\2A4D"
+          },
+          {
+            "symbol": "⩎",
+            "name": "Double Square Intersection",
+            "unicode": "U+2A4E",
+            "alt_code": "Alt+10830",
+            "html_code": "&#10830;",
+            "css_code": "\\2A4E"
+          },
+          {
+            "symbol": "⫛",
+            "name": "Transversal Intersection",
+            "unicode": "U+2ADB",
+            "alt_code": "Alt+10971",
+            "html_code": "&#10971;",
+            "css_code": "\\2ADB"
+          }
+        ]
+      },
+      "EllipseSymbols": {
+        "info": "Symbols representing ellipses or oval shapes, often used in geometry and design.",
+        "items": [
+          {
+            "symbol": "⬬ ",
+            "name": "Black Horizontal Ellipse",
+            "unicode": "U+2B2C",
+            "alt_code": "Alt+11052",
+            "html_code": "&#11052;",
+            "css_code": "\\2B2C"
+          },
+          {
+            "symbol": "⬭ ",
+            "name": "White Horizontal Ellipse",
+            "unicode": "U+2B2D",
+            "alt_code": "Alt+11053",
+            "html_code": "&#11053;",
+            "css_code": "\\2B2D"
+          },
+          {
+            "symbol": "⬮",
+            "name": "Black Vertical Ellipse",
+            "unicode": "U+2B2E",
+            "alt_code": "Alt+11054",
+            "html_code": "&#11054;",
+            "css_code": "\\2B2E"
+          },
+          {
+            "symbol": "⬯",
+            "name": "White Vertical Ellipse",
+            "unicode": "U+2B2F",
+            "alt_code": "Alt+11055",
+            "html_code": "&#11055;",
+            "css_code": "\\2B2F"
+          }
+        ]
+      },
+      "ArcSymbols": {
+        "info": "Symbols representing arcs, used in geometry, design, and various diagrams.",
+        "items": [
+          {
+            "symbol": "◜",
+            "name": "Upper Left Quadrant Circular Arc",
+            "unicode": "U+25DC",
+            "alt_code": "Alt+9692",
+            "html_code": "&#9692;",
+            "css_code": "\\25DC"
+          },
+          {
+            "symbol": "◝",
+            "name": "Upper Right Quadrant Circular Arc",
+            "unicode": "U+25DD",
+            "alt_code": "Alt+9693",
+            "html_code": "&#9693;",
+            "css_code": "\\25DD"
+          },
+          {
+            "symbol": "◞",
+            "name": "Lower Right Quadrant Circular Arc",
+            "unicode": "U+25DE",
+            "alt_code": "Alt+9694",
+            "html_code": "&#9694;",
+            "css_code": "\\25DE"
+          },
+          {
+            "symbol": "◟",
+            "name": "Lower Left Quadrant Circular Arc",
+            "unicode": "U+25DF",
+            "alt_code": "Alt+9695",
+            "html_code": "&#9695;",
+            "css_code": "\\25DF"
+          },
+          {
+            "symbol": "⤸",
+            "name": "Right-side Arc Clockwise Arrow",
+            "unicode": "U+2938",
+            "alt_code": "Alt+10552",
+            "html_code": "&#10552;",
+            "css_code": "\\2938"
+          },
+
+          {
+            "symbol": "⤹",
+            "name": "Left-side Arc Anticlockwise Arrow",
+            "unicode": "U+2939",
+            "alt_code": "Alt+10553",
+            "html_code": "&#10553;",
+            "css_code": "\\2939"
+          },
+          {
+            "symbol": "⤺",
+            "name": "Top Arc Anticlockwise Arrow",
+            "unicode": "U+293A",
+            "alt_code": "Alt+10554",
+            "html_code": "&#10554;",
+            "css_code": "\\293A"
+          },
+          {
+            "symbol": "⤻",
+            "name": "Bottom Arc Anticlockwise Arrow",
+            "unicode": "U+293B",
+            "alt_code": "Alt+10555",
+            "html_code": "&#10555;",
+            "css_code": "\\293B"
+          },
+          {
+            "symbol": "⤼",
+            "name": "Top Arc Clockwise Arrow With Minus",
+            "unicode": "U+293C",
+            "alt_code": "Alt+10556",
+            "html_code": "&#10556;",
+            "css_code": "\\293C"
+          },
+          {
+            "symbol": "⤽",
+            "name": "Top Arc Anticlockwise Arrow With Plus",
+            "unicode": "U+293D",
+            "alt_code": "Alt+10557",
+            "html_code": "&#10557;",
+            "css_code": "\\293D"
+          },
+          {
+            "symbol": "⦓",
+            "name": "Left Arc Less-than Bracket",
+            "unicode": "U+2993",
+            "alt_code": "Alt+10643",
+            "html_code": "&#10643;",
+            "css_code": "\\2993"
+          },
+          {
+            "symbol": "⦔",
+            "name": "Right Arc Greater-than Bracket",
+            "unicode": "U+2994",
+            "alt_code": "Alt+10644",
+            "html_code": "&#10644;",
+            "css_code": "\\2994"
+          },
+          {
+            "symbol": "⦕",
+            "name": "Double Left Arc Greater-than Bracket",
+            "unicode": "U+2995",
+            "alt_code": "Alt+10645",
+            "html_code": "&#10645;",
+            "css_code": "\\2995"
+          },
+          {
+            "symbol": "⦖",
+            "name": "Double Right Arc Less-than Bracket",
+            "unicode": "U+2996",
+            "alt_code": "Alt+10646",
+            "html_code": "&#10646;",
+            "css_code": "\\2996"
+          }
+        ]
+      },
+      "IntegralSymbols": {
+        "info": "Symbols representing integrals, used in calculus and mathematical notations.",
+        "items": [
+          {
+            "symbol": "⨋",
+            "name": "Summation With Integral",
+            "unicode": "U+2A0B",
+            "alt_code": "Alt+10763",
+            "html_code": "&#10763;",
+            "css_code": "\\2A0B"
+          },
+          {
+            "symbol": "⨌",
+            "name": "Quadruple Integral Operator",
+            "unicode": "U+2A0C",
+            "alt_code": "Alt+10764",
+            "html_code": "&#10764;",
+            "css_code": "\\2A0C"
+          },
+          {
+            "symbol": "⨍",
+            "name": "Finite Part Integral",
+            "unicode": "U+2A0D",
+            "alt_code": "Alt+10765",
+            "html_code": "&#10765;",
+            "css_code": "\\2A0D"
+          },
+          {
+            "symbol": "⨎",
+            "name": "Integral With Double Stroke",
+            "unicode": "U+2A0E",
+            "alt_code": "Alt+10766",
+            "html_code": "&#10766;",
+            "css_code": "\\2A0E"
+          },
+          {
+            "symbol": "⨏",
+            "name": "Integral Average With Slash",
+            "unicode": "U+2A0F",
+            "alt_code": "Alt+10767",
+            "html_code": "&#10767;",
+            "css_code": "\\2A0F"
+          },
+
+          {
+            "symbol": "⨕",
+            "name": "Integral Around A Point Operator",
+            "unicode": "U+2A15",
+            "alt_code": "Alt+10773",
+            "html_code": "&#10773;",
+            "css_code": "\\2A15"
+          },
+          {
+            "symbol": "⨖",
+            "name": "Quaternion Integral Operator",
+            "unicode": "U+2A16",
+            "alt_code": "Alt+10774",
+            "html_code": "&#10774;",
+            "css_code": "\\2A16"
+          },
+          {
+            "symbol": "⨗",
+            "name": "Integral With Leftwards Arrow With Hook",
+            "unicode": "U+2A17",
+            "alt_code": "Alt+10775",
+            "html_code": "&#10775;",
+            "css_code": "\\2A17"
+          },
+          {
+            "symbol": "⨘",
+            "name": "Integral With Times Sign",
+            "unicode": "U+2A18",
+            "alt_code": "Alt+10776",
+            "html_code": "&#10776;",
+            "css_code": "\\2A18"
+          },
+          {
+            "symbol": "⨙",
+            "name": "Integral With Intersection",
+            "unicode": "U+2A19",
+            "alt_code": "Alt+10777",
+            "html_code": "&#10777;",
+            "css_code": "\\2A19"
+          },
+          {
+            "symbol": "⨚",
+            "name": "Integral With Union",
+            "unicode": "U+2A1A",
+            "alt_code": "Alt+10778",
+            "html_code": "&#10778;",
+            "css_code": "\\2A1A"
+          },
+          {
+            "symbol": "⨛",
+            "name": "Integral With Overbar",
+            "unicode": "U+2A1B",
+            "alt_code": "Alt+10779",
+            "html_code": "&#10779;",
+            "css_code": "\\2A1B"
+          },
+          {
+            "symbol": "⨜",
+            "name": "Integral With Underbar",
+            "unicode": "U+2A1C",
+            "alt_code": "Alt+10780",
+            "html_code": "&#10780;",
+            "css_code": "\\2A1C"
+          }
+        ]
+      },
+      "TrigramSymbols": {
+        "info": "Symbols representing trigrams, often used in mystical or cultural contexts such as I Ching or other symbolic systems.",
+        "items": [
+          {
+            "symbol": "☰",
+            "name": "Trigram for Heaven",
+            "unicode": "U+2630",
+            "alt_code": "Alt+9776",
+            "html_code": "&#9776;",
+            "css_code": "\\2630"
+          },
+          {
+            "symbol": "☱",
+            "name": "Trigram for Lake",
+            "unicode": "U+2631",
+            "alt_code": "Alt+9777",
+            "html_code": "&#9777;",
+            "css_code": "\\2631"
+          },
+          {
+            "symbol": "☲",
+            "name": "Trigram for Fire",
+            "unicode": "U+2632",
+            "alt_code": "Alt+9778",
+            "html_code": "&#9778;",
+            "css_code": "\\2632"
+          },
+          {
+            "symbol": "☳",
+            "name": "Trigram for Thunder",
+            "unicode": "U+2633",
+            "alt_code": "Alt+9779",
+            "html_code": "&#9779;",
+            "css_code": "\\2633"
+          },
+          {
+            "symbol": "☴",
+            "name": "Trigram for Wind",
+            "unicode": "U+2634",
+            "alt_code": "Alt+9780",
+            "html_code": "&#9780;",
+            "css_code": "\\2634"
+          },
+          {
+            "symbol": "☵",
+            "name": "Trigram for Water",
+            "unicode": "U+2635",
+            "alt_code": "Alt+9781",
+            "html_code": "&#9781;",
+            "css_code": "\\2635"
+          },
+          {
+            "symbol": "☶",
+            "name": "Trigram for Mountain",
+            "unicode": "U+2636",
+            "alt_code": "Alt+9782",
+            "html_code": "&#9782;",
+            "css_code": "\\2636"
+          },
+          {
+            "symbol": "☷",
+            "name": "Trigram for Earth",
+            "unicode": "U+2637",
+            "alt_code": "Alt+9783",
+            "html_code": "&#9783;",
+            "css_code": "\\2637"
+          }
+        ]
+      },
+      "LozengeSymbols": {
+        "info": "Symbols representing lozenges, diamond-shaped geometric figures often used in logic and mathematics.",
+        "items": [
+          {
+            "symbol": "◊",
+            "name": "Lozenge",
+            "unicode": "U+25CA",
+            "alt_code": "Alt+9674",
+            "html_code": "&#9674;",
+            "css_code": "\\25CA"
+          },
+          {
+            "symbol": "⟠",
+            "name": "Lozenge Divided By Horizontal Rule",
+            "unicode": "U+27E0",
+            "alt_code": "Alt+10208",
+            "html_code": "&#10208;",
+            "css_code": "\\27E0"
+          },
+          {
+            "symbol": "⬧",
+            "name": "Black Lozenge",
+            "unicode": "U+29EB",
+            "alt_code": "Alt+10731",
+            "html_code": "&#10731;",
+            "css_code": "\\29EB"
+          },
+          {
+            "symbol": "⧫",
+            "name": "Black Medium Lozenge",
+            "unicode": "U+2B27",
+            "alt_code": "Alt+11047",
+            "html_code": "&#11047;",
+            "css_code": "\\2B27"
+          },
+          {
+            "symbol": "⬨",
+            "name": "White Medium Lozenge",
+            "unicode": "U+2B28",
+            "alt_code": "Alt+11048",
+            "html_code": "&#11048;",
+            "css_code": "\\2B28"
+          },
+          {
+            "symbol": "⬪",
+            "name": "Black Small Lozenge",
+            "unicode": "U+2B2A",
+            "alt_code": "Alt+11050",
+            "html_code": "&#11050;",
+            "css_code": "\\2B2A"
+          },
+          {
+            "symbol": "⬫",
+            "name": "White Small Lozenge",
+            "unicode": "U+2B2B",
+            "alt_code": "Alt+11051",
+            "html_code": "&#11051;",
+            "css_code": "\\2B2B"
+          }
+        ]
+      },
+
+      "SummationSymbols": {
+        "info": "Symbols representing summation, typically used in mathematical contexts to denote the sum of a series or set of terms.",
+        "items": [
+          {
+            "symbol": "⅀",
+            "name": "Double-struck N-ary Summation",
+            "unicode": "U+2140",
+            "alt_code": "Alt+8512",
+            "html_code": "&#8512;",
+            "css_code": "\\2140"
+          },
+          {
+            "symbol": "∑",
+            "name": "N-ary Summation",
+            "unicode": "U+2211",
+            "alt_code": "Alt+8721",
+            "html_code": "&#8721;",
+            "css_code": "\\2211"
+          },
+          {
+            "symbol": "⎲",
+            "name": "Summation Top",
+            "unicode": "U+23B2",
+            "alt_code": "Alt+9138",
+            "html_code": "&#9138;",
+            "css_code": "\\23B2"
+          },
+          {
+            "symbol": "⎳",
+            "name": "Summation Bottom",
+            "unicode": "U+23B3",
+            "alt_code": "Alt+9139",
+            "html_code": "&#9139;",
+            "css_code": "\\23B3"
+          },
+          {
+            "symbol": "⨋",
+            "name": "Summation With Integral",
+            "unicode": "U+2A0B",
+            "alt_code": "Alt+10763",
+            "html_code": "&#10763;",
+            "css_code": "\\2A0B"
+          }
+        ]
+      },
+      "LessThanSymbols": {
+        "info": "Symbols representing 'less than' or related concepts, commonly used in mathematics, comparisons, and inequalities.",
+        "items": [
+          {
+            "symbol": "＜",
+            "name": "Less-Than Sign",
+            "unicode": "U+003C",
+            "alt_code": "Alt+60",
+            "html_code": "&#60;",
+            "css_code": "\\003C"
+          },
+          {
+            "symbol": "≮",
+            "name": "Not Less-Than",
+            "unicode": "U+2270",
+            "alt_code": "Alt+8800",
+            "html_code": "&#8800;",
+            "css_code": "\\2270"
+          },
+          {
+            "symbol": "≪",
+            "name": "Much Less Than",
+            "unicode": "U+226A",
+            "alt_code": "Alt+8882",
+            "html_code": "&#8882;",
+            "css_code": "\\226A"
+          },
+          {
+            "symbol": "≯",
+            "name": "Not Much Less Than",
+            "unicode": "U+227F",
+            "alt_code": "Alt+8883",
+            "html_code": "&#8883;",
+            "css_code": "\\227F"
+          },
+          {
+            "symbol": "∠",
+            "name": "Angle",
+            "unicode": "U+2220",
+            "alt_code": "Alt+8736",
+            "html_code": "&#8736;",
+            "css_code": "\\2220"
+          },
+          {
+            "symbol": "≦",
+            "name": "Less-Than or Equal To",
+            "unicode": "U+2266",
+            "alt_code": "Alt+8806",
+            "html_code": "&#8806;",
+            "css_code": "\\2266"
+          },
+          {
+            "symbol": "≨",
+            "name": "Less-Than with Circumflex Accent",
+            "unicode": "U+2278",
+            "alt_code": "Alt+8888",
+            "html_code": "&#8888;",
+            "css_code": "\\2278"
+          },
+          {
+            "symbol": "≪",
+            "name": "Much Less Than",
+            "unicode": "U+226A",
+            "alt_code": "Alt+8882",
+            "html_code": "&#8882;",
+            "css_code": "\\226A"
+          },
+          {
+            "symbol": "≷",
+            "name": "Greater-Than Or Less-Than",
+            "unicode": "U+2277",
+            "alt_code": "Alt+8887",
+            "html_code": "&#8887;",
+            "css_code": "\\2277"
+          },
+          {
+            "symbol": "≷",
+            "name": "Greater Than or Less Than",
+            "unicode": "U+2277",
+            "alt_code": "Alt+8887",
+            "html_code": "&#8887;",
+            "css_code": "\\2277"
+          },
+          {
+            "symbol": "⧻",
+            "name": "XOR",
+            "unicode": "U+29BB",
+            "alt_code": "Alt+10651",
+            "html_code": "&#10651;",
+            "css_code": "\\29BB"
+          },
+          {
+            "symbol": "≪",
+            "name": "Much Less Than",
+            "unicode": "U+226A",
+            "alt_code": "Alt+8882",
+            "html_code": "&#8882;",
+            "css_code": "\\226A"
+          },
+          {
+            "symbol": "∝",
+            "name": "Proportional To",
+            "unicode": "U+221D",
+            "alt_code": "Alt+8733",
+            "html_code": "&#8733;",
+            "css_code": "\\221D"
+          },
+          {
+            "symbol": "≦",
+            "name": "Less Than or Equal",
+            "unicode": "U+2266",
+            "alt_code": "Alt+8806",
+            "html_code": "&#8806;",
+            "css_code": "\\2266"
+          },
+          {
+            "symbol": "≺",
+            "name": "Precedes",
+            "unicode": "U+227A",
+            "alt_code": "Alt+8886",
+            "html_code": "&#8886;",
+            "css_code": "\\227A"
+          },
+          {
+            "symbol": "≼",
+            "name": "Precedes or Equal To",
+            "unicode": "U+227C",
+            "alt_code": "Alt+8884",
+            "html_code": "&#8884;",
+            "css_code": "\\227C"
+          },
+          {
+            "symbol": "≼",
+            "name": "Precedes or Equal",
+            "unicode": "U+227C",
+            "alt_code": "Alt+8884",
+            "html_code": "&#8884;",
+            "css_code": "\\227C"
+          },
+          {
+            "symbol": "≺",
+            "name": "Precedes",
+            "unicode": "U+227A",
+            "alt_code": "Alt+8886",
+            "html_code": "&#8886;",
+            "css_code": "\\227A"
+          },
+          {
+            "symbol": "≰",
+            "name": "Precedes but Not Equal",
+            "unicode": "U+2270",
+            "alt_code": "Alt+8800",
+            "html_code": "&#8800;",
+            "css_code": "\\2270"
+          },
+          {
+            "symbol": "⪯",
+            "name": "Precedes or Equal To",
+            "unicode": "U+2ABF",
+            "alt_code": "Alt+10975",
+            "html_code": "&#10975;",
+            "css_code": "\\2ABF"
+          }
+        ]
+      },
+      "GreaterThanSymbols": {
+        "info": "Symbols representing 'greater than' or related concepts, commonly used in mathematics, comparisons, and inequalities.",
+        "items": [
+          {
+            "symbol": ">",
+            "name": "Greater-than Sign",
+            "unicode": "U+003E",
+            "alt_code": "Alt+62",
+            "html_code": "&#62;",
+            "css_code": "\\003E"
+          },
+          {
+            "symbol": "≥",
+            "name": "Greater-than Or Equal To",
+            "unicode": "U+2265",
+            "alt_code": "Alt+8805",
+            "html_code": "&#8805;",
+            "css_code": "\\2265"
+          },
+          {
+            "symbol": "≧",
+            "name": "Greater-than Over Equal To",
+            "unicode": "U+2267",
+            "alt_code": "Alt+8807",
+            "html_code": "&#8807;",
+            "css_code": "\\2267"
+          },
+          {
+            "symbol": "≩",
+            "name": "Greater-than But Not Equal To",
+            "unicode": "U+2269",
+            "alt_code": "Alt+8809",
+            "html_code": "&#8809;",
+            "css_code": "\\2269"
+          },
+          {
+            "symbol": "≫",
+            "name": "Much Greater-than",
+            "unicode": "U+226B",
+            "alt_code": "Alt+8811",
+            "html_code": "&#8811;",
+            "css_code": "\\226B"
+          },
+          {
+            "symbol": "≯",
+            "name": "Not Greater-than",
+            "unicode": "U+226F",
+            "alt_code": "Alt+8815",
+            "html_code": "&#8815;",
+            "css_code": "\\226F"
+          },
+          {
+            "symbol": "≱",
+            "name": "Neither Greater-than Nor Equal To",
+            "unicode": "U+2271",
+            "alt_code": "Alt+8817",
+            "html_code": "&#8817;",
+            "css_code": "\\2271"
+          },
+          {
+            "symbol": "≳",
+            "name": "Greater-than Or Equivalent To",
+            "unicode": "U+2273",
+            "alt_code": "Alt+8819",
+            "html_code": "&#8819;",
+            "css_code": "\\2273"
+          },
+          {
+            "symbol": "≵",
+            "name": "Neither Greater-than Nor Equivalent To",
+            "unicode": "U+2275",
+            "alt_code": "Alt+8821",
+            "html_code": "&#8821;",
+            "css_code": "\\2275"
+          },
+          {
+            "symbol": "⋗",
+            "name": "Greater-than With Dot",
+            "unicode": "U+22D7",
+            "alt_code": "Alt+8919",
+            "html_code": "&#8919;",
+            "css_code": "\\22D7"
+          },
+          {
+            "symbol": "⋙",
+            "name": "Very Much Greater-than",
+            "unicode": "U+22D9",
+            "alt_code": "Alt+8921",
+            "html_code": "&#8921;",
+            "css_code": "\\22D9"
+          },
+          {
+            "symbol": "⋝",
+            "name": "Equal To Or Greater-than",
+            "unicode": "U+22DD",
+            "alt_code": "Alt+8925",
+            "html_code": "&#8925;",
+            "css_code": "\\22DD"
+          },
+          {
+            "symbol": "⋧",
+            "name": "Greater-than But Not Equivalent To",
+            "unicode": "U+22E7",
+            "alt_code": "Alt+8935",
+            "html_code": "&#8935;",
+            "css_code": "\\22E7"
+          },
+          {
+            "symbol": "⍄",
+            "name": "Apl Functional Symbol Quad Greater-than",
+            "unicode": "U+2344",
+            "alt_code": "Alt+9028",
+            "html_code": "&#9028;",
+            "css_code": "\\2344"
+          },
+          {
+            "symbol": "⍩",
+            "name": "Apl Functional Symbol Greater-than Diaeresis",
+            "unicode": "U+2369",
+            "alt_code": "Alt+9065",
+            "html_code": "&#9065;",
+            "css_code": "\\2369"
+          },
+          {
+            "symbol": "⥸",
+            "name": "Greater-than Above Rightwards Arrow",
+            "unicode": "U+2978",
+            "alt_code": "Alt+10616",
+            "html_code": "&#10616;",
+            "css_code": "\\2978"
+          },
+          {
+            "symbol": "⦔",
+            "name": "Right Arc Greater-than Bracket",
+            "unicode": "U+2994",
+            "alt_code": "Alt+10644",
+            "html_code": "&#10644;",
+            "css_code": "\\2994"
+          },
+          {
+            "symbol": "⦕",
+            "name": "Double Left Arc Greater-than Bracket",
+            "unicode": "U+2995",
+            "alt_code": "Alt+10645",
+            "html_code": "&#10645;",
+            "css_code": "\\2995"
+          },
+          {
+            "symbol": "⧁",
+            "name": "Circled Greater-than",
+            "unicode": "U+29C1",
+            "alt_code": "Alt+10689",
+            "html_code": "&#10689;",
+            "css_code": "\\29C1"
+          },
+          {
+            "symbol": "⩺",
+            "name": "Greater-than With Circle Inside",
+            "unicode": "U+2A7A",
+            "alt_code": "Alt+10874",
+            "html_code": "&#10874;",
+            "css_code": "\\2A7A"
+          },
+          {
+            "symbol": "⩼",
+            "name": "Greater-than With Question Mark Above",
+            "unicode": "U+2A7C",
+            "alt_code": "Alt+10876",
+            "html_code": "&#10876;",
+            "css_code": "\\2A7C"
+          },
+          {
+            "symbol": "⩾",
+            "name": "Greater-than Or Slanted Equal To",
+            "unicode": "U+2A7E",
+            "alt_code": "Alt+10878",
+            "html_code": "&#10878;",
+            "css_code": "\\2A7E"
+          },
+          {
+            "symbol": "⪀",
+            "name": "Greater-than Or Slanted Equal To With Dot Inside",
+            "unicode": "U+2A80",
+            "alt_code": "Alt+10880",
+            "html_code": "&#10880;",
+            "css_code": "\\2A80"
+          },
+          {
+            "symbol": "⪂",
+            "name": "Greater-than Or Slanted Equal To With Dot Above",
+            "unicode": "U+2A82",
+            "alt_code": "Alt+10882",
+            "html_code": "&#10882;",
+            "css_code": "\\2A82"
+          },
+          {
+            "symbol": "⪄",
+            "name": "Greater-than Or Slanted Equal To With Dot Above Left",
+            "unicode": "U+2A84",
+            "alt_code": "Alt+10884",
+            "html_code": "&#10884;",
+            "css_code": "\\2A84"
+          },
+          {
+            "symbol": "⪆",
+            "name": "Greater-than Or Approximate",
+            "unicode": "U+2A86",
+            "alt_code": "Alt+10886",
+            "html_code": "&#10886;",
+            "css_code": "\\2A86"
+          },
+          {
+            "symbol": "⪈",
+            "name": "Greater-than And Single-line Not Equal To",
+            "unicode": "U+2A88",
+            "alt_code": "Alt+10888",
+            "html_code": "&#10888;",
+            "css_code": "\\2A88"
+          },
+          {
+            "symbol": "⪊",
+            "name": "Greater-than And Not Approximate",
+            "unicode": "U+2A8A",
+            "alt_code": "Alt+10890",
+            "html_code": "&#10890;",
+            "css_code": "\\2A8A"
+          },
+          {
+            "symbol": "⪎",
+            "name": "Greater-than Above Similar Or Equal",
+            "unicode": "U+2A8E",
+            "alt_code": "Alt+10894",
+            "html_code": "&#10894;",
+            "css_code": "\\2A8E"
+          },
+          {
+            "symbol": "⪖",
+            "name": "Slanted Equal To Or Greater-than",
+            "unicode": "U+2A96",
+            "alt_code": "Alt+10902",
+            "html_code": "&#10902;",
+            "css_code": "\\2A96"
+          },
+          {
+            "symbol": "⪘",
+            "name": "Slanted Equal To Or Greater-than With Dot Inside",
+            "unicode": "U+2A98",
+            "alt_code": "Alt+10904",
+            "html_code": "&#10904;",
+            "css_code": "\\2A98"
+          },
+
+          {
+            "symbol": "⪚",
+            "name": "Double-line Equal To Or Greater-than",
+            "unicode": "U+2A9A",
+            "alt_code": "Alt+10906",
+            "html_code": "&#10906;",
+            "css_code": "\\2A9A"
+          },
+          {
+            "symbol": "⪜",
+            "name": "Double-line Slanted Equal To Or Greater-than",
+            "unicode": "U+2A9C",
+            "alt_code": "Alt+10908",
+            "html_code": "&#10908;",
+            "css_code": "\\2A9C"
+          },
+          {
+            "symbol": "⪞",
+            "name": "Similar Or Greater-than",
+            "unicode": "U+2A9E",
+            "alt_code": "Alt+10910",
+            "html_code": "&#10910;",
+            "css_code": "\\2A9E"
+          },
+          {
+            "symbol": "⪠",
+            "name": "Similar Above Greater-than Above Equals Sign",
+            "unicode": "U+2AA0",
+            "alt_code": "Alt+10912",
+            "html_code": "&#10912;",
+            "css_code": "\\2AA0"
+          },
+          {
+            "symbol": "⪢",
+            "name": "Double Nested Greater-than",
+            "unicode": "U+2AA2",
+            "alt_code": "Alt+10914",
+            "html_code": "&#10914;",
+            "css_code": "\\2AA2"
+          },
+          {
+            "symbol": "⪧",
+            "name": "Greater-than Closed By Curve",
+            "unicode": "U+2AA7",
+            "alt_code": "Alt+10919",
+            "html_code": "&#10919;",
+            "css_code": "\\2AA7"
+          },
+          {
+            "symbol": "⪩",
+            "name": "Greater-than Closed By Curve Above Slanted Equal",
+            "unicode": "U+2AA9",
+            "alt_code": "Alt+10921",
+            "html_code": "&#10921;",
+            "css_code": "\\2AA9"
+          },
+          {
+            "symbol": "⫸",
+            "name": "Triple Nested Greater-than",
+            "unicode": "U+2AF8",
+            "alt_code": "Alt+11000",
+            "html_code": "&#11000;",
+            "css_code": "\\2AF8"
+          },
+          {
+            "symbol": "⫺",
+            "name": "Double-line Slanted Greater-than Or Equal To",
+            "unicode": "U+2AFA",
+            "alt_code": "Alt+11002",
+            "html_code": "&#11002;",
+            "css_code": "\\2AFA"
+          },
+          {
+            "symbol": "⭃",
+            "name": "Rightwards Arrow Through Greater-than",
+            "unicode": "U+2B43",
+            "alt_code": "Alt+11075",
+            "html_code": "&#11075;",
+            "css_code": "\\2B43"
+          },
+          {
+            "symbol": "﹥",
+            "name": "Small Greater-than Sign",
+            "unicode": "U+FE65",
+            "alt_code": "Alt+65125",
+            "html_code": "&#65125;",
+            "css_code": "\\FE65"
+          },
+          {
+            "symbol": "＞",
+            "name": "Fullwidth Greater-than Sign",
+            "unicode": "U+FF1E",
+            "alt_code": "Alt+65310",
+            "html_code": "&#65310;",
+            "css_code": "\\FF1E"
+          }
+        ]
+      },
+      "EqualSymbols": {
+        "info": "Symbols representing equality, commonly used in mathematics and logical expressions.",
+        "items": [
+          {
+            "symbol": "=",
+            "name": "Equals Sign",
+            "unicode": "U+003D",
+            "alt_code": "Alt+61",
+            "html_code": "&#61;",
+            "css_code": "\\003D"
+          },
+          {
+            "symbol": "≠",
+            "name": "Not Equal To",
+            "unicode": "U+2260",
+            "alt_code": "Alt+8800",
+            "html_code": "&#8800;",
+            "css_code": "\\2260"
+          },
+          {
+            "symbol": "≈",
+            "name": "Almost Equal To",
+            "unicode": "U+2248",
+            "alt_code": "Alt+8776",
+            "html_code": "&#8776;",
+            "css_code": "\\2248"
+          },
+          {
+            "symbol": "≡",
+            "name": "Identical To",
+            "unicode": "U+2261",
+            "alt_code": "Alt+8801",
+            "html_code": "&#8801;",
+            "css_code": "\\2261"
+          },
+          {
+            "symbol": "≃",
+            "name": "Approximately Equal To",
+            "unicode": "U+2243",
+            "alt_code": "Alt+8775",
+            "html_code": "&#8775;",
+            "css_code": "\\2243"
+          },
+          {
+            "symbol": "∼",
+            "name": "Tilde Operator",
+            "unicode": "U+223C",
+            "alt_code": "Alt+8764",
+            "html_code": "&#8764;",
+            "css_code": "\\223C"
+          },
+          {
+            "symbol": "≅",
+            "name": "Congruent To",
+            "unicode": "U+2245",
+            "alt_code": "Alt+8773",
+            "html_code": "&#8773;",
+            "css_code": "\\2245"
+          },
+          {
+            "symbol": "≒",
+            "name": "Asymptotically Equal To",
+            "unicode": "U+2242",
+            "alt_code": "Alt+8778",
+            "html_code": "&#8778;",
+            "css_code": "\\2242"
+          },
+          {
+            "symbol": "≪",
+            "name": "Much Less Than",
+            "unicode": "U+226A",
+            "alt_code": "Alt+8822",
+            "html_code": "&#8822;",
+            "css_code": "\\226A"
+          },
+          {
+            "symbol": "≫",
+            "name": "Much Greater Than",
+            "unicode": "U+226B",
+            "alt_code": "Alt+8883",
+            "html_code": "&#8883;",
+            "css_code": "\\226B"
+          },
+          {
+            "symbol": "≝",
+            "name": "Equal by Definition",
+            "unicode": "U+225D",
+            "alt_code": "Alt+8925",
+            "html_code": "&#8925;",
+            "css_code": "\\225D"
+          },
+          {
+            "symbol": "≖",
+            "name": "Delta Equal To",
+            "unicode": "U+2256",
+            "alt_code": "Alt+8926",
+            "html_code": "&#8926;",
+            "css_code": "\\2256"
+          },
+          {
+            "symbol": "≡",
+            "name": "Equivalence",
+            "unicode": "U+2261",
+            "alt_code": "Alt+8801",
+            "html_code": "&#8801;",
+            "css_code": "\\2261"
+          },
+          {
+            "symbol": "∝",
+            "name": "Proportional To",
+            "unicode": "U+221D",
+            "alt_code": "Alt+8733",
+            "html_code": "&#8733;",
+            "css_code": "\\221D"
+          },
+          {
+            "symbol": "∇",
+            "name": "Nabla (Del Operator)",
+            "unicode": "U+2207",
+            "alt_code": "Alt+8711",
+            "html_code": "&#8711;",
+            "css_code": "\\2207"
+          },
+          {
+            "symbol": "≚",
+            "name": "Equal To By Definition",
+            "unicode": "U+225A",
+            "alt_code": "Alt+8922",
+            "html_code": "&#8922;",
+            "css_code": "\\225A"
+          },
+          {
+            "symbol": "≤",
+            "name": "Equivalent To",
+            "unicode": "U+2254",
+            "alt_code": "Alt+8924",
+            "html_code": "&#8924;",
+            "css_code": "\\2254"
+          },
+          {
+            "symbol": "≓",
+            "name": "Triple Bar",
+            "unicode": "U+2253",
+            "alt_code": "Alt+8923",
+            "html_code": "&#8923;",
+            "css_code": "\\2253"
+          },
+          {
+            "symbol": "≗",
+            "name": "Measured By",
+            "unicode": "U+2257",
+            "alt_code": "Alt+8927",
+            "html_code": "&#8927;",
+            "css_code": "\\2257"
+          }
+        ]
+      },
+      "IdenticalSymbols": {
+        "info": "Symbols representing identical or equivalence relationships, often used in mathematics and logic.",
+        "items": [
+          {
+            "symbol": "≡",
+            "name": "Identical To",
+            "unicode": "U+2261",
+            "alt_code": "Alt+8801",
+            "html_code": "&#8801;",
+            "css_code": "\\2261"
+          },
+          {
+            "symbol": "≝",
+            "name": "Equal by Definition",
+            "unicode": "U+225D",
+            "alt_code": "Alt+8925",
+            "html_code": "&#8925;",
+            "css_code": "\\225D"
+          },
+          {
+            "symbol": "≐",
+            "name": "Equal To By Definition",
+            "unicode": "U+2250",
+            "alt_code": "Alt+8800",
+            "html_code": "&#8800;",
+            "css_code": "\\2250"
+          },
+          {
+            "symbol": "≡",
+            "name": "Identical To",
+            "unicode": "U+2261",
+            "alt_code": "Alt+8801",
+            "html_code": "&#8801;",
+            "css_code": "\\2261"
+          },
+          {
+            "symbol": "≃",
+            "name": "Approximately Identical To",
+            "unicode": "U+2243",
+            "alt_code": "Alt+8775",
+            "html_code": "&#8775;",
+            "css_code": "\\2243"
+          },
+          {
+            "symbol": "≓",
+            "name": "Triple Bar",
+            "unicode": "U+2253",
+            "alt_code": "Alt+8923",
+            "html_code": "&#8923;",
+            "css_code": "\\2253"
+          },
+          {
+            "symbol": "≕",
+            "name": "Measured By",
+            "unicode": "U+2255",
+            "alt_code": "Alt+8921",
+            "html_code": "&#8921;",
+            "css_code": "\\2255"
+          },
+          {
+            "symbol": "≗",
+            "name": "Measured By",
+            "unicode": "U+2257",
+            "alt_code": "Alt+8927",
+            "html_code": "&#8927;",
+            "css_code": "\\2257"
+          },
+          {
+            "symbol": "≝",
+            "name": "Equal To By Definition",
+            "unicode": "U+225D",
+            "alt_code": "Alt+8925",
+            "html_code": "&#8925;",
+            "css_code": "\\225D"
+          },
+          {
+            "symbol": "≛",
+            "name": "Equivalent To",
+            "unicode": "U+225B",
+            "alt_code": "Alt+8923",
+            "html_code": "&#8923;",
+            "css_code": "\\225B"
+          },
+          {
+            "symbol": "≚",
+            "name": "Equal To By Definition",
+            "unicode": "U+225A",
+            "alt_code": "Alt+8922",
+            "html_code": "&#8922;",
+            "css_code": "\\225A"
+          },
+          {
+            "symbol": "≜",
+            "name": "Equal To by Definition",
+            "unicode": "U+225C",
+            "alt_code": "Alt+8924",
+            "html_code": "&#8924;",
+            "css_code": "\\225C"
+          },
+          {
+            "symbol": "≟",
+            "name": "Questioned Equal To",
+            "unicode": "U+225F",
+            "alt_code": "Alt+8927",
+            "html_code": "&#8927;",
+            "css_code": "\\225F"
+          },
+          {
+            "symbol": "≠",
+            "name": "Not Equal To",
+            "unicode": "U+2260",
+            "alt_code": "Alt+8800",
+            "html_code": "&#8800;",
+            "css_code": "\\2260"
+          },
+          {
+            "symbol": "≡",
+            "name": "Identical To",
+            "unicode": "U+2261",
+            "alt_code": "Alt+8801",
+            "html_code": "&#8801;",
+            "css_code": "\\2261"
+          },
+          {
+            "symbol": "≨",
+            "name": "Less Than or Identical To",
+            "unicode": "U+2278",
+            "alt_code": "Alt+8888",
+            "html_code": "&#8888;",
+            "css_code": "\\2278"
+          },
+          {
+            "symbol": "≩",
+            "name": "Greater Than or Identical To",
+            "unicode": "U+2279",
+            "alt_code": "Alt+8889",
+            "html_code": "&#8889;",
+            "css_code": "\\2279"
+          },
+          {
+            "symbol": "≰",
+            "name": "Neither Less Nor Identical To",
+            "unicode": "U+2270",
+            "alt_code": "Alt+8880",
+            "html_code": "&#8880;",
+            "css_code": "\\2270"
+          },
+          {
+            "symbol": "≱",
+            "name": "Neither Greater Nor Identical To",
+            "unicode": "U+2271",
+            "alt_code": "Alt+8881",
+            "html_code": "&#8881;",
+            "css_code": "\\2271"
+          },
+          {
+            "symbol": "≮",
+            "name": "Less Than or Equivalent To",
+            "unicode": "U+2272",
+            "alt_code": "Alt+8882",
+            "html_code": "&#8882;",
+            "css_code": "\\2272"
+          }
+        ]
+      },
+      "DeltaSymbols": {
+        "info": "Symbols representing delta, often used in mathematics and science, particularly for change or difference.",
+        "items": [
+          {
+            "symbol": "Δ",
+            "name": "Uppercase Greek Delta",
+            "unicode": "U+0394",
+            "alt_code": "Alt+916",
+            "html_code": "&#916;",
+            "css_code": "\\0394"
+          },
+          {
+            "symbol": "δ",
+            "name": "Lowercase Greek Delta",
+            "unicode": "U+03B4",
+            "alt_code": "Alt+948",
+            "html_code": "&#948;",
+            "css_code": "\\03B4"
+          },
+          {
+            "symbol": "∇",
+            "name": "Nabla (Del Operator)",
+            "unicode": "U+2207",
+            "alt_code": "Alt+8711",
+            "html_code": "&#8711;",
+            "css_code": "\\2207"
+          },
+          {
+            "symbol": "△",
+            "name": "Increment (Triangular Symbol)",
+            "unicode": "U+25B3",
+            "alt_code": "Alt+9651",
+            "html_code": "&#9651;",
+            "css_code": "\\25B3"
+          },
+          {
+            "symbol": "⊿",
+            "name": "Measured Difference",
+            "unicode": "U+22BF",
+            "alt_code": "Alt+8927",
+            "html_code": "&#8927;",
+            "css_code": "\\22BF"
+          },
+          {
+            "symbol": "⧫",
+            "name": "Dotted Delta",
+            "unicode": "U+29AB",
+            "alt_code": "Alt+10635",
+            "html_code": "&#10635;",
+            "css_code": "\\29AB"
+          },
+          {
+            "symbol": "⧫",
+            "name": "Dotted Delta (Alternative)",
+            "unicode": "U+29AB",
+            "alt_code": "Alt+10635",
+            "html_code": "&#10635;",
+            "css_code": "\\29AB"
+          },
+          {
+            "symbol": "⧬",
+            "name": "Double Dotted Delta",
+            "unicode": "U+29AC",
+            "alt_code": "Alt+10636",
+            "html_code": "&#10636;",
+            "css_code": "\\29AC"
+          },
+          {
+            "symbol": "⧮",
+            "name": "Doubly Dotted Delta",
+            "unicode": "U+29AE",
+            "alt_code": "Alt+10638",
+            "html_code": "&#10638;",
+            "css_code": "\\29AE"
+          },
+          {
+            "symbol": "∂",
+            "name": "Partial Derivative",
+            "unicode": "U+2202",
+            "alt_code": "Alt+8706",
+            "html_code": "&#8706;",
+            "css_code": "\\2202"
+          },
+          {
+            "symbol": "▱",
+            "name": "Open Delta",
+            "unicode": "U+25B1",
+            "alt_code": "Alt+9657",
+            "html_code": "&#9657;",
+            "css_code": "\\25B1"
+          },
+          {
+            "symbol": "⌀",
+            "name": "Diameter Symbol",
+            "unicode": "U+2300",
+            "alt_code": "Alt+8960",
+            "html_code": "&#8960;",
+            "css_code": "\\2300"
+          },
+          {
+            "symbol": "≯",
+            "name": "Not Greater Than Or Equal To",
+            "unicode": "U+227F",
+            "alt_code": "Alt+8887",
+            "html_code": "&#8887;",
+            "css_code": "\\227F"
+          },
+          {
+            "symbol": "⇝",
+            "name": "Delta Arrow",
+            "unicode": "U+21DD",
+            "alt_code": "Alt+8661",
+            "html_code": "&#8661;",
+            "css_code": "\\21DD"
+          },
+          {
+            "symbol": "↡",
+            "name": "Downwards Delta",
+            "unicode": "U+21A1",
+            "alt_code": "Alt+8673",
+            "html_code": "&#8673;",
+            "css_code": "\\21A1"
+          },
+          {
+            "symbol": "∝",
+            "name": "Proportional To",
+            "unicode": "U+221D",
+            "alt_code": "Alt+8733",
+            "html_code": "&#8733;",
+            "css_code": "\\221D"
+          },
+          {
+            "symbol": "↕",
+            "name": "Up Down Arrow (Delta Direction)",
+            "unicode": "U+2195",
+            "alt_code": "Alt+8597",
+            "html_code": "&#8597;",
+            "css_code": "\\2195"
+          },
+          {
+            "symbol": "⊢",
+            "name": "Turnstile",
+            "unicode": "U+22A2",
+            "alt_code": "Alt+8874",
+            "html_code": "&#8874;",
+            "css_code": "\\22A2"
+          },
+          {
+            "symbol": "▰",
+            "name": "Black Upper Right Triangle",
+            "unicode": "U+25B0",
+            "alt_code": "Alt+9648",
+            "html_code": "&#9648;",
+            "css_code": "\\25B0"
+          },
+          {
+            "symbol": "⊹",
+            "name": "Circled Multiplication Dot",
+            "unicode": "U+2299",
+            "alt_code": "Alt+8857",
+            "html_code": "&#8857;",
+            "css_code": "\\2299"
+          }
+        ]
+      },
+      "RootSymbols": {
+        "info": "Symbols related to square roots and other roots used in mathematics.",
+        "items": [
+          {
+            "symbol": "√",
+            "name": "Square Root",
+            "unicode": "U+221A",
+            "alt_code": "Alt+8730",
+            "html_code": "&#8730;",
+            "css_code": "\\221A"
+          },
+          {
+            "symbol": "∛",
+            "name": "Cube Root",
+            "unicode": "U+221B",
+            "alt_code": "Alt+8731",
+            "html_code": "&#8731;",
+            "css_code": "\\221B"
+          },
+          {
+            "symbol": "∜",
+            "name": "Fourth Root",
+            "unicode": "U+221C",
+            "alt_code": "Alt+8732",
+            "html_code": "&#8732;",
+            "css_code": "\\221C"
+          }
+        ]
+      },
+      "AngleSymbols": {
+        "info": "Symbols representing angles in mathematics and geometry.",
+        "items": [
+          {
+            "symbol": " ̚ ",
+            "name": "Combining Left Angle Above",
+            "unicode": "U+031A",
+            "alt_code": "Alt+794",
+            "html_code": "&#794;",
+            "css_code": "\\031A"
+          },
+          {
+            "symbol": " ͉ ",
+            "name": "Combining Left Angle Below",
+            "unicode": "U+0349",
+            "alt_code": "Alt+841",
+            "html_code": "&#841;",
+            "css_code": "\\0349"
+          },
+          {
+            "symbol": "∟",
+            "name": "Right Angle",
+            "unicode": "U+221F",
+            "alt_code": "Alt+8735",
+            "html_code": "&#8735;",
+            "css_code": "\\221F"
+          },
+          {
+            "symbol": "∠",
+            "name": "Angle",
+            "unicode": "U+2220",
+            "alt_code": "Alt+8736",
+            "html_code": "&#8736;",
+            "css_code": "\\2220"
+          },
+          {
+            "symbol": "∡",
+            "name": "Measured Angle",
+            "unicode": "U+2221",
+            "alt_code": "Alt+8737",
+            "html_code": "&#8737;",
+            "css_code": "\\2221"
+          },
+          {
+            "symbol": "∢",
+            "name": "Spherical Angle",
+            "unicode": "U+2222",
+            "alt_code": "Alt+8738",
+            "html_code": "&#8738;",
+            "css_code": "\\2222"
+          },
+          {
+            "symbol": "⊾",
+            "name": "Right Angle With Arc",
+            "unicode": "U+22BE",
+            "alt_code": "Alt+8894",
+            "html_code": "&#8894;",
+            "css_code": "\\22BE"
+          },
+          {
+            "symbol": "⍼",
+            "name": "Right Angle With Downwards Zigzag Arrow",
+            "unicode": "U+237C",
+            "alt_code": "Alt+9084",
+            "html_code": "&#9084;",
+            "css_code": "\\237C"
+          },
+          {
+            "symbol": "⟀",
+            "name": "Three Dimensional Angle",
+            "unicode": "U+27C0",
+            "alt_code": "Alt+10176",
+            "html_code": "&#10176;",
+            "css_code": "\\27C0"
+          },
+          {
+            "symbol": "⦛",
+            "name": "Measured Angle Opening Left",
+            "unicode": "U+299B",
+            "alt_code": "Alt+10651",
+            "html_code": "&#10651;",
+            "css_code": "\\299B"
+          },
+          {
+            "symbol": "⦜",
+            "name": "Right Angle Variant With Square",
+            "unicode": "U+299C",
+            "alt_code": "Alt+10652",
+            "html_code": "&#10652;",
+            "css_code": "\\299C"
+          },
+          {
+            "symbol": "⦝",
+            "name": "Measured Right Angle With Dot",
+            "unicode": "U+299D",
+            "alt_code": "Alt+10653",
+            "html_code": "&#10653;",
+            "css_code": "\\299D"
+          },
+          {
+            "symbol": "⦞",
+            "name": "Angle With S Inside",
+            "unicode": "U+299E",
+            "alt_code": "Alt+10654",
+            "html_code": "&#10654;",
+            "css_code": "\\299E"
+          },
+          {
+            "symbol": "⦟",
+            "name": "Acute Angle",
+            "unicode": "U+299F",
+            "alt_code": "Alt+10655",
+            "html_code": "&#10655;",
+            "css_code": "\\299F"
+          },
+          {
+            "symbol": "⦠",
+            "name": "Spherical Angle Opening Left",
+            "unicode": "U+29A0",
+            "alt_code": "Alt+10656",
+            "html_code": "&#10656;",
+            "css_code": "\\29A0"
+          },
+          {
+            "symbol": "⦡",
+            "name": "Spherical Angle Opening Up",
+            "unicode": "U+29A1",
+            "alt_code": "Alt+10657",
+            "html_code": "&#10657;",
+            "css_code": "\\29A1"
+          },
+          {
+            "symbol": "⦢",
+            "name": "Turned Angle",
+            "unicode": "U+29A2",
+            "alt_code": "Alt+10658",
+            "html_code": "&#10658;",
+            "css_code": "\\29A2"
+          },
+          {
+            "symbol": "⦣",
+            "name": "Reversed Angle",
+            "unicode": "U+29A3",
+            "alt_code": "Alt+10659",
+            "html_code": "&#10659;",
+            "css_code": "\\29A3"
+          },
+          {
+            "symbol": "⦤",
+            "name": "Angle With Underbar",
+            "unicode": "U+29A4",
+            "alt_code": "Alt+10660",
+            "html_code": "&#10660;",
+            "css_code": "\\29A4"
+          },
+          {
+            "symbol": "⦥",
+            "name": "Reversed Angle With Underbar",
+            "unicode": "U+29A5",
+            "alt_code": "Alt+10661",
+            "html_code": "&#10661;",
+            "css_code": "\\29A5"
+          },
+          {
+            "symbol": "⦦",
+            "name": "Oblique Angle Opening Up",
+            "unicode": "U+29A6",
+            "alt_code": "Alt+10662",
+            "html_code": "&#10662;",
+            "css_code": "\\29A6"
+          },
+          {
+            "symbol": "⦧",
+            "name": "Oblique Angle Opening Down",
+            "unicode": "U+29A7",
+            "alt_code": "Alt+10663",
+            "html_code": "&#10663;",
+            "css_code": "\\29A7"
+          },
+          {
+            "symbol": "⦨",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Up And Right",
+            "unicode": "U+29A8",
+            "alt_code": "Alt+10664",
+            "html_code": "&#10664;",
+            "css_code": "\\29A8"
+          },
+          {
+            "symbol": "⦩",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Up And Left",
+            "unicode": "U+29A9",
+            "alt_code": "Alt+10665",
+            "html_code": "&#10665;",
+            "css_code": "\\29A9"
+          },
+          {
+            "symbol": "⦪",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Down And Right",
+            "unicode": "U+29AA",
+            "alt_code": "Alt+10666",
+            "html_code": "&#10666;",
+            "css_code": "\\29AA"
+          },
+          {
+            "symbol": "⦫",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Down And Left",
+            "unicode": "U+29AB",
+            "alt_code": "Alt+10667",
+            "html_code": "&#10667;",
+            "css_code": "\\29AB"
+          },
+          {
+            "symbol": "⦬",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Right And Up",
+            "unicode": "U+29AC",
+            "alt_code": "Alt+10668",
+            "html_code": "&#10668;",
+            "css_code": "\\29AC"
+          },
+          {
+            "symbol": "⦭",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Left And Up",
+            "unicode": "U+29AD",
+            "alt_code": "Alt+10669",
+            "html_code": "&#10669;",
+            "css_code": "\\29AD"
+          },
+          {
+            "symbol": "⦮",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Right And Down",
+            "unicode": "U+29AE",
+            "alt_code": "Alt+10670",
+            "html_code": "&#10670;",
+            "css_code": "\\29AE"
+          },
+          {
+            "symbol": "⦯",
+            "name": "Measured Angle With Open Arm Ending In Arrow Pointing Left And Down",
+            "unicode": "U+29AF",
+            "alt_code": "Alt+10671",
+            "html_code": "&#10671;",
+            "css_code": "\\29AF"
+          },
+          {
+            "symbol": "⸖",
+            "name": "Dotted Right-pointing Angle",
+            "unicode": "U+2E16",
+            "alt_code": "Alt+11798",
+            "html_code": "&#11798;",
+            "css_code": "\\2E16"
+          },
+          {
+            "symbol": " ꜚ ",
+            "name": "Modifier Letter Lower Right Corner Angle",
+            "unicode": "U+A71A",
+            "alt_code": "Alt+42778",
+            "html_code": "&#42778;",
+            "css_code": "\\A71A"
+          }
+        ]
+      },
+      "PercentSymbols": {
+        "info": "Symbols related to percentages.",
+        "items": [
+          {
+            "symbol": "%",
+            "name": "Percent Sign",
+            "unicode": "U+0025",
+            "alt_code": "Alt+37",
+            "html_code": "&#37;",
+            "css_code": "\\0025"
+          },
+          {
+            "symbol": "٪",
+            "name": "Arabic Percent Sign",
+            "unicode": "U+066A",
+            "alt_code": "Alt+1642",
+            "html_code": "&#1642;",
+            "css_code": "\\066A"
+          },
+          {
+            "symbol": "﹪",
+            "name": "Small Percent Sign",
+            "unicode": "U+FE6A",
+            "alt_code": "Alt+65130",
+            "html_code": "&#65130;",
+            "css_code": "\\FE6A"
+          },
+          {
+            "symbol": "％",
+            "name": "Fullwidth Percent Sign",
+            "unicode": "U+FF05",
+            "alt_code": "Alt+65285",
+            "html_code": "&#65285;",
+            "css_code": "\\FF05"
+          }
+        ]
+      },
+      "PlusSignSymbols": {
+        "info": "Symbols related to addition or positive values.",
+        "items": [
+          {
+            "symbol": "+",
+            "name": "Plus Sign",
+            "unicode": "U+002B",
+            "alt_code": "Alt+43",
+            "html_code": "&#43;",
+            "css_code": "\\002B"
+          },
+          {
+            "symbol": "±",
+            "name": "Plus-minus Sign",
+            "unicode": "U+00B1",
+            "alt_code": "Alt+177",
+            "html_code": "&#177;",
+            "css_code": "\\00B1"
+          },
+          {
+            "symbol": "˖",
+            "name": "Modifier Letter Plus Sign",
+            "unicode": "U+02D6",
+            "alt_code": "Alt+726",
+            "html_code": "&#726;",
+            "css_code": "\\02D6"
+          },
+          {
+            "symbol": "ᐩ",
+            "name": "Canadian Syllabics Final Plus",
+            "unicode": "U+1429",
+            "alt_code": "Alt+5161",
+            "html_code": "&#5161;",
+            "css_code": "\\1429"
+          },
+          {
+            "symbol": "⁺",
+            "name": "Superscript Plus Sign",
+            "unicode": "U+207A",
+            "alt_code": "Alt+8314",
+            "html_code": "&#8314;",
+            "css_code": "\\207A"
+          },
+          {
+            "symbol": "₊",
+            "name": "Subscript Plus Sign",
+            "unicode": "U+208A",
+            "alt_code": "Alt+8330",
+            "html_code": "&#8330;",
+            "css_code": "\\208A"
+          },
+          {
+            "symbol": "∓",
+            "name": "Minus-or-plus Sign",
+            "unicode": "U+2213",
+            "alt_code": "Alt+8723",
+            "html_code": "&#8723;",
+            "css_code": "\\2213"
+          },
+          {
+            "symbol": "∔",
+            "name": "Dot Plus",
+            "unicode": "U+2214",
+            "alt_code": "Alt+8724",
+            "html_code": "&#8724;",
+            "css_code": "\\2214"
+          },
+          {
+            "symbol": "⊕",
+            "name": "Circled Plus",
+            "unicode": "U+2295",
+            "alt_code": "Alt+8853",
+            "html_code": "&#8853;",
+            "css_code": "\\2295"
+          },
+          {
+            "symbol": "⊞",
+            "name": "Squared Plus",
+            "unicode": "U+229E",
+            "alt_code": "Alt+8862",
+            "html_code": "&#8862;",
+            "css_code": "\\229E"
+          },
+          {
+            "symbol": "➕",
+            "name": "Heavy Plus Sign",
+            "unicode": "U+2795",
+            "alt_code": "Alt+10133",
+            "html_code": "&#10133;",
+            "css_code": "\\2795"
+          },
+          {
+            "symbol": "⧺",
+            "name": "Double Plus",
+            "unicode": "U+29FA",
+            "alt_code": "Alt+10746",
+            "html_code": "&#10746;",
+            "css_code": "\\2795"
+          },
+          {
+            "symbol": "⧻",
+            "name": "Triple Plus",
+            "unicode": "U+29FB",
+            "alt_code": "Alt+10747",
+            "html_code": "&#10747;",
+            "css_code": "\\29FB"
+          },
+          {
+            "symbol": "⨁",
+            "name": "N-ary Circled Plus Operator",
+            "unicode": "U+2A01",
+            "alt_code": "Alt+10753",
+            "html_code": "&#10753;",
+            "css_code": "\\2A01"
+          },
+          {
+            "symbol": "⨄",
+            "name": "N-ary Union Operator With Plus",
+            "unicode": "U+2A04",
+            "alt_code": "Alt+10756",
+            "html_code": "&#10756;",
+            "css_code": "\\2A04"
+          },
+          {
+            "symbol": "⨢",
+            "name": "Plus Sign With Small Circle Above",
+            "unicode": "U+2A22",
+            "alt_code": "Alt+10786",
+            "html_code": "&#10786;",
+            "css_code": "\\2A22"
+          },
+          {
+            "symbol": "⨣",
+            "name": "Plus Sign With Circumflex Accent Above",
+            "unicode": "U+2A23",
+            "alt_code": "Alt+10787",
+            "html_code": "&#10787;",
+            "css_code": "\\2A23"
+          },
+          {
+            "symbol": "⨤",
+            "name": "Plus Sign With Tilde Above",
+            "unicode": "U+2A24",
+            "alt_code": "Alt+10788",
+            "html_code": "&#10788;",
+            "css_code": "\\2A24"
+          },
+
+          {
+            "symbol": "⨥",
+            "name": "Plus Sign With Dot Below",
+            "unicode": "U+2A25",
+            "alt_code": "Alt+10789",
+            "html_code": "&#10789;",
+            "css_code": "\\2A25"
+          },
+          {
+            "symbol": "⨦",
+            "name": "Plus Sign With Tilde Below",
+            "unicode": "U+2A26",
+            "alt_code": "Alt+10790",
+            "html_code": "&#10790;",
+            "css_code": "\\2A26"
+          },
+          {
+            "symbol": "⨧",
+            "name": "Plus Sign With Subscript Two",
+            "unicode": "U+2A27",
+            "alt_code": "Alt+10791",
+            "html_code": "&#10791;",
+            "css_code": "\\2A27"
+          },
+          {
+            "symbol": "⨨",
+            "name": "Plus Sign With Black Triangle",
+            "unicode": "U+2A28",
+            "alt_code": "Alt+10792",
+            "html_code": "&#10792;",
+            "css_code": "\\2A28"
+          },
+          {
+            "symbol": "⨭",
+            "name": "Plus Sign In Left Half Circle",
+            "unicode": "U+2A2D",
+            "alt_code": "Alt+10797",
+            "html_code": "&#10797;",
+            "css_code": "\\2A2D"
+          },
+          {
+            "symbol": "⨮",
+            "name": "Plus Sign In Right Half Circle",
+            "unicode": "U+2A2E",
+            "alt_code": "Alt+10798",
+            "html_code": "&#10798;",
+            "css_code": "\\2A2E"
+          },
+          {
+            "symbol": "⨹",
+            "name": "Plus Sign In Triangle",
+            "unicode": "U+2A39",
+            "alt_code": "Alt+10809",
+            "html_code": "&#10809;",
+            "css_code": "\\2A39"
+          },
+          {
+            "symbol": "⩱",
+            "name": "Equals Sign Above Plus Sign",
+            "unicode": "U+2A71",
+            "alt_code": "Alt+10865",
+            "html_code": "&#10865;",
+            "css_code": "\\2A71"
+          },
+          {
+            "symbol": "⩲",
+            "name": "Plus Sign Above Equals Sign",
+            "unicode": "U+2A72",
+            "alt_code": "Alt+10866",
+            "html_code": "&#10866;",
+            "css_code": "\\2A72"
+          },
+          {
+            "symbol": "⪿",
+            "name": "Subset With Plus Sign Below",
+            "unicode": "U+2ABF",
+            "alt_code": "Alt+10943",
+            "html_code": "&#10943;",
+            "css_code": "\\2ABF"
+          },
+          {
+            "symbol": "⫀",
+            "name": "Superset With Plus Sign Below",
+            "unicode": "U+2AC0",
+            "alt_code": "Alt+10944",
+            "html_code": "&#10944;",
+            "css_code": "\\2AC0"
+          },
+          {
+            "symbol": "﹢",
+            "name": "Small Plus Sign",
+            "unicode": "U+FE62",
+            "alt_code": "Alt+65122",
+            "html_code": "&#65122;",
+            "css_code": "\\FE62"
+          },
+          {
+            "symbol": "＋",
+            "name": "Fullwidth Plus Sign",
+            "unicode": "U+FF0B",
+            "alt_code": "Alt+65291",
+            "html_code": "&#65291;",
+            "css_code": "\\FF0B"
+          }
+        ]
+      },
+      "MinusSignSymbols": {
+        "info": "Symbols related to subtraction or negative values.",
+        "items": [
+          {
+            "symbol": "−",
+            "name": "Minus Sign",
+            "unicode": "U+2212",
+            "alt_code": "Alt+8722",
+            "html_code": "&#8722;",
+            "css_code": "\\2212"
+          },
+          {
+            "symbol": "-",
+            "name": "Hyphen-minus",
+            "unicode": "U+002D",
+            "alt_code": "Alt+45",
+            "html_code": "&#45;",
+            "css_code": "\\002D"
+          },
+          {
+            "symbol": "±",
+            "name": "Plus-minus Sign",
+            "unicode": "U+00B1",
+            "alt_code": "Alt+177",
+            "html_code": "&#177;",
+            "css_code": "\\00B1"
+          },
+          {
+            "symbol": "˗",
+            "name": "Modifier Letter Minus Sign",
+            "unicode": "U+02D7",
+            "alt_code": "Alt+727",
+            "html_code": "&#727;",
+            "css_code": "\\02D7"
+          },
+          {
+            "symbol": "⁒",
+            "name": "Commercial Minus Sign",
+            "unicode": "U+2052",
+            "alt_code": "Alt+8274",
+            "html_code": "&#8274;",
+            "css_code": "\\2052"
+          },
+          {
+            "symbol": "⁻",
+            "name": "Superscript Minus",
+            "unicode": "U+207B",
+            "alt_code": "Alt+8315",
+            "html_code": "&#8315;",
+            "css_code": "\\207B"
+          },
+
+          {
+            "symbol": "₋",
+            "name": "Subscript Minus",
+            "unicode": "U+208B",
+            "alt_code": "Alt+8331",
+            "html_code": "&#8331;",
+            "css_code": "\\208B"
+          },
+          {
+            "symbol": "∓",
+            "name": "Minus-or-plus Sign",
+            "unicode": "U+2213",
+            "alt_code": "Alt+8723",
+            "html_code": "&#8723;",
+            "css_code": "\\2213"
+          },
+          {
+            "symbol": "∖",
+            "name": "Set Minus",
+            "unicode": "U+2216",
+            "alt_code": "Alt+8726",
+            "html_code": "&#8726;",
+            "css_code": "\\2216"
+          },
+          {
+            "symbol": "∸",
+            "name": "Dot Minus",
+            "unicode": "U+2238",
+            "alt_code": "Alt+8760",
+            "html_code": "&#8760;",
+            "css_code": "\\2238"
+          },
+          {
+            "symbol": "≂",
+            "name": "Minus Tilde",
+            "unicode": "U+2242",
+            "alt_code": "Alt+8770",
+            "html_code": "&#8770;",
+            "css_code": "\\2242"
+          },
+          {
+            "symbol": "⊖",
+            "name": "Circled Minus",
+            "unicode": "U+2296",
+            "alt_code": "Alt+8854",
+            "html_code": "&#8854;",
+            "css_code": "\\2296"
+          },
+          {
+            "symbol": "⊟",
+            "name": "Squared Minus",
+            "unicode": "U+229F",
+            "alt_code": "Alt+8863",
+            "html_code": "&#8863;",
+            "css_code": "\\229F"
+          },
+          {
+            "symbol": "➖",
+            "name": "Heavy Minus Sign",
+            "unicode": "U+2796",
+            "alt_code": "Alt+10134",
+            "html_code": "&#10134;",
+            "css_code": "\\2796"
+          },
+          {
+            "symbol": "⤼",
+            "name": "Top Arc Clockwise Arrow With Minus",
+            "unicode": "U+293C",
+            "alt_code": "Alt+10556",
+            "html_code": "&#10556;",
+            "css_code": "\\293C"
+          },
+          {
+            "symbol": "⨩",
+            "name": "Minus Sign With Comma Above",
+            "unicode": "U+2A29",
+            "alt_code": "Alt+10793",
+            "html_code": "&#10793;",
+            "css_code": "\\2A29"
+          },
+          {
+            "symbol": "⨪",
+            "name": "Minus Sign With Dot Below",
+            "unicode": "U+2A2A",
+            "alt_code": "Alt+10794",
+            "html_code": "&#10794;",
+            "css_code": "\\2A2A"
+          },
+          {
+            "symbol": "⨫",
+            "name": "Minus Sign With Falling Dots",
+            "unicode": "U+2A2B",
+            "alt_code": "Alt+10795",
+            "html_code": "&#10795;",
+            "css_code": "\\2A2B"
+          },
+          {
+            "symbol": "⨬",
+            "name": "Minus Sign With Rising Dots",
+            "unicode": "U+2A2C",
+            "alt_code": "Alt+10796",
+            "html_code": "&#10796;",
+            "css_code": "\\2A2C"
+          },
+          {
+            "symbol": "⨺",
+            "name": "Minus Sign In Triangle",
+            "unicode": "U+2A3A",
+            "alt_code": "Alt+10810",
+            "html_code": "&#10810;",
+            "css_code": "\\2A3A"
+          },
+          {
+            "symbol": "⩁",
+            "name": "Union With Minus Sign",
+            "unicode": "U+2A41",
+            "alt_code": "Alt+10817",
+            "html_code": "&#10817;",
+            "css_code": "\\2A41"
+          },
+          {
+            "symbol": "⩬",
+            "name": "Similar Minus Similar",
+            "unicode": "U+2A6C",
+            "alt_code": "Alt+10860",
+            "html_code": "&#10860;",
+            "css_code": "\\2A6C"
+          },
+          {
+            "symbol": "﹣",
+            "name": "Small Hyphen-minus",
+            "unicode": "U+FE63",
+            "alt_code": "Alt+65123",
+            "html_code": "&#65123;",
+            "css_code": "\\FE63"
+          },
+          {
+            "symbol": "－",
+            "name": "Fullwidth Hyphen-minus",
+            "unicode": "U+FF0D",
+            "alt_code": "Alt+65293",
+            "html_code": "&#65293;",
+            "css_code": "\\FF0D"
+          }
+        ]
+      },
+      "DivisionSignSymbols": {
+        "info": "Symbols related to division or ratios.",
+        "items": [
+          {
+            "symbol": "÷",
+            "name": "Division Sign",
+            "unicode": "U+00F7",
+            "alt_code": "Alt+247",
+            "html_code": "&#247;",
+            "css_code": "\\00F7"
+          },
+          {
+            "symbol": "∕",
+            "name": "Division Slash",
+            "unicode": "U+2215",
+            "alt_code": "Alt+8725",
+            "html_code": "&#8725;",
+            "css_code": "\\2215"
+          },
+          {
+            "symbol": "⊘",
+            "name": "Circled Division Slash",
+            "unicode": "U+2298",
+            "alt_code": "Alt+8856",
+            "html_code": "&#8856;",
+            "css_code": "\\2298"
+          },
+          {
+            "symbol": "⋇",
+            "name": "Division Times",
+            "unicode": "U+22C7",
+            "alt_code": "Alt+8903",
+            "html_code": "&#8903;",
+            "css_code": "\\22C7"
+          },
+          {
+            "symbol": "➗",
+            "name": "Heavy Division Sign",
+            "unicode": "U+2797",
+            "alt_code": "Alt+10135",
+            "html_code": "&#10135;",
+            "css_code": "\\2797"
+          },
+          {
+            "symbol": "⟌",
+            "name": "Long Division",
+            "unicode": "U+27CC",
+            "alt_code": "Alt+10188",
+            "html_code": "&#10188;",
+            "css_code": "\\27CC"
+          },
+          {
+            "symbol": "⦼",
+            "name": "Circled Anticlockwise-rotated Division Sign",
+            "unicode": "U+29BC",
+            "alt_code": "Alt+10684",
+            "html_code": "&#10684;",
+            "css_code": "\\29BC"
+          },
+          {
+            "symbol": "⨸",
+            "name": "Circled Division Sign",
+            "unicode": "U+2A38",
+            "alt_code": "Alt+10808",
+            "html_code": "&#10808;",
+            "css_code": "\\2A38"
+          }
+        ]
+      },
+      "FractionSymbols": {
+        "info": "Symbols related to fractions.",
+        "items": [
+          {
+            "symbol": "¼",
+            "name": "Vulgar Fraction One Quarter",
+            "unicode": "U+00BC",
+            "alt_code": "Alt+188",
+            "html_code": "&#188;",
+            "css_code": "\\00BC"
+          },
+          {
+            "symbol": "½",
+            "name": "Vulgar Fraction One Half",
+            "unicode": "U+00BD",
+            "alt_code": "Alt+189",
+            "html_code": "&#189;",
+            "css_code": "\\00BD"
+          },
+          {
+            "symbol": "¾",
+            "name": "Vulgar Fraction Three Quarters",
+            "unicode": "U+00BE",
+            "alt_code": "Alt+190",
+            "html_code": "&#190;",
+            "css_code": "\\00BE"
+          },
+          {
+            "symbol": "⁄",
+            "name": "Fraction Slash",
+            "unicode": "U+2044",
+            "alt_code": "Alt+8260",
+            "html_code": "&#8260;",
+            "css_code": "\\2044"
+          },
+          {
+            "symbol": "⅐",
+            "name": "Vulgar Fraction One Seventh",
+            "unicode": "U+2150",
+            "alt_code": "Alt+8528",
+            "html_code": "&#8528;",
+            "css_code": "\\2150"
+          },
+          {
+            "symbol": "⅑",
+            "name": "Vulgar Fraction One Ninth",
+            "unicode": "U+2151",
+            "alt_code": "Alt+8529",
+            "html_code": "&#8529;",
+            "css_code": "\\2151"
+          },
+          {
+            "symbol": "⅒",
+            "name": "Vulgar Fraction One Tenth",
+            "unicode": "U+2152",
+            "alt_code": "Alt+8530",
+            "html_code": "&#8530;",
+            "css_code": "\\2152"
+          },
+          {
+            "symbol": "⅓",
+            "name": "Vulgar Fraction One Third",
+            "unicode": "U+2153",
+            "alt_code": "Alt+8531",
+            "html_code": "&#8531;",
+            "css_code": "\\2153"
+          },
+          {
+            "symbol": "⅔",
+            "name": "Vulgar Fraction Two Thirds",
+            "unicode": "U+2154",
+            "alt_code": "Alt+8532",
+            "html_code": "&#8532;",
+            "css_code": "\\2154"
+          },
+          {
+            "symbol": "⅕",
+            "name": "Vulgar Fraction One Fifth",
+            "unicode": "U+2155",
+            "alt_code": "Alt+8533",
+            "html_code": "&#8533;",
+            "css_code": "\\2155"
+          },
+          {
+            "symbol": "⅖",
+            "name": "Vulgar Fraction Two Fifths",
+            "unicode": "U+2156",
+            "alt_code": "Alt+8534",
+            "html_code": "&#8534;",
+            "css_code": "\\2156"
+          },
+          {
+            "symbol": "⅗",
+            "name": "Vulgar Fraction Three Fifths",
+            "unicode": "U+2157",
+            "alt_code": "Alt+8535",
+            "html_code": "&#8535;",
+            "css_code": "\\2157"
+          },
+
+          {
+            "symbol": "⅘",
+            "name": "Vulgar Fraction Four Fifths",
+            "unicode": "U+2158",
+            "alt_code": "Alt+8536",
+            "html_code": "&#8536;",
+            "css_code": "\\2158"
+          },
+          {
+            "symbol": "⅙",
+            "name": "Vulgar Fraction One Sixth",
+            "unicode": "U+2159",
+            "alt_code": "Alt+8537",
+            "html_code": "&#8537;",
+            "css_code": "\\2159"
+          },
+          {
+            "symbol": "⅚",
+            "name": "Vulgar Fraction Five Sixths",
+            "unicode": "U+215A",
+            "alt_code": "Alt+8538",
+            "html_code": "&#8538;",
+            "css_code": "\\215A"
+          },
+          {
+            "symbol": "⅛",
+            "name": "Vulgar Fraction One Eighth",
+            "unicode": "U+215B",
+            "alt_code": "Alt+8539",
+            "html_code": "&#8539;",
+            "css_code": "\\215B"
+          },
+          {
+            "symbol": "⅜",
+            "name": "Vulgar Fraction Three Eighths",
+            "unicode": "U+215C",
+            "alt_code": "Alt+8540",
+            "html_code": "&#8540;",
+            "css_code": "\\215C"
+          },
+          {
+            "symbol": "⅝",
+            "name": "Vulgar Fraction Five Eighths",
+            "unicode": "U+215D",
+            "alt_code": "Alt+8541",
+            "html_code": "&#8541;",
+            "css_code": "\\215D"
+          },
+          {
+            "symbol": "⅞",
+            "name": "Vulgar Fraction Seven Eighths",
+            "unicode": "U+215E",
+            "alt_code": "Alt+8542",
+            "html_code": "&#8542;",
+            "css_code": "\\215E"
+          },
+          {
+            "symbol": "⅟",
+            "name": "Fraction Numerator One",
+            "unicode": "U+215F",
+            "alt_code": "Alt+8543",
+            "html_code": "&#8543;",
+            "css_code": "\\215F"
+          },
+          {
+            "symbol": "↉",
+            "name": "Vulgar Fraction Zero Thirds",
+            "unicode": "U+2189",
+            "alt_code": "Alt+8585",
+            "html_code": "&#8585;",
+            "css_code": "\\2189"
+          }
+        ]
+      }
+    }
+  },
+  "Miscellaneous": {
+    "info": "Various unique and uncommon symbols.",
+    "subcategories": {
+      "Stars": {
+        "info": "Symbols resembling stars.",
+        "items": [
+          {
+            "symbol": "★",
+            "name": "Black Star",
+            "unicode": "U+2605",
+            "alt_code": "Alt+9733",
+            "html_code": "&#9733;",
+            "css_code": "\\2605"
+          },
+          {
+            "symbol": "☆",
+            "name": "White Star",
+            "unicode": "U+2606",
+            "alt_code": "Alt+9734",
+            "html_code": "&#9734;",
+            "css_code": "\\2606"
+          }
+        ]
+      },
+      "Hearts": {
+        "info": "Symbols representing hearts.",
+        "items": [
+          {
+            "symbol": "❤",
+            "name": "Heavy Black Heart",
+            "unicode": "U+2764",
+            "alt_code": "Alt+10084",
+            "html_code": "&#10084;",
+            "css_code": "\\2764"
+          },
+          {
+            "symbol": "♡",
+            "name": "White Heart",
+            "unicode": "U+2661",
+            "alt_code": "Alt+9825",
+            "html_code": "&#9825;",
+            "css_code": "\\2661"
+          }
+        ]
+      },
+      "Arrows": {
+        "info": "Various arrow symbols.",
+        "items": [
+          {
+            "symbol": "←",
+            "name": "Left Arrow",
+            "unicode": "U+2190",
+            "alt_code": "Alt+8592",
+            "html_code": "&#8592;",
+            "css_code": "\\2190"
+          },
+          {
+            "symbol": "→",
+            "name": "Right Arrow",
+            "unicode": "U+2192",
+            "alt_code": "Alt+8594",
+            "html_code": "&#8594;",
+            "css_code": "\\2192"
+          }
+        ]
+      }
+    }
+  }
+}
