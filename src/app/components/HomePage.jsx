@@ -48,11 +48,11 @@ const HomePage = () => {
   };
 
   return (
-    <div className="container mx-auto mt-10 flex flex-col md:flex-row md:space-x-6">
+    <div className="container mx-auto mt-10 flex flex-col md:flex-row md:space-x-6 lg:px-6">
       {/* Main Content */}
       <div className="flex-1 w-full mb-6 md:mb-0">
         {/* Information Section */}
-        <section className="mb-6 sm:mb-8 bg-gradient-to-r from-teal-500 to-teal-700 p-4 sm:p-6 rounded-lg shadow-md border border-teal">
+        <section className="mb-6 sm:mb-8 bg-gradient-to-r from-teal-500 to-teal-700 p-4 sm:p-6 lg:rounded-lg shadow-md border border-teal">
           <p className="text-base sm:text-lg md:text-xl text-white leading-relaxed tracking-wide">
             Discover a comprehensive list of ALT code shortcuts for typing
             special characters and symbols not found on your keyboard. Easily
@@ -119,7 +119,7 @@ const HomePage = () => {
       </div>
 
       {/* Sidebar */}
-      <div className="sidebar w-full md:w-64 bg-gradient-to-br from-teal via-teal to-blue-800 h-auto p-4 sm:p-5 space-y-6 rounded-xl text-white shadow-lg md:sticky md:top-0">
+      <div className="sidebar w-full md:w-64 bg-gradient-to-br from-teal via-teal to-blue-800 h-auto p-4 sm:p-5 space-y-6 lg:rounded-xl text-white shadow-lg md:sticky md:top-0">
         <h2 className="text-lg sm:text-xl md:text-2xl font-semibold border-b pb-2 sm:pb-3">
           Categories
         </h2>
