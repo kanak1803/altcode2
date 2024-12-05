@@ -23,14 +23,14 @@ const CategoryPage = () => {
   }
 
   return (
-    <div className="container mx-auto mt-10 px-6 flex flex-col md:flex-row md:space-x-6">
+    <div className="container mx-auto mt-10 lg:px-6 flex flex-col md:flex-row md:space-x-6">
       {/* Main Content */}
       <div className="flex-1">
         {/* <h1 className="text-3xl font-bold text-center mb-5 text-teal">
           {category.replace(/([A-Z])/g, " $1")}
         </h1> */}
         {category === "MathsSymbols" && (
-          <section className="mb-6 bg-white p-6 rounded-lg text-teal-600  space-y-6  ">
+          <section className="mb-6 bg-white  px-7 sm:px-4 lg:px-10 rounded-lg text-teal-600 space-y-4">
             <h2 className="text-2xl font-semibold text-center mb-4">
               {`Introduction to ${spaceNamed}`}
             </h2>
@@ -45,20 +45,20 @@ const CategoryPage = () => {
             <p className="text-lg">{mathSymbolsContent.howMathAltCodesWork}</p>
 
             <div className="bg-teal-700 p-4 rounded-lg mt-6">
-              <h3 className="text-xl font-semibold text-center text-teal-100 mb-4">
+              <h3 className="text-xl font-semibold text-center text-white mb-4">
                 Common Math Symbols
               </h3>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
                 {mathSymbolsContent.commonMathSymbols.map((item, index) => (
                   <div
                     key={index}
-                    className="flex flex-col items-center text-center space-y-2 hover:bg-teal-800 p-3 rounded-lg"
+                    className="flex flex-col items-center text-center space-y-2 hover:bg-teal-600 p-3 rounded-lg"
                   >
-                    <span className="text-2xl text-teal-100">
+                    <span className="text-2xl text-white">
                       {item.symbol}
                     </span>
                     <div>
-                      <h4 className="font-bold text-teal-100">{item.name}</h4>
+                      <h4 className="font-bold text-white">{item.name}</h4>
                       <p className="text-sm text-teal-200">{item.altCode}</p>
                     </div>
                   </div>
@@ -67,7 +67,7 @@ const CategoryPage = () => {
             </div>
 
             {
-              <section className="mb-6 bg-white p-4 rounded-lg text-teal-600 shadow-md space-y-4">
+              <section className="mb-6 bg-white p-4 rounded-lg text-teal-600 shadow-lg space-y-4">
                 <h2 className="text-2xl font-bold">
                   Advantages of Using Alt Codes
                 </h2>
@@ -91,7 +91,7 @@ const CategoryPage = () => {
                 </ul>
               </section>
             }
-            <section className="mb-6 bg-white p-4 rounded-lg text-teal-600 shadow-md space-y-4">
+            <section className="mb-6 bg-white p-4 rounded-lg text-teal-600 shadow-lg space-y-4">
               <h2 className="text-2xl font-bold">
                 Troubleshooting Alt Code Issues
               </h2>
@@ -158,7 +158,7 @@ const CategoryPage = () => {
         )}
       </div>
       {/* Sidebar */}
-      <div className="w-full md:w-64 bg-gradient-to-br from-teal via-teal to-blue-800 h-auto p-5 space-y-6 rounded-xl text-white shadow-lg md:sticky md:top-0 mb-6 md:mb-0">
+      <div className="w-full md:w-auto bg-gradient-to-br from-teal via-teal to-blue-800 h-auto p-5 space-y-6 lg:rounded-xl text-white shadow-lg md:sticky md:top-0 mb-6 md:mb-0">
         <h2 className="text-2xl font-semibold border-b pb-3">
           {category.replace(/([A-Z])/g, " $1")}
         </h2>
