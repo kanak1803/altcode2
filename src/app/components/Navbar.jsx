@@ -8,7 +8,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 const navigation = [
   { name: "Alt Codes", href: "/", current: true },
   { name: "Maths Symbols", href: "/category/MathsSymbols", current: false },
-  { name: "Misc", href: "/category/Miscellaneous", current: false },
+  // { name: "Misc", href: "/category/Miscellaneous", current: false },
   { name: "How to Use Alt Codes", href: "/how-to-use-alt-code", current: false }, // New link
 ];
 

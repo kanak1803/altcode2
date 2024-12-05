@@ -23,14 +23,14 @@ const CategoryPage = () => {
   }
 
   return (
-    <div className="container mx-auto mt-10 px-4 flex flex-col md:flex-row md:space-x-6">
+    <div className="container mx-auto mt-10 px-6 flex flex-col md:flex-row md:space-x-6">
       {/* Main Content */}
       <div className="flex-1">
         {/* <h1 className="text-3xl font-bold text-center mb-5 text-teal">
           {category.replace(/([A-Z])/g, " $1")}
         </h1> */}
         {category === "MathsSymbols" && (
-          <section className="mb-6 bg-teal-600 p-6 rounded-lg text-white shadow-lg space-y-6">
+          <section className="mb-6 bg-white p-6 rounded-lg text-teal-600  space-y-6  ">
             <h2 className="text-2xl font-semibold text-center mb-4">
               {`Introduction to ${spaceNamed}`}
             </h2>
@@ -48,24 +48,27 @@ const CategoryPage = () => {
               <h3 className="text-xl font-semibold text-center text-teal-100 mb-4">
                 Common Math Symbols
               </h3>
-              <ul className="space-y-3">
+              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
                 {mathSymbolsContent.commonMathSymbols.map((item, index) => (
-                  <li
+                  <div
                     key={index}
-                    className="flex items-center space-x-3 hover:bg-teal-800 p-3 rounded-lg"
+                    className="flex flex-col items-center text-center space-y-2 hover:bg-teal-800 p-3 rounded-lg"
                   >
-                    <span className="text-2xl">{item.symbol}</span>
+                    <span className="text-2xl text-teal-100">
+                      {item.symbol}
+                    </span>
                     <div>
                       <h4 className="font-bold text-teal-100">{item.name}</h4>
                       <p className="text-sm text-teal-200">{item.altCode}</p>
                     </div>
-                  </li>
+                  </div>
                 ))}
-              </ul>
+              </div>
             </div>
+
             {
-              <section className="mb-6 bg-teal-700 p-4 rounded-lg text-white shadow-md space-y-4">
-                <h2 className="text-2xl font-bold text-white">
+              <section className="mb-6 bg-white p-4 rounded-lg text-teal-600 shadow-md space-y-4">
+                <h2 className="text-2xl font-bold">
                   Advantages of Using Alt Codes
                 </h2>
                 <ul className="list-disc pl-5 space-y-2">
@@ -88,8 +91,8 @@ const CategoryPage = () => {
                 </ul>
               </section>
             }
-            <section className="mb-6 bg-teal-700 p-4 rounded-lg text-white shadow-md space-y-4">
-              <h2 className="text-2xl font-bold text-white">
+            <section className="mb-6 bg-white p-4 rounded-lg text-teal-600 shadow-md space-y-4">
+              <h2 className="text-2xl font-bold">
                 Troubleshooting Alt Code Issues
               </h2>
               <h3 className="text-xl font-semibold">
@@ -118,7 +121,7 @@ const CategoryPage = () => {
                   helpful.
                 </li>
               </ul>
-            </section>  
+            </section>
           </section>
         )}
 
