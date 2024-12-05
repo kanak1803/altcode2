@@ -181,7 +181,7 @@ const SubCategoryPage = () => {
       </div>
       <div className="w-full md:w-64 bg-gradient-to-br from-teal via-teal to-blue-800 h-auto p-5 space-y-6 lg:rounded-xl text-white shadow-lg">
         <h2 className="text-base sm:text-2xl font-semibold border-b pb-3">
-          {category}
+          {category.replace(/([A-Z])/g, " $1")}
         </h2>
         <div className="space-y-3">
           {categoryData?.subcategories &&

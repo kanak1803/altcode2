@@ -807,7 +807,7 @@
       "html_code": "&#122;",
       "css_code": "\\007A"
     },
-    
+
     {
       "symbol": "{",
       "unicode": "U+007B",
@@ -1968,6 +1968,706 @@
       "alt_code": "0192",
       "html_code": "&#192;",
       "css_code": "\\00C0"
+    },
+    {
+      "symbol": "€",
+      "unicode": "U+20AC",
+      "alt_code": "0128",
+      "html_code": "&#128;",
+      "css_code": "\\20AC"
+    },
+    {
+      "symbol": "‘",
+      "unicode": "U+2018",
+      "alt_code": "0130",
+      "html_code": "&#130;",
+      "css_code": "\\2018"
+    },
+    {
+      "symbol": "„",
+      "unicode": "U+201E",
+      "alt_code": "0132",
+      "html_code": "&#132;",
+      "css_code": "\\201E"
+    },
+    {
+      "symbol": "…",
+      "unicode": "U+2026",
+      "alt_code": "0133",
+      "html_code": "&#133;",
+      "css_code": "\\2026"
+    },
+    {
+      "symbol": "†",
+      "unicode": "U+2020",
+      "alt_code": "0134",
+      "html_code": "&#134;",
+      "css_code": "\\2020"
+    },
+    {
+      "symbol": "‡",
+      "unicode": "U+2021",
+      "alt_code": "0135",
+      "html_code": "&#135;",
+      "css_code": "\\2021"
+    },
+    {
+      "symbol": "‰",
+      "unicode": "U+2030",
+      "alt_code": "0137",
+      "html_code": "&#137;",
+      "css_code": "\\2030"
+    },
+    {
+      "symbol": "Š",
+      "unicode": "U+0160",
+      "alt_code": "0138",
+      "html_code": "&#138;",
+      "css_code": "\\0160"
+    },
+    {
+      "symbol": "‹",
+      "unicode": "U+2039",
+      "alt_code": "0139",
+      "html_code": "&#139;",
+      "css_code": "\\2039"
+    },
+    {
+      "symbol": "Œ",
+      "unicode": "U+0152",
+      "alt_code": "0140",
+      "html_code": "&#140;",
+      "css_code": "\\0152"
+    },
+    {
+      "symbol": "Ž",
+      "unicode": "U+017D",
+      "alt_code": "0142",
+      "html_code": "&#142;",
+      "css_code": "\\017D"
+    },
+    {
+      "symbol": "‘",
+      "unicode": "U+2018",
+      "alt_code": "0145",
+      "html_code": "&#145;",
+      "css_code": "\\2018"
+    },
+    {
+      "symbol": "’",
+      "unicode": "U+2019",
+      "alt_code": "0146",
+      "html_code": "&#146;",
+      "css_code": "\\2019"
+    },
+    {
+      "symbol": "“",
+      "unicode": "U+201C",
+      "alt_code": "0147",
+      "html_code": "&#147;",
+      "css_code": "\\201C"
+    },
+    {
+      "symbol": "”",
+      "unicode": "U+201D",
+      "alt_code": "0148",
+      "html_code": "&#148;",
+      "css_code": "\\201D"
+    },
+    {
+      "symbol": "—",
+      "unicode": "U+2014",
+      "alt_code": "0151",
+      "html_code": "&#151;",
+      "css_code": "\\2014"
+    },
+    {
+      "symbol": "™",
+      "unicode": "U+2122",
+      "alt_code": "0153",
+      "html_code": "&#153;",
+      "css_code": "\\2122"
+    },
+    {
+      "symbol": "š",
+      "unicode": "U+0161",
+      "alt_code": "0154",
+      "html_code": "&#154;",
+      "css_code": "\\0161"
+    },
+    {
+      "symbol": "›",
+      "unicode": "U+203A",
+      "alt_code": "0155",
+      "html_code": "&#155;",
+      "css_code": "\\203A"
+    },
+    {
+      "symbol": "œ",
+      "unicode": "U+0153",
+      "alt_code": "0156",
+      "html_code": "&#156;",
+      "css_code": "\\0153"
+    },
+    {
+      "symbol": "ž",
+      "unicode": "U+017E",
+      "alt_code": "0158",
+      "html_code": "&#158;",
+      "css_code": "\\017E"
+    },
+    {
+      "symbol": "Ÿ",
+      "unicode": "U+0178",
+      "alt_code": "0159",
+      "html_code": "&#159;",
+      "css_code": "\\0178"
+    },
+    {
+      "symbol": "¤",
+      "unicode": "U+00A4",
+      "alt_code": "0164",
+      "html_code": "&#164;",
+      "css_code": "\\00A4"
+    },
+    {
+      "symbol": "¦",
+      "unicode": "U+00A6",
+      "alt_code": "0166",
+      "html_code": "&#166;",
+      "css_code": "\\00A6"
+    },
+    {
+      "symbol": "¨",
+      "unicode": "U+00A8",
+      "alt_code": "0168",
+      "html_code": "&#168;",
+      "css_code": "\\00A8"
+    },
+    {
+      "symbol": "©",
+      "unicode": "U+00A9",
+      "alt_code": "0169",
+      "html_code": "&#169;",
+      "css_code": "\\00A9"
+    },
+    {
+      "symbol": "¯",
+      "unicode": "U+00AF",
+      "alt_code": "0175",
+      "html_code": "&#175;",
+      "css_code": "\\00AF"
+    },
+    {
+      "symbol": "²",
+      "unicode": "U+00B2",
+      "alt_code": "0178",
+      "html_code": "&#178;",
+      "css_code": "\\00B2"
+    },
+    {
+      "symbol": "³",
+      "unicode": "U+00B3",
+      "alt_code": "0179",
+      "html_code": "&#179;",
+      "css_code": "\\00B3"
+    },
+    {
+      "symbol": "´",
+      "unicode": "U+00B4",
+      "alt_code": "0180",
+      "html_code": "&#180;",
+      "css_code": "\\00B4"
+    },
+    {
+      "symbol": "·",
+      "unicode": "U+00B7",
+      "alt_code": "0183",
+      "html_code": "&#183;",
+      "css_code": "\\00B7"
+    },
+    {
+      "symbol": "¸",
+      "unicode": "U+00B8",
+      "alt_code": "0184",
+      "html_code": "&#184;",
+      "css_code": "\\00B8"
+    },
+    {
+      "symbol": "¹",
+      "unicode": "U+00B9",
+      "alt_code": "0185",
+      "html_code": "&#185;",
+      "css_code": "\\00B9"
+    },
+    {
+      "symbol": "¼",
+      "unicode": "U+00BC",
+      "alt_code": "0188",
+      "html_code": "&#188;",
+      "css_code": "\\00BC"
+    },
+    {
+      "symbol": "½",
+      "unicode": "U+00BD",
+      "alt_code": "0189",
+      "html_code": "&#189;",
+      "css_code": "\\00BD"
+    },
+    {
+      "symbol": "¾",
+      "unicode": "U+00BE",
+      "alt_code": "0190",
+      "html_code": "&#190;",
+      "css_code": "\\00BE"
+    },
+    {
+      "symbol": "À",
+      "unicode": "U+00C0",
+      "alt_code": "0192",
+      "html_code": "&#192;",
+      "css_code": "\\00C0"
+    },
+    {
+      "symbol": "Á",
+      "unicode": "U+00C1",
+      "alt_code": "0193",
+      "html_code": "&#193;",
+      "css_code": "\\00C1"
+    },
+    {
+      "symbol": "Â",
+      "unicode": "U+00C2",
+      "alt_code": "0194",
+      "html_code": "&#194;",
+      "css_code": "\\00C2"
+    },
+    {
+      "symbol": "Ã",
+      "unicode": "U+00C3",
+      "alt_code": "0195",
+      "html_code": "&#195;",
+      "css_code": "\\00C3"
+    },
+    {
+      "symbol": "Ä",
+      "unicode": "U+00C4",
+      "alt_code": "0196",
+      "html_code": "&#196;",
+      "css_code": "\\00C4"
+    },
+    {
+      "symbol": "Å",
+      "unicode": "U+00C5",
+      "alt_code": "0197",
+      "html_code": "&#197;",
+      "css_code": "\\00C5"
+    },
+    {
+      "symbol": "Æ",
+      "unicode": "U+00C6",
+      "alt_code": "0198",
+      "html_code": "&#198;",
+      "css_code": "\\00C6"
+    },
+    {
+      "symbol": "Ç",
+      "unicode": "U+00C7",
+      "alt_code": "0199",
+      "html_code": "&#199;",
+      "css_code": "\\00C7"
+    },
+    {
+      "symbol": "È",
+      "unicode": "U+00C8",
+      "alt_code": "0200",
+      "html_code": "&#200;",
+      "css_code": "\\00C8"
+    },
+    {
+      "symbol": "É",
+      "unicode": "U+00C9",
+      "alt_code": "0201",
+      "html_code": "&#201;",
+      "css_code": "\\00C9"
+    },
+    {
+      "symbol": "Ê",
+      "unicode": "U+00CA",
+      "alt_code": "0202",
+      "html_code": "&#202;",
+      "css_code": "\\00CA"
+    },
+    {
+      "symbol": "Ë",
+      "unicode": "U+00CB",
+      "alt_code": "0203",
+      "html_code": "&#203;",
+      "css_code": "\\00CB"
+    },
+    {
+      "symbol": "Ì",
+      "unicode": "U+00CC",
+      "alt_code": "0204",
+      "html_code": "&#204;",
+      "css_code": "\\00CC"
+    },
+    {
+      "symbol": "Í",
+      "unicode": "U+00CD",
+      "alt_code": "0205",
+      "html_code": "&#205;",
+      "css_code": "\\00CD"
+    },
+    {
+      "symbol": "Î",
+      "unicode": "U+00CE",
+      "alt_code": "0206",
+      "html_code": "&#206;",
+      "css_code": "\\00CE"
+    },
+    {
+      "symbol": "Ï",
+      "unicode": "U+00CF",
+      "alt_code": "0207",
+      "html_code": "&#207;",
+      "css_code": "\\00CF"
+    },
+    {
+      "symbol": "Ð",
+      "unicode": "U+00D0",
+      "alt_code": "0208",
+      "html_code": "&#208;",
+      "css_code": "\\00D0"
+    },
+    {
+      "symbol": "Ñ",
+      "unicode": "U+00D1",
+      "alt_code": "0209",
+      "html_code": "&#209;",
+      "css_code": "\\00D1"
+    },
+    {
+      "symbol": "Ò",
+      "unicode": "U+00D2",
+      "alt_code": "0210",
+      "html_code": "&#210;",
+      "css_code": "\\00D2"
+    },
+    {
+      "symbol": "Ó",
+      "unicode": "U+00D3",
+      "alt_code": "0211",
+      "html_code": "&#211;",
+      "css_code": "\\00D3"
+    },
+    {
+      "symbol": "Ô",
+      "unicode": "U+00D4",
+      "alt_code": "0212",
+      "html_code": "&#212;",
+      "css_code": "\\00D4"
+    },
+    {
+      "symbol": "Õ",
+      "unicode": "U+00D5",
+      "alt_code": "0213",
+      "html_code": "&#213;",
+      "css_code": "\\00D5"
+    },
+    {
+      "symbol": "Ö",
+      "unicode": "U+00D6",
+      "alt_code": "0214",
+      "html_code": "&#214;",
+      "css_code": "\\00D6"
+    },
+    {
+      "symbol": "×",
+      "unicode": "U+00D7",
+      "alt_code": "0215",
+      "html_code": "&#215;",
+      "css_code": "\\00D7"
+    },
+    {
+      "symbol": "Ø",
+      "unicode": "U+00D8",
+      "alt_code": "0216",
+      "html_code": "&#216;",
+      "css_code": "\\00D8"
+    },
+    {
+      "symbol": "Ù",
+      "unicode": "U+00D9",
+      "alt_code": "0217",
+      "html_code": "&#217;",
+      "css_code": "\\00D9"
+    },
+    {
+      "symbol": "Ú",
+      "unicode": "U+00DA",
+      "alt_code": "0218",
+      "html_code": "&#218;",
+      "css_code": "\\00DA"
+    },
+    {
+      "symbol": "Û",
+      "unicode": "U+00DB",
+      "alt_code": "0219",
+      "html_code": "&#219;",
+      "css_code": "\\00DB"
+    },
+    {
+      "symbol": "Ü",
+      "unicode": "U+00DC",
+      "alt_code": "0220",
+      "html_code": "&#220;",
+      "css_code": "\\00DC"
+    },
+    {
+      "symbol": "Ý",
+      "unicode": "U+00DD",
+      "alt_code": "0221",
+      "html_code": "&#221;",
+      "css_code": "\\00DD"
+    },
+    {
+      "symbol": "Þ",
+      "unicode": "U+00DE",
+      "alt_code": "0222",
+      "html_code": "&#222;",
+      "css_code": "\\00DE"
+    },
+    {
+      "symbol": "ß",
+      "unicode": "U+00DF",
+      "alt_code": "0223",
+      "html_code": "&#223;",
+      "css_code": "\\00DF"
+    },
+    {
+      "symbol": "à",
+      "unicode": "U+00E0",
+      "alt_code": "0224",
+      "html_code": "&#224;",
+      "css_code": "\\00E0"
+    },
+    {
+      "symbol": "á",
+      "unicode": "U+00E1",
+      "alt_code": "0225",
+      "html_code": "&#225;",
+      "css_code": "\\00E1"
+    },
+    {
+      "symbol": "â",
+      "unicode": "U+00E2",
+      "alt_code": "0226",
+      "html_code": "&#226;",
+      "css_code": "\\00E2"
+    },
+    {
+      "symbol": "ã",
+      "unicode": "U+00E3",
+      "alt_code": "0227",
+      "html_code": "&#227;",
+      "css_code": "\\00E3"
+    },
+    {
+      "symbol": "ä",
+      "unicode": "U+00E4",
+      "alt_code": "0228",
+      "html_code": "&#228;",
+      "css_code": "\\00E4"
+    },
+    {
+      "symbol": "å",
+      "unicode": "U+00E5",
+      "alt_code": "0229",
+      "html_code": "&#229;",
+      "css_code": "\\00E5"
+    },
+    {
+      "symbol": "æ",
+      "unicode": "U+00E6",
+      "alt_code": "0230",
+      "html_code": "&#230;",
+      "css_code": "\\00E6"
+    },
+    {
+      "symbol": "ç",
+      "unicode": "U+00E7",
+      "alt_code": "0231",
+      "html_code": "&#231;",
+      "css_code": "\\00E7"
+    },
+    {
+      "symbol": "è",
+      "unicode": "U+00E8",
+      "alt_code": "0232",
+      "html_code": "&#232;",
+      "css_code": "\\00E8"
+    },
+    {
+      "symbol": "é",
+      "unicode": "U+00E9",
+      "alt_code": "0233",
+      "html_code": "&#233;",
+      "css_code": "\\00E9"
+    },
+    {
+      "symbol": "ê",
+      "unicode": "U+00EA",
+      "alt_code": "0234",
+      "html_code": "&#234;",
+      "css_code": "\\00EA"
+    },
+    {
+      "symbol": "ë",
+      "unicode": "U+00EB",
+      "alt_code": "0235",
+      "html_code": "&#235;",
+      "css_code": "\\00EB"
+    },
+    {
+      "symbol": "ì",
+      "unicode": "U+00EC",
+      "alt_code": "0236",
+      "html_code": "&#236;",
+      "css_code": "\\00EC"
+    },
+    {
+      "symbol": "í",
+      "unicode": "U+00ED",
+      "alt_code": "0237",
+      "html_code": "&#237;",
+      "css_code": "\\00ED"
+    },
+    {
+      "symbol": "î",
+      "unicode": "U+00EE",
+      "alt_code": "0238",
+      "html_code": "&#238;",
+      "css_code": "\\00EE"
+    },
+    {
+      "symbol": "ï",
+      "unicode": "U+00EF",
+      "alt_code": "0239",
+      "html_code": "&#239;",
+      "css_code": "\\00EF"
+    },
+    {
+      "symbol": "ð",
+      "unicode": "U+00F0",
+      "alt_code": "0240",
+      "html_code": "&#240;",
+      "css_code": "\\00F0"
+    },
+    {
+      "symbol": "ñ",
+      "unicode": "U+00F1",
+      "alt_code": "0241",
+      "html_code": "&#241;",
+      "css_code": "\\00F1"
+    },
+    {
+      "symbol": "ò",
+      "unicode": "U+00F2",
+      "alt_code": "0242",
+      "html_code": "&#242;",
+      "css_code": "\\00F2"
+    },
+    {
+      "symbol": "ó",
+      "unicode": "U+00F3",
+      "alt_code": "0243",
+      "html_code": "&#243;",
+      "css_code": "\\00F3"
+    },
+    {
+      "symbol": "ô",
+      "unicode": "U+00F4",
+      "alt_code": "0244",
+      "html_code": "&#244;",
+      "css_code": "\\00F4"
+    },
+    {
+      "symbol": "õ",
+      "unicode": "U+00F5",
+      "alt_code": "0245",
+      "html_code": "&#245;",
+      "css_code": "\\00F5"
+    },
+    {
+      "symbol": "ö",
+      "unicode": "U+00F6",
+      "alt_code": "0246",
+      "html_code": "&#246;",
+      "css_code": "\\00F6"
+    },
+    {
+      "symbol": "÷",
+      "unicode": "U+00F7",
+      "alt_code": "0247",
+      "html_code": "&#247;",
+      "css_code": "\\00F7"
+    },
+    {
+      "symbol": "ø",
+      "unicode": "U+00F8",
+      "alt_code": "0248",
+      "html_code": "&#248;",
+      "css_code": "\\00F8"
+    },
+    {
+      "symbol": "ù",
+      "unicode": "U+00F9",
+      "alt_code": "0249",
+      "html_code": "&#249;",
+      "css_code": "\\00F9"
+    },
+    {
+      "symbol": "ú",
+      "unicode": "U+00FA",
+      "alt_code": "0250",
+      "html_code": "&#250;",
+      "css_code": "\\00FA"
+    },
+    {
+      "symbol": "û",
+      "unicode": "U+00FB",
+      "alt_code": "0251",
+      "html_code": "&#251;",
+      "css_code": "\\00FB"
+    },
+    {
+      "symbol": "ü",
+      "unicode": "U+00FC",
+      "alt_code": "0252",
+      "html_code": "&#252;",
+      "css_code": "\\00FC"
+    },
+    {
+      "symbol": "ý",
+      "unicode": "U+00FD",
+      "alt_code": "0253",
+      "html_code": "&#253;",
+      "css_code": "\\00FD"
+    },
+    {
+      "symbol": "þ",
+      "unicode": "U+00FE",
+      "alt_code": "0254",
+      "html_code": "&#254;",
+      "css_code": "\\00FE"
+    },
+    {
+      "symbol": "ÿ",
+      "unicode": "U+00FF",
+      "alt_code": "0255",
+      "html_code": "&#255;",
+      "css_code": "\\00FF"
     }
   ]
 }

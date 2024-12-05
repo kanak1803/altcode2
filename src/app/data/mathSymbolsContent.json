@@ -1,0 +1,65 @@
+{
+    "intro": "In mathematics, symbols are essential for explaining complicated concepts simply yet efficiently. These symbols, which range from algebraic expressions to calculus notations, help people understand mathematical concepts better. But how can we include these symbols in our writings, especially when they are not easily accessible on our keyboards? This is when Math Alt Code symbols come into play.",
+    
+    "whatAreAltCodes": "Special characters that aren't normally available through the usual keyboard layout can be inserted using alt codes, which are keyboard shortcuts. The computer will insert a symbol for a given number when you press and hold the \"Alt\" key and type a particular number sequence using the numeric keypad.",
+    
+    "howMathAltCodesWork": "Alt codes for mathematical symbols follow a simple system. You can use them to insert a variety of mathematical symbols such as Plus-minus sign (±), Integral sign (∫), and Pi symbol (π).",
+
+    "footer":"For anyone dealing with mathematical expressions for personal, commercial, or academic tasks, alt codes are a valuable tool. You can quickly and simply insert a wide range of symbols that help in the clear and simple communication of mathematical concepts with a few keystrokes. You can improve the quality of your work and greatly expedite your workflow by being familiar with the Alt codes for common mathematical symbols. Remember these easy codes, and you'll be typing like a pro the next time you need to enter a special sign like Pi (π), Plus-Minus (±), or Infinity (∞).",
+    
+    "commonMathSymbols": [
+      {
+        "symbol": "∑",
+        "name": "Summation",
+        "altCode": "Alt + 228"
+      },
+      {
+        "symbol": "√",
+        "name": "Square Root",
+        "altCode": "Alt + 251"
+      },
+      {
+        "symbol": "∫",
+        "name": "Integral",
+        "altCode": "Alt + 8747"
+      },
+      {
+        "symbol": "∆",
+        "name": "Delta",
+        "altCode": "Alt + 30"
+      },
+      {
+        "symbol": "±",
+        "name": "Plus-Minus",
+        "altCode": "Alt + 0177"
+      },
+      {
+        "symbol": "π",
+        "name": "Pi",
+        "altCode": "Alt + 227"
+      },
+      {
+        "symbol": "≈",
+        "name": "Approximately Equal",
+        "altCode": "Alt + 247"
+      },
+      {
+        "symbol": "×",
+        "name": "Multiplication Sign",
+        "altCode": "Alt + 0215"
+      },
+      {
+        "symbol": "÷",
+        "name": "Division Sign",
+        "altCode": "Alt + 0247"
+      },
+      {
+        "symbol": "∞",
+        "name": "Infinity",
+        "altCode": "Alt + 236"
+      }
+      
+    ]
+    
+  }
+  
