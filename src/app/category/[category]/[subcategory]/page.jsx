@@ -3,7 +3,6 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import data from "@/app/data/category";
-import UpButton from "@/app/components/UpButton";
 
 const SubCategoryPage = () => {
   const { category, subcategory } = useParams();
@@ -18,9 +17,16 @@ const SubCategoryPage = () => {
 
   const handleCopySymbol = (symbol) => {
     if (typeof window !== "undefined") {
-      navigator.clipboard.writeText(symbol);
-      setCopiedSymbol(symbol);
-      setIsModalOpen(true);
+      navigator.clipboard
+        .writeText(symbol)
+        .then(() => {
+          setCopiedSymbol(symbol);
+          setIsModalOpen(true);
+        })
+        .catch((err) => {
+          console.error("Failed to copy text: ", err);
+          // Optionally display a message to the user if it fails
+        });
     }
   };
 
@@ -197,7 +203,12 @@ const SubCategoryPage = () => {
             ))}
         </div>
       </div>
-      <UpButton/>
+      <button
+        className="fixed bottom-4 right-4 bg-teal-400 px-6 text-white p-3 rounded-2xl shadow-lg hover:bg-teal-200 hover:text-black"
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+      >
+        ↑
+      </button>
     </div>
   );
 };

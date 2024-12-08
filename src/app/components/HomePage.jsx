@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from "react";
 import data from "../data/data.json";
-import UpButton from "./UpButton";
 
 const HomePage = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -38,9 +37,16 @@ const HomePage = () => {
 
   const handleCopySymbol = (symbol) => {
     if (typeof window !== "undefined") {
-      navigator.clipboard.writeText(symbol);
-      setCopiedSymbol(symbol);
-      setIsModalOpen(true);
+      navigator.clipboard
+        .writeText(symbol)
+        .then(() => {
+          setCopiedSymbol(symbol);
+          setIsModalOpen(true);
+        })
+        .catch((err) => {
+          console.error("Failed to copy text: ", err);
+          // Optionally display a message to the user if it fails
+        });
     }
   };
 
@@ -88,9 +94,9 @@ const HomePage = () => {
 
         {Object.keys(data).map((category) => (
           <div key={category} className="mb-10" id={category}>
-            <h2 className="text-lg text-center sm:text-xl md:text-2xl font-semibold mb-3 capitalize text-teal">
+            {/* <h2 className="text-lg text-center sm:text-xl md:text-2xl font-semibold mb-3 capitalize text-teal">
               {category.replace(/([A-Z])/g, " $1")}
-            </h2>
+            </h2> */}
             <div className="overflow-x-auto">
               <table className="table-auto min-w-full border-collapse border border-teal-200 rounded-xl shadow-lg overflow-hidden">
                 <thead className="bg-teal text-white sticky top-0 z-10">
@@ -138,7 +144,12 @@ const HomePage = () => {
       </div>
 
       {/* Back to Top Button */}
-      <UpButton/>
+      <button
+        className="fixed bottom-4 right-4 bg-teal-400 px-6 text-white p-3 rounded-2xl shadow-lg hover:bg-teal-200 hover:text-black"
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+      >
+        ↑
+      </button>
     </div>
   );
 };

@@ -3,7 +3,7 @@ import React from "react";
 import { useParams } from "next/navigation";
 import data from "@/app/data/category";
 import mathSymbolsContent from "@/app/data/mathSymbolsContent.json"; // Import the JSON content
-import UpButton from "@/app/components/UpButton";
+
 import Link from "next/link";
 
 const CategoryPage = () => {
@@ -56,9 +56,7 @@ const CategoryPage = () => {
                     key={index}
                     className="flex flex-col items-center text-center space-y-2 hover:bg-teal-600 p-3 rounded-lg"
                   >
-                    <span className="text-2xl text-white">
-                      {item.symbol}
-                    </span>
+                    <span className="text-2xl text-white">{item.symbol}</span>
                     <div>
                       <h4 className="font-bold text-white">{item.name}</h4>
                       <p className="text-sm text-teal-200">{item.altCode}</p>
@@ -177,7 +175,12 @@ const CategoryPage = () => {
             ))}
         </div>
       </div>
-      <UpButton/>
+      <button
+        className="fixed bottom-4 right-4 bg-teal-400 px-6 text-white p-3 rounded-2xl shadow-lg hover:bg-teal-200 hover:text-black"
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+      >
+        ↑
+      </button>
     </div>
   );
 };
