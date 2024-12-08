@@ -1,6 +1,8 @@
 "use client";
 import React, { useState } from "react";
 import data from "../data/data.json";
+import mathSymbolsContent from "@/app/data/mathSymbolsContent.json";
+import Link from "next/link";
 
 const HomePage = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -131,15 +133,12 @@ const HomePage = () => {
           Categories
         </h2>
         <div className="space-y-2 sm:space-y-3">
-          {Object.keys(data).map((category) => (
-            <a
-              key={category}
-              href={`#${category}`}
-              className="block text-sm sm:text-base bg-teal-600 hover:bg-teal-500 py-2 px-3 sm:py-2 sm:px-4 rounded-lg shadow-sm transition-all"
-            >
-              {category.replace(/([A-Z])/g, " $1")}
-            </a>
-          ))}
+          <Link
+            href="/category/MathsSymbols"
+            className="block text-lg bg-teal-600 hover:bg-teal-500 py-2 px-4 rounded-lg shadow-sm"
+          >
+            Maths Symbols
+          </Link>
         </div>
       </div>
 
