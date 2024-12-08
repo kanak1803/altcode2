@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import data from "@/app/data/category";
+import UpButton from "@/app/components/UpButton";
 
 const SubCategoryPage = () => {
   const { category, subcategory } = useParams();
@@ -196,12 +197,7 @@ const SubCategoryPage = () => {
             ))}
         </div>
       </div>
-      <button
-        className="fixed bottom-4 right-4 bg-teal-500 text-white p-3 rounded-full shadow-lg hover:bg-teal-400"
-        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      >
-        ↑ Top
-      </button>
+      <UpButton/>
     </div>
   );
 };

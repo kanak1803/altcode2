@@ -3,6 +3,8 @@ import React from "react";
 import { useParams } from "next/navigation";
 import data from "@/app/data/category";
 import mathSymbolsContent from "@/app/data/mathSymbolsContent.json"; // Import the JSON content
+import UpButton from "@/app/components/UpButton";
+import Link from "next/link";
 
 const CategoryPage = () => {
   const { category } = useParams(); // Get the category from the URL
@@ -165,16 +167,17 @@ const CategoryPage = () => {
         <div className="space-y-3">
           {categoryData?.subcategories &&
             Object.keys(categoryData.subcategories).map((subcat) => (
-              <a
+              <Link
                 key={subcat}
                 href={`/category/${category}/${subcat}`}
                 className="block text-lg bg-teal-600 hover:bg-teal-500 py-2 px-4 rounded-lg shadow-sm"
               >
                 {subcat.replace(/([A-Z])/g, " $1")}
-              </a>
+              </Link>
             ))}
         </div>
       </div>
+      <UpButton/>
     </div>
   );
 };

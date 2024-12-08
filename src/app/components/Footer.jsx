@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Footer() {
   return (
     <footer className="bg-gray-800 text-gray-300">
@@ -16,36 +18,44 @@ export default function Footer() {
           <h3 className="text-xl font-bold text-white mb-4">Quick Links</h3>
           <ul className="space-y-2 sm:space-y-3">
             <li>
-              <a
-                href="/alt-codes"
+            <Link
+                href="/"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
-                Alt Codes
-              </a>
+                Home
+              </Link>
             </li>
             <li>
-              <a
-                href="/currency-symbols"
+              <Link
+                href="/category/MathsSymbols"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
-                Currency Symbols
-              </a>
+                Maths Symbols
+              </Link>
             </li>
             <li>
-              <a
-                href="/misc"
-                className="hover:text-teal-400 transition-colors duration-150"
-              >
-                Misc
-              </a>
-            </li>
-            <li>
-              <a
+            <Link
                 href="/how-to-use-alt-code"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
-                How to Use
-              </a>
+                How To Use
+              </Link>
+            </li>
+            <li>
+            <Link
+                href="/editor"
+                className="hover:text-teal-400 transition-colors duration-150"
+              >
+                ASCII Editior
+              </Link>
+            </li>
+            <li>
+            <Link
+                href="/contact"
+                className="hover:text-teal-400 transition-colors duration-150"
+              >
+                Contact Us
+              </Link>
             </li>
           </ul>
         </div>
@@ -61,7 +71,7 @@ export default function Footer() {
         </div>
 
         {/* Follow Us */}
-        <div>
+        {/* <div>
           <h3 className="text-xl font-bold text-white mb-4">Follow Us</h3>
           <div className="flex space-x-4">
             <a
@@ -83,7 +93,7 @@ export default function Footer() {
               <i className="fab fa-instagram"></i> Instagram
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
 
       {/* Copyright */}

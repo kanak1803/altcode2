@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import data from "../data/data.json";
+import UpButton from "./UpButton";
 
 const HomePage = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -137,12 +138,7 @@ const HomePage = () => {
       </div>
 
       {/* Back to Top Button */}
-      <button
-        className="fixed bottom-4 right-4 bg-teal-500 text-white p-3 rounded-full shadow-lg hover:bg-teal-400"
-        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      >
-        ↑ Top
-      </button>
+      <UpButton/>
     </div>
   );
 };

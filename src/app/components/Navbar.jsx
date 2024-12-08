@@ -4,12 +4,18 @@ import {
   DisclosurePanel,
 } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
+import Link from "next/link";
 
 const navigation = [
   { name: "Alt Codes", href: "/", current: true },
   { name: "Maths Symbols", href: "/category/MathsSymbols", current: false },
-  // { name: "Misc", href: "/category/Miscellaneous", current: false },
-  { name: "How to Use Alt Codes", href: "/how-to-use-alt-code", current: false }, // New link
+  { name: "ASCII Editor", href: "/editor", current: false },
+  {
+    name: "How to Use Alt Codes",
+    href: "/how-to-use-alt-code",
+    current: false,
+  },
+  { name: "Contact Us", href: "/contact", current: false }, // New link
 ];
 
 function classNames(...classes) {
@@ -46,7 +52,7 @@ export default function Example() {
             <div className="hidden sm:ml-6 sm:block">
               <div className="flex space-x-4">
                 {navigation.map((item) => (
-                  <a
+                  <Link
                     key={item.name}
                     href={item.href}
                     aria-current={item.current ? "page" : undefined}
@@ -58,7 +64,7 @@ export default function Example() {
                     )}
                   >
                     {item.name}
-                  </a>
+                  </Link>
                 ))}
               </div>
             </div>
