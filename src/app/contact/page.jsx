@@ -98,7 +98,7 @@ const ContactUs = () => {
             href="mailto:your-email@example.com"
             className="bg-white text-teal-600 py-3 px-6 rounded-lg shadow-lg font-semibold hover:bg-gray-100 transition"
           >
-            your-email@example.com
+            altcodessign@gmail.com
           </a>
           <p className="mt-6 text-sm">
             We aim to respond within 24 hours. Thank you for reaching out!

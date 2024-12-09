@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from "react";
 import data from "../data/data.json";
-import mathSymbolsContent from "@/app/data/mathSymbolsContent.json";
 import Link from "next/link";
 
 const HomePage = () => {

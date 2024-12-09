@@ -18,7 +18,7 @@ export default function Footer() {
           <h3 className="text-xl font-bold text-white mb-4">Quick Links</h3>
           <ul className="space-y-2 sm:space-y-3">
             <li>
-            <Link
+              <Link
                 href="/"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
@@ -34,7 +34,7 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-            <Link
+              <Link
                 href="/how-to-use-alt-code"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
@@ -42,7 +42,7 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-            <Link
+              <Link
                 href="/editor"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
@@ -50,7 +50,7 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-            <Link
+              <Link
                 href="/contact"
                 className="hover:text-teal-400 transition-colors duration-150"
               >
@@ -64,9 +64,7 @@ export default function Footer() {
         <div>
           <h3 className="text-xl font-bold text-white mb-4">Contact Info</h3>
           <ul className="space-y-2 sm:space-y-3">
-            <li>Email: support@altcodes.com</li>
-            <li>Phone: +123 456 7890</li>
-            <li>Location: 123 Alt Code St, Symbol City</li>
+            <li>Email: altcodessign@gmail.com</li>
           </ul>
         </div>
 
