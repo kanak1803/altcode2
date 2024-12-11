@@ -46,7 +46,9 @@ export default function Example() {
           <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex shrink-0 items-center">
               {/* <img alt="Your Company" src={logo.src} className="h-8 w-auto" /> */}
-              <Image src={logo} width={110} height={90} alt="logo" />
+              <Link href={"/"}>
+                <Image src={logo} width={110} height={90} alt="logo" />
+              </Link>
             </div>
             <div className="hidden sm:ml-6 sm:block">
               <div className="flex space-x-4  lg:mt-[2.4rem] sm:mt-10">
