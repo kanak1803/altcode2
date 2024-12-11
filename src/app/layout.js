@@ -28,6 +28,7 @@ export default function RootLayout({ children }) {
           name="Keywords"
           content=" alt codes, alt code characters, alt code symbols, alt key codes, alt character codes, alt commands, alt symbol "
         />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
         {/* Google Analytics */}
         <script
           async

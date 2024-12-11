@@ -5,9 +5,11 @@ import {
 } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
+import logo from "@/app/Images/logo.png";
+import Image from "next/image";
 
 const navigation = [
-  { name: "Alt Codes", href: "/", current: true },
+  // { name: "Alt Codes", href: "/", current: true },
   { name: "Maths Symbols", href: "/category/MathsSymbols", current: false },
   { name: "ASCII Editor", href: "/editor", current: false },
   {
@@ -43,14 +45,11 @@ export default function Example() {
           </div>
           <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex shrink-0 items-center">
-              <img
-                alt="Your Company"
-                src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=500"
-                className="h-8 w-auto"
-              />
+              {/* <img alt="Your Company" src={logo.src} className="h-8 w-auto" /> */}
+              <Image src={logo} width={110} height={90} alt="logo" />
             </div>
             <div className="hidden sm:ml-6 sm:block">
-              <div className="flex space-x-4">
+              <div className="flex space-x-4  lg:mt-[2.4rem] sm:mt-10">
                 {navigation.map((item) => (
                   <Link
                     key={item.name}
