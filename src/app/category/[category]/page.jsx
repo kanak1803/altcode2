@@ -176,7 +176,7 @@ const CategoryPage = () => {
         </div>
       </div>
       <button
-        className="fixed bottom-4 right-4 bg-teal-400 px-6 text-white p-3 rounded-2xl shadow-lg hover:bg-teal-200 hover:text-black"
+        className="fixed bottom-4 right-4 bg-[#242d39] px-6 text-white p-3 rounded-2xl shadow-lg"
         onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
       >
         ↑
