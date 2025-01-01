@@ -402,6 +402,55 @@
       "css_code": "\\0039"
     },
     {
+      "symbol": ":",
+      "unicode": "U+003A",
+      "alt_code": "58",
+      "html_code": "&#58;",
+      "css_code": "\\003A"
+    },
+    {
+      "symbol": ";",
+      "unicode": "U+003B",
+      "alt_code": "59",
+      "html_code": "&#59;",
+      "css_code": "\\003B"
+    },
+    {
+      "symbol": "<",
+      "unicode": "U+003C",
+      "alt_code": "60",
+      "html_code": "&#60;",
+      "css_code": "\\003C"
+    },
+    {
+      "symbol": "=",
+      "unicode": "U+003D",
+      "alt_code": "61",
+      "html_code": "&#61;",
+      "css_code": "\\003D"
+    },
+    {
+      "symbol": ">",
+      "unicode": "U+003E",
+      "alt_code": "62",
+      "html_code": "&#62;",
+      "css_code": "\\003E"
+    },
+    {
+      "symbol": "?",
+      "unicode": "U+003F",
+      "alt_code": "63",
+      "html_code": "&#63;",
+      "css_code": "\\003F"
+    },
+    {
+      "symbol": "@",
+      "unicode": "U+0040",
+      "alt_code": "64",
+      "html_code": "&#64;",
+      "css_code": "\\0040"
+    },
+    {
       "symbol": "A",
       "unicode": "U+0041",
       "alt_code": "65",
@@ -1070,6 +1119,34 @@
       "css_code": "\\0192"
     },
     {
+      "symbol": "á",
+      "unicode": "U+00E1",
+      "alt_code": "160",
+      "html_code": "&#160;",
+      "css_code": "\\00E1"
+    },
+    {
+      "symbol": "í",
+      "unicode": "U+00ED",
+      "alt_code": "161",
+      "html_code": "&#161;",
+      "css_code": "\\00ED"
+    },
+    {
+      "symbol": "ó",
+      "unicode": "U+00F3",
+      "alt_code": "162",
+      "html_code": "&#162;",
+      "css_code": "\\00F3"
+    },
+    {
+      "symbol": "ú",
+      "unicode": "U+00FA",
+      "alt_code": "163",
+      "html_code": "&#163;",
+      "css_code": "\\00FA"
+    },
+    {
       "symbol": "ñ",
       "unicode": "U+00F1",
       "alt_code": "164",
@@ -1648,6 +1725,13 @@
       "css_code": "\\2311"
     },
     {
+      "symbol": "÷",
+      "unicode": "U+00F7",
+      "alt_code": "246",
+      "html_code": "&#246;",
+      "css_code": "\\00F7"
+    },
+    {
       "symbol": "≈",
       "unicode": "U+2248",
       "alt_code": "247",
@@ -1662,7 +1746,7 @@
       "css_code": "\\00B0"
     },
     {
-      "symbol": "·",
+      "symbol": "∙",
       "unicode": "U+00B7",
       "alt_code": "249",
       "html_code": "&#249;",
@@ -1725,6 +1809,13 @@
       "css_code": "\\2018"
     },
     {
+      "symbol": "ƒ",
+      "unicode": "U+0192",
+      "alt_code": "0131",
+      "html_code": "&#131;",
+      "css_code": "\\0192"
+    },
+    {
       "symbol": "„",
       "unicode": "U+201E",
       "alt_code": "0132",
@@ -1751,6 +1842,13 @@
       "alt_code": "0135",
       "html_code": "&#135;",
       "css_code": "\\2021"
+    },
+    {
+      "symbol": "ˆ",
+      "unicode": "U+02C6",
+      "alt_code": "0136",
+      "html_code": "&#136;",
+      "css_code": "\\02C6"
     },
     {
       "symbol": "‰",
@@ -1816,11 +1914,32 @@
       "css_code": "\\201D"
     },
     {
+      "symbol": "•",
+      "unicode": "U+2022",
+      "alt_code": "0149",
+      "html_code": "&#8226;",
+      "css_code": "\\2022"
+    },
+    {
+      "symbol": "–",
+      "unicode": "U+2013",
+      "alt_code": "0150",
+      "html_code": "&#8211;",
+      "css_code": "\\2013"
+    },
+    {
       "symbol": "—",
       "unicode": "U+2014",
       "alt_code": "0151",
       "html_code": "&#151;",
       "css_code": "\\2014"
+    },
+    {
+      "symbol": "˜",
+      "unicode": "U+02DC",
+      "alt_code": "0152",
+      "html_code": "&#152;",
+      "css_code": "\\02DC"
     },
     {
       "symbol": "™",
@@ -1865,6 +1984,27 @@
       "css_code": "\\0178"
     },
     {
+      "symbol": "¡",
+      "unicode": "U+00A1",
+      "alt_code": "0161",
+      "html_code": "&#161;",
+      "css_code": "\\00A1"
+    },
+    {
+      "symbol": "¢",
+      "unicode": "U+00A2",
+      "alt_code": "0162",
+      "html_code": "&#162;",
+      "css_code": "\\00A2"
+    },
+    {
+      "symbol": "¢",
+      "unicode": "U+00A3",
+      "alt_code": "0163",
+      "html_code": "&#163;",
+      "css_code": "\\00A3"
+    },
+    {
       "symbol": "¤",
       "unicode": "U+00A4",
       "alt_code": "0164",
@@ -1872,11 +2012,25 @@
       "css_code": "\\00A4"
     },
     {
+      "symbol": "¥",
+      "unicode": "U+00A5",
+      "alt_code": "0165",
+      "html_code": "&#165;",
+      "css_code": "\\00A5"
+    },
+    {
       "symbol": "¦",
       "unicode": "U+00A6",
       "alt_code": "0166",
       "html_code": "&#166;",
       "css_code": "\\00A6"
+    },
+    {
+      "symbol": "§",
+      "unicode": "U+00A7",
+      "alt_code": "0167",
+      "html_code": "&#167;",
+      "css_code": "\\00A7"
     },
     {
       "symbol": "¨",
@@ -1893,11 +2047,53 @@
       "css_code": "\\00A9"
     },
     {
+      "symbol": "ª",
+      "unicode": "U+00AA",
+      "alt_code": "0170",
+      "html_code": "&#170;",
+      "css_code": "\\00AA"
+    },
+    {
+      "symbol": "«",
+      "unicode": "U+00AB",
+      "alt_code": "0171",
+      "html_code": "&#171;",
+      "css_code": "\\00AB"
+    },
+    {
+      "symbol": "¬",
+      "unicode": "U+00AC",
+      "alt_code": "0172",
+      "html_code": "&#172;",
+      "css_code": "\\00AC"
+    },
+    {
+      "symbol": "®",
+      "unicode": "U+00AE",
+      "alt_code": "0174",
+      "html_code": "&#174;",
+      "css_code": "\\00AE"
+    },
+    {
       "symbol": "¯",
       "unicode": "U+00AF",
       "alt_code": "0175",
       "html_code": "&#175;",
       "css_code": "\\00AF"
+    },
+    {
+      "symbol": "°",
+      "unicode": "U+00B0",
+      "alt_code": "0176",
+      "html_code": "&#176;",
+      "css_code": "\\00B0"
+    },
+    {
+      "symbol": "±",
+      "unicode": "U+00B1",
+      "alt_code": "0177",
+      "html_code": "&#177;",
+      "css_code": "\\00B1"
     },
     {
       "symbol": "²",
@@ -1921,263 +2117,18 @@
       "css_code": "\\00B4"
     },
     {
-      "symbol": "·",
-      "unicode": "U+00B7",
-      "alt_code": "0183",
-      "html_code": "&#183;",
-      "css_code": "\\00B7"
+      "symbol": "µ",
+      "unicode": "U+00B5",
+      "alt_code": "0181",
+      "html_code": "&#181;",
+      "css_code": "\\00B5"
     },
     {
-      "symbol": "¸",
-      "unicode": "U+00B8",
-      "alt_code": "0184",
-      "html_code": "&#184;",
-      "css_code": "\\00B8"
-    },
-    {
-      "symbol": "¹",
-      "unicode": "U+00B9",
-      "alt_code": "0185",
-      "html_code": "&#185;",
-      "css_code": "\\00B9"
-    },
-    {
-      "symbol": "¼",
-      "unicode": "U+00BC",
-      "alt_code": "0188",
-      "html_code": "&#188;",
-      "css_code": "\\00BC"
-    },
-    {
-      "symbol": "½",
-      "unicode": "U+00BD",
-      "alt_code": "0189",
-      "html_code": "&#189;",
-      "css_code": "\\00BD"
-    },
-    {
-      "symbol": "¾",
-      "unicode": "U+00BE",
-      "alt_code": "0190",
-      "html_code": "&#190;",
-      "css_code": "\\00BE"
-    },
-    {
-      "symbol": "À",
-      "unicode": "U+00C0",
-      "alt_code": "0192",
-      "html_code": "&#192;",
-      "css_code": "\\00C0"
-    },
-    {
-      "symbol": "€",
-      "unicode": "U+20AC",
-      "alt_code": "0128",
-      "html_code": "&#128;",
-      "css_code": "\\20AC"
-    },
-    {
-      "symbol": "‘",
-      "unicode": "U+2018",
-      "alt_code": "0130",
-      "html_code": "&#130;",
-      "css_code": "\\2018"
-    },
-    {
-      "symbol": "„",
-      "unicode": "U+201E",
-      "alt_code": "0132",
-      "html_code": "&#132;",
-      "css_code": "\\201E"
-    },
-    {
-      "symbol": "…",
-      "unicode": "U+2026",
-      "alt_code": "0133",
-      "html_code": "&#133;",
-      "css_code": "\\2026"
-    },
-    {
-      "symbol": "†",
-      "unicode": "U+2020",
-      "alt_code": "0134",
-      "html_code": "&#134;",
-      "css_code": "\\2020"
-    },
-    {
-      "symbol": "‡",
-      "unicode": "U+2021",
-      "alt_code": "0135",
-      "html_code": "&#135;",
-      "css_code": "\\2021"
-    },
-    {
-      "symbol": "‰",
-      "unicode": "U+2030",
-      "alt_code": "0137",
-      "html_code": "&#137;",
-      "css_code": "\\2030"
-    },
-    {
-      "symbol": "Š",
-      "unicode": "U+0160",
-      "alt_code": "0138",
-      "html_code": "&#138;",
-      "css_code": "\\0160"
-    },
-    {
-      "symbol": "‹",
-      "unicode": "U+2039",
-      "alt_code": "0139",
-      "html_code": "&#139;",
-      "css_code": "\\2039"
-    },
-    {
-      "symbol": "Œ",
-      "unicode": "U+0152",
-      "alt_code": "0140",
-      "html_code": "&#140;",
-      "css_code": "\\0152"
-    },
-    {
-      "symbol": "Ž",
-      "unicode": "U+017D",
-      "alt_code": "0142",
-      "html_code": "&#142;",
-      "css_code": "\\017D"
-    },
-    {
-      "symbol": "‘",
-      "unicode": "U+2018",
-      "alt_code": "0145",
-      "html_code": "&#145;",
-      "css_code": "\\2018"
-    },
-    {
-      "symbol": "’",
-      "unicode": "U+2019",
-      "alt_code": "0146",
-      "html_code": "&#146;",
-      "css_code": "\\2019"
-    },
-    {
-      "symbol": "“",
-      "unicode": "U+201C",
-      "alt_code": "0147",
-      "html_code": "&#147;",
-      "css_code": "\\201C"
-    },
-    {
-      "symbol": "”",
-      "unicode": "U+201D",
-      "alt_code": "0148",
-      "html_code": "&#148;",
-      "css_code": "\\201D"
-    },
-    {
-      "symbol": "—",
-      "unicode": "U+2014",
-      "alt_code": "0151",
-      "html_code": "&#151;",
-      "css_code": "\\2014"
-    },
-    {
-      "symbol": "™",
-      "unicode": "U+2122",
-      "alt_code": "0153",
-      "html_code": "&#153;",
-      "css_code": "\\2122"
-    },
-    {
-      "symbol": "š",
-      "unicode": "U+0161",
-      "alt_code": "0154",
-      "html_code": "&#154;",
-      "css_code": "\\0161"
-    },
-    {
-      "symbol": "›",
-      "unicode": "U+203A",
-      "alt_code": "0155",
-      "html_code": "&#155;",
-      "css_code": "\\203A"
-    },
-    {
-      "symbol": "œ",
-      "unicode": "U+0153",
-      "alt_code": "0156",
-      "html_code": "&#156;",
-      "css_code": "\\0153"
-    },
-    {
-      "symbol": "ž",
-      "unicode": "U+017E",
-      "alt_code": "0158",
-      "html_code": "&#158;",
-      "css_code": "\\017E"
-    },
-    {
-      "symbol": "Ÿ",
-      "unicode": "U+0178",
-      "alt_code": "0159",
-      "html_code": "&#159;",
-      "css_code": "\\0178"
-    },
-    {
-      "symbol": "¤",
-      "unicode": "U+00A4",
-      "alt_code": "0164",
-      "html_code": "&#164;",
-      "css_code": "\\00A4"
-    },
-    {
-      "symbol": "¦",
-      "unicode": "U+00A6",
-      "alt_code": "0166",
-      "html_code": "&#166;",
-      "css_code": "\\00A6"
-    },
-    {
-      "symbol": "¨",
-      "unicode": "U+00A8",
-      "alt_code": "0168",
-      "html_code": "&#168;",
-      "css_code": "\\00A8"
-    },
-    {
-      "symbol": "©",
-      "unicode": "U+00A9",
-      "alt_code": "0169",
-      "html_code": "&#169;",
-      "css_code": "\\00A9"
-    },
-    {
-      "symbol": "¯",
-      "unicode": "U+00AF",
-      "alt_code": "0175",
-      "html_code": "&#175;",
-      "css_code": "\\00AF"
-    },
-    {
-      "symbol": "²",
-      "unicode": "U+00B2",
-      "alt_code": "0178",
-      "html_code": "&#178;",
-      "css_code": "\\00B2"
-    },
-    {
-      "symbol": "³",
-      "unicode": "U+00B3",
-      "alt_code": "0179",
-      "html_code": "&#179;",
-      "css_code": "\\00B3"
-    },
-    {
-      "symbol": "´",
-      "unicode": "U+00B4",
-      "alt_code": "0180",
-      "html_code": "&#180;",
-      "css_code": "\\00B4"
+      "symbol": "¶",
+      "unicode": "U+00B6",
+      "alt_code": "0182",
+      "html_code": "&#182;",
+      "css_code": "\\00B6"
     },
     {
       "symbol": "·",
@@ -2201,6 +2152,20 @@
       "css_code": "\\00B9"
     },
     {
+      "symbol": "º",
+      "unicode": "U+00BA",
+      "alt_code": "0186",
+      "html_code": "&#186;",
+      "css_code": "\\00BA"
+    },
+    {
+      "symbol": "»",
+      "unicode": "U+00BB",
+      "alt_code": "0187",
+      "html_code": "&#187;",
+      "css_code": "\\00BB"
+    },
+    {
       "symbol": "¼",
       "unicode": "U+00BC",
       "alt_code": "0188",
@@ -2220,6 +2185,13 @@
       "alt_code": "0190",
       "html_code": "&#190;",
       "css_code": "\\00BE"
+    },
+    {
+      "symbol": "¿",
+      "unicode": "U+00BF",
+      "alt_code": "0191",
+      "html_code": "&#191;",
+      "css_code": "\\00BF"
     },
     {
       "symbol": "À",
